@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>SFA</SiteCode>
+	<SiteName>argusleader</SiteName>
+	<Url>classifieds.argusleader.com</Url>
+	<SiteUrl>http://www.argusleader.com/</SiteUrl>
+	<BusName>Argus Leader</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>SFA</SiteGroup>
+	<City>Sioux Falls</City>
+	<State>South Dakota</State>
+	<Domain>argusleader.com</Domain>
+	<DFP>sd-siouxfalls-C1085</DFP>
+	<DFPmobile>sd-siouxfalls-mobile-C1085</DFPmobile>
+	<Gpaper>gpaper170</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.argusleader.com\/#ht=Headerhome","News":"http:\/\/www.argusleader.com\/news\/#ht=Headernews","Sports":"http:\/\/www.argusleader.com\/sports\/#ht=Headersports","Link":"http:\/\/www.argusleader.com\/link\/#ht=Headerlink","Life":"http:\/\/www.argusleader.com\/life\/#ht=Headerlife","Opinion":"http:\/\/www.argusleader.com\/opinion#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/argusleader\/#ht=Headerobituaries","Archives":"https:\/\/user.argusleader.com\/PSIF-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fargusleader.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.argusleader.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.argusleader.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.argusleader.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.argusleader.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>43.544598</Lat>
+	<Lng>-96.731102</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

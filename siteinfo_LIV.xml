@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>LIV</SiteCode>
+	<SiteName>hometownlife</SiteName>
+	<Url>classifieds.hometownlife.com</Url>
+	<SiteUrl>http://www.hometownlife.com/</SiteUrl>
+	<BusName>Observer & Eccentric Newspapers</BusName>
+	<Palette>1</Palette>
+	<SiteGroup>LCP,LIV,DFP,TDN</SiteGroup>
+	<City>Detroit</City>
+	<State>Michigan</State>
+	<Domain>hometownlife.com</Domain>
+	<DFP>mi-livonia-C1551</DFP>
+	<DFPmobile>mi-livonia-mobile-C1551</DFPmobile>
+	<Gpaper>gpaper224</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.hometownlife.com\/#ht=Headerhome","News":"http:\/\/www.hometownlife.com\/news\/#ht=Headernews","Sports":"http:\/\/www.hometownlife.com\/sports\/#ht=Headersports","Elections 2016":"http:\/\/www.hometownlife.com\/section\/elections-2016\/#ht=Headerelections-2016","Business":"http:\/\/www.hometownlife.com\/business\/#ht=Headerbusiness","Life":"http:\/\/www.hometownlife.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.hometownlife.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.hometownlife.com\/opinion\/#ht=Headeropinion","Archives":"https:\/\/user.hometownlife.com\/POEN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fhometownlife.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.hometownlife.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.hometownlife.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.hometownlife.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"Observer":"http:\/\/www.hometownlife.com#","Eccentric":"http:\/\/www.hometownlife.com#","Hometown":"http:\/\/www.hometownlife.com#","Sports":"http:\/\/www.hometownlife.com\/section\/sports","Business":"http:\/\/www.hometownlife.com\/section\/business","Life":"http:\/\/www.hometownlife.com\/section\/life","Opinion":"http:\/\/www.hometownlife.com\/section\/opinion","Obituaries":"http:\/\/deathnotices.michigan.com\/results.php?page=1&0010=true&page=1&0050=t rue&name=&date-range=30&publication=OE","Help":"http:\/\/www.hometownlife.com\/help"}</BottomLinks>
+	<Lat>42.328861</Lat>
+	<Lng>-83.120667</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

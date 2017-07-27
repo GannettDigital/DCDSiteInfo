@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>SBY</SiteCode>
+	<SiteName>delmarvanow</SiteName>
+	<Url>classifieds.delmarvanow.com</Url>
+	<SiteUrl>http://www.delmarvanow.com/</SiteUrl>
+	<BusName>Delmarva Daily Times</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>SBY</SiteGroup>
+	<City>Salisbury</City>
+	<State>Maryland</State>
+	<Domain>delmarvanow.com</Domain>
+	<DFP>md-salisbury-C1528</DFP>
+	<DFPmobile>md-salisbury-mobile-C1528</DFPmobile>
+	<Gpaper>gpaper168</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.delmarvanow.com\/#ht=Headerhome","News":"http:\/\/www.delmarvanow.com\/news\/#ht=Headernews","Sports":"http:\/\/www.delmarvanow.com\/sports\/#ht=Headersports","Features":"http:\/\/www.delmarvanow.com\/features\/#ht=Headerfeatures","Entertainment":"http:\/\/www.delmarvanow.com\/entertainment\/#ht=Headerentertainment","Business":"http:\/\/www.delmarvanow.com\/business\/#ht=Headerbusiness","Opinion":"http:\/\/www.delmarvanow.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/delmarvanow\/#ht=Headerobituaries","Archives":"https:\/\/user.delmarvanow.com\/PSAY-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fdelmarvanow.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.delmarvanow.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.delmarvanow.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.delmarvanow.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.delmarvanow.com\/section\/NEWS","Sports":"http:\/\/www.delmarvanow.com\/section\/SPORTS","Opinion":"http:\/\/www.delmarvanow.com\/section\/OPINION","Business":"http:\/\/www.delmarvanow.com\/section\/BUSINESS","Features":"http:\/\/www.delmarvanow.com\/section\/LIFESTYLE","Entertainment":"http:\/\/www.delmarvanow.com\/section\/ENTERTAINMENT","Obituaries":"http:\/\/www.legacy.com\/obituaries\/DelMarvaNow\/","Weeklies":"http:\/\/www.delmarvanow.com\/section\/weeklies","Help":"http:\/\/www.delmarvanow.com\/section\/CUSTOMERSERVICE"}</BottomLinks>
+	<Lat>38.360676</Lat>
+	<Lng>-75.599365</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

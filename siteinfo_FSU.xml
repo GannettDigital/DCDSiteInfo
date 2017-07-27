@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>FSU</SiteCode>
+	<SiteName>fsunews</SiteName>
+	<Url>classifieds.fsunews.com</Url>
+	<SiteUrl>http://www.fsunews.com/</SiteUrl>
+	<BusName>FSU News</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>FSU</SiteGroup>
+	<City>Tallahassee</City>
+	<State>Florida</State>
+	<Domain>fsunews.com</Domain>
+	<DFP>fl-tallahassee-fsu-C1558</DFP>
+	<DFPmobile>fl-tallahassee-fsu-mobile-C1558</DFPmobile>
+	<Gpaper>gpaperfsunews</Gpaper>
+	<TopLinks>{"News":"http:\/\/www.fsunews.com\/news\/#ht=Headernews","Sports":"http:\/\/www.fsunews.com\/sports\/#ht=Headersports","Views":"http:\/\/www.fsunews.com\/views\/#ht=Headerviews","Arts & Culture":"http:\/\/www.fsunews.com\/arts-culture\/#ht=Headerarts-culture","Media":"http:\/\/www.fsunews.com\/media\/latest\/home\/#ht=Headermedia","More":"http:\/\/www.fsunews.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>30.449327</Lat>
+	<Lng>-84.300743</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

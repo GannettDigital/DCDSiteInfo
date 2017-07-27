@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>FRE</SiteCode>
+	<SiteName>thenews-messenger</SiteName>
+	<Url>classifieds.thenews-messenger.com</Url>
+	<SiteUrl>http://www.thenews-messenger.com/</SiteUrl>
+	<BusName>The News-Messenger</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>BUC,CGO,COS,FRE,LAN,MAR,MNJ,NEW,PTC,ZAN</SiteGroup>
+	<City>Fremont</City>
+	<State>Ohio</State>
+	<Domain>thenews-messenger.com</Domain>
+	<DFP>oh-fremont-C1020</DFP>
+	<DFPmobile>oh-fremont-mobile-C1020</DFPmobile>
+	<Gpaper>gpaper129</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.thenews-messenger.com\/#ht=Headerhome","News":"http:\/\/www.thenews-messenger.com\/news\/#ht=Headernews","Sports":"http:\/\/www.thenews-messenger.com\/sports\/#ht=Headersports","Life & Events":"http:\/\/www.thenews-messenger.com\/life-events\/#ht=Headerlife-events","Obituaries":"http:\/\/www.legacy.com\/obituaries\/thenews-messenger\/#ht=Headerobituaries","Elections 2016":"http:\/\/www.thenews-messenger.com\/section\/elections-2016\/#ht=Headerelections-2016","Archives":"https:\/\/user.thenews-messenger.com\/PFRE-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fthenews-messenger.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.thenews-messenger.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.thenews-messenger.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.thenews-messenger.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.thenews-messenger.com\/section\/news01","Ohio News":"http:\/\/www.centralohio.com\/","Sports":"http:\/\/www.thenews-messenger.com\/section\/sports","Entertainment":"http:\/\/www.thenews-messenger.com\/section\/entertainment","Life":"http:\/\/www.thenews-messenger.com\/section\/lifestyle","Data Center":"http:\/\/www.thenews-messenger.com\/data","Obituaries":"http:\/\/www.legacy.com\/obituaries\/thenews-messenger\/","Video":"http:\/\/www.thenews-messenger.com\/section\/videonetwork","Help":"http:\/\/www.thenews-messenger.com\/help"}</BottomLinks>
+	<Lat>41.350330</Lat>
+	<Lng>-83.121864</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

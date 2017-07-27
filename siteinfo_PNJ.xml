@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>PNJ</SiteCode>
+	<SiteName>pnj</SiteName>
+	<Url>classifieds.pnj.com</Url>
+	<SiteUrl>http://www.pnj.com/</SiteUrl>
+	<BusName>Pensacola News Journal</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>PNJ</SiteGroup>
+	<City>Pensacola</City>
+	<State>Florida</State>
+	<Domain>pnj.com</Domain>
+	<DFP>FL-Pensacola-C1063</DFP>
+	<DFPmobile>fl-pensacola-mobile-C1063</DFPmobile>
+	<Gpaper>gpaper157</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.pnj.com\/home#ht=Headerhome","News":"http:\/\/www.pnj.com\/news\/#ht=Headernews","Sports":"http:\/\/www.pnj.com\/sports#ht=Headersports","Entertainment":"http:\/\/www.pnj.com\/entertainment\/#ht=Headerentertainment","Coast Life":"http:\/\/www.pnj.com\/coast-life\/#ht=Headercoast-life","Opinion":"http:\/\/www.pnj.com\/opinion#ht=Headeropinion","Travel":"http:\/\/www.pnj.com\/travel\/#ht=Headertravel","Obituaries":"http:\/\/www.legacy.com\/obituaries\/pensacolanewsjournal\/#ht=Headerobituaries","Media":"http:\/\/www.pnj.com\/media\/latest\/news\/#ht=Headermedia","Archives":"https:\/\/user.pnj.com\/PPEN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fpnj.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.pnj.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.pnj.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.pnj.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>30.421309</Lat>
+	<Lng>-87.216911</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

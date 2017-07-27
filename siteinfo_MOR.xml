@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>MOR</SiteCode>
+	<SiteName>dailyrecord</SiteName>
+	<Url>classifieds.dailyrecord.com</Url>
+	<SiteUrl>http://www.dailyrecord.com/</SiteUrl>
+	<BusName>Daily Record</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>ASB,CNJ,MOR</SiteGroup>
+	<City>Morristown</City>
+	<State>New Jersey</State>
+	<Domain>dailyrecord.com</Domain>
+	<DFP>nj-morristown-C1174</DFP>
+	<DFPmobile>nj-morristown-mobile-C1174</DFPmobile>
+	<Gpaper>gpaper149</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.dailyrecord.com\/#ht=Headerhome","News":"http:\/\/www.dailyrecord.com\/news\/#ht=Headernews","Elections":"http:\/\/www.dailyrecord.com\/elections\/#ht=Headerelections","Sports":"http:\/\/www.dailyrecord.com\/sports\/#ht=Headersports","Life":"http:\/\/www.dailyrecord.com\/life\/#ht=Headerlife","The Good Life":"http:\/\/www.dailyrecord.com\/good-life\/#ht=Headergood-life","Opinion":"http:\/\/www.dailyrecord.com\/opinion\/#ht=Headeropinion","Entertainment":"http:\/\/www.dailyrecord.com\/entertainment\/#ht=Headerentertainment","Obituaries":"http:\/\/www.legacy.com\/obituaries\/dailyrecord\/#ht=Headerobituaries","Archives":"https:\/\/user.dailyrecord.com\/PMOR-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fdailyrecord.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.dailyrecord.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.dailyrecord.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.dailyrecord.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.dailyrecord.com\/section\/NJNEWS","Sports":"http:\/\/www.dailyrecord.com\/section\/NJSPORTS","Communities":"http:\/\/www.dailyrecord.com\/section\/NJTOWNS","Photo\/Video":"http:\/\/www.dailyrecord.com\/section\/galleriessectionfront","Leisure":"http:\/\/www.dailyrecord.com\/section\/NJENT","Opinion":"http:\/\/www.dailyrecord.com\/section\/NJOPINION","Obits":"http:\/\/www.legacy.com\/obituaries\/dailyrecord\/","Deals":"http:\/\/www.morrisbestbuys.com\/","Help":"http:\/\/www.dailyrecord.com\/section\/CUSTOMERSERVICE"}</BottomLinks>
+	<Lat>40.796768</Lat>
+	<Lng>-74.481544</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>GMTI</SiteCode>
+	<SiteName>gmti</SiteName>
+	<Url>classifieds.gmti.com</Url>
+	<SiteUrl>http://www.gmti.com/</SiteUrl>
+	<BusName>GMTI</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>GMTI</SiteGroup>
+	<City>Hanover</City>
+	<State>Pennsylvania</State>
+	<Domain>gmti.com</Domain>
+	<DFP>pa-hanover-C1285</DFP>
+	<DFPmobile>pa-hanover-mobile-C1285</DFPmobile>
+	<Gpaper></Gpaper>
+	<TopLinks></TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>39.800598</Lat>
+	<Lng>-76.983002</Lng>
+	<ImgSiteName>gmti</ImgSiteName>
+	<SiteLinks>{"cars": "http://www.lohud.com/cars","jobs": "http://www.lohud.com/jobs","homes": "http://www.lohud.com/homes","img": {"cars": "http://classifieds.lohud.com/img/partners/130-cars.gif","jobs": "http://www.gannett-cdn.com/media/2015/12/10/USCPTraining/USCPTraining/635853592402127398-130-careerbuilder-new.png","homes": "http://classifieds.lohud.com/img/partners/130-homefinder.gif"}}</SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

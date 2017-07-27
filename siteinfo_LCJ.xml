@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>LCJ</SiteCode>
+	<SiteName>courier-journal</SiteName>
+	<Url>classifieds.courier-journal.com</Url>
+	<SiteUrl>http://www.courier-journal.com/</SiteUrl>
+	<BusName>The Courier-Journal</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>LCJ</SiteGroup>
+	<City>Louisville</City>
+	<State>Kentucky</State>
+	<Domain>courier-journal.com</Domain>
+	<DFP>ky-louisville-C1107</DFP>
+	<DFPmobile>ky-louisville-mobile-C1107</DFPmobile>
+	<Gpaper>gpaper145</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.courier-journal.com\/#ht=Headerhome","News":"http:\/\/www.courier-journal.com\/news\/#ht=Headernews","Sports":"http:\/\/www.courier-journal.com\/sports\/#ht=Headersports","Lifestyle":"http:\/\/www.courier-journal.com\/lifestyle\/#ht=Headerlifestyle","Entertainment":"http:\/\/www.courier-journal.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.courier-journal.com\/opinion\/#ht=Headeropinion","Kentucky Derby":"http:\/\/www.courier-journal.com\/sports\/horses\/#ht=Headerkentucky-derby","Elections 2016":"http:\/\/www.courier-journal.com\/section\/elections-2016\/#ht=Headerelections-2016","Obituaries":"http:\/\/www.legacy.com\/obituaries\/louisville\/#ht=Headerobituaries","Xtras!":"http:\/\/www.courier-journal.com\/xtras\/#ht=Headerxtras","Archives":"http:\/\/archives.courier-journal.com#ht=Headerarchives","USA TODAY":"http:\/\/www.courier-journal.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.courier-journal.com\/media\/latest\/news\/#ht=Headermedia","Summer Camps":"http:\/\/interactives.courier-journal.com\/community\/camp-guide\/#!\/listings#ht=Headersummer-camps","More":"http:\/\/www.courier-journal.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>38.252666</Lat>
+	<Lng>-85.758453</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

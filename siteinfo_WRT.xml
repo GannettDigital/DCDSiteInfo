@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>WRT</SiteCode>
+	<SiteName>wisconsinrapidstribune</SiteName>
+	<Url>classifieds.wisconsinrapidstribune.com</Url>
+	<SiteUrl>http://www.wisconsinrapidstribune.com/</SiteUrl>
+	<BusName>The Wisconsin Rapids Daily Tribune</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>GPG,SHE,AAP,APC,MAN,MNH,OSH,SPJ,WDH,WRT,DCA,OCR,KSN</SiteGroup>
+	<City>Wisconsin Rapids</City>
+	<State>Wisconsin</State>
+	<Domain>wisconsinrapidstribune.com</Domain>
+	<DFP>wi-wisconsinrapids-C1520</DFP>
+	<DFPmobile>wi-wisconsinrapids-mobile-C1520</DFPmobile>
+	<Gpaper>gpaper193</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.wisconsinrapidstribune.com\/#ht=Headerhome","News":"http:\/\/www.wisconsinrapidstribune.com\/news\/#ht=Headernews","Business":"http:\/\/www.wisconsinrapidstribune.com\/business\/#ht=Headerbusiness","Sports":"http:\/\/www.wisconsinrapidstribune.com\/sports\/#ht=Headersports","Packers":"http:\/\/www.wisconsinrapidstribune.com\/packers\/#ht=Headerpackers","Opinion":"http:\/\/www.wisconsinrapidstribune.com\/opinion\/#ht=Headeropinion","Go 715!":"http:\/\/www.wisconsinrapidstribune.com\/go-715\/#ht=Headergo-715","Life":"http:\/\/www.wisconsinrapidstribune.com\/life\/#ht=Headerlife","Outdoors":"http:\/\/www.wisconsinrapidstribune.com\/outdoors\/#ht=Headeroutdoors","Archives":"https:\/\/user.wisconsinrapidstribune.com\/PWIR-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fwisconsinrapidstribune.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.wisconsinrapidstribune.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.wisconsinrapidstribune.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.wisconsinrapidstribune.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.wisconsinrapidstribune.com\/section\/wrt01","Sports":"http:\/\/www.wisconsinrapidstribune.com\/section\/wrt02","Business":"http:\/\/www.wisconsinrapidstribune.com\/section\/wrt03","Opinion":"http:\/\/www.wisconsinrapidstribune.com\/section\/wrt06","Video\/Photos":"http:\/\/www.wisconsinrapidstribune.com\/section\/permgall","Entertainment":"http:\/\/www.centralwisconsinhub.com","Life":"http:\/\/www.wisconsinrapidstribune.com\/section\/wrt04","Obits\/Records":"http:\/\/www.legacy.com\/obituaries\/wisconsinrapidstribune\/","Help":"http:\/\/www.wisconsinrapidstribune.com\/section\/help"}</BottomLinks>
+	<Lat>44.383575</Lat>
+	<Lng>-89.817345</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

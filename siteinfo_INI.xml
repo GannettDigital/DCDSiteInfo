@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>INI</SiteCode>
+	<SiteName>indystar</SiteName>
+	<Url>classifieds.indystar.com</Url>
+	<SiteUrl>http://www.indystar.com/</SiteUrl>
+	<BusName>The Indianapolis Star</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>INI,MNI,RCH,LAF</SiteGroup>
+	<City>Indianapolis</City>
+	<State>Indiana</State>
+	<Domain>indystar.com</Domain>
+	<DFP>in-indianapolis-C1532</DFP>
+	<DFPmobile>in-indianapolis-mobile-C1532</DFPmobile>
+	<Gpaper>gpaper138</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.indystar.com\/#ht=Headerhome","News":"http:\/\/www.indystar.com\/news\/#ht=Headernews","Sports":"http:\/\/www.indystar.com\/sports\/#ht=Headersports","Life":"http:\/\/www.indystar.com\/life\/#ht=Headerlife","Things To Do":"http:\/\/www.indystar.com\/thingstodo\/#ht=Headerthingstodo","Travel":"http:\/\/www.indystar.com\/travel\/#ht=Headertravel","Opinion":"http:\/\/www.indystar.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/indystar\/#ht=Headerobituaries","Weather":"http:\/\/www.indystar.com\/weather\/#ht=Headerweather","Archives":"https:\/\/user.indystar.com\/PIND-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Findystar.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.indystar.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.indystar.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.indystar.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.indystar.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>39.768402</Lat>
+	<Lng>-86.158066</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>COS</SiteCode>
+	<SiteName>coshoctontribune</SiteName>
+	<Url>classifieds.coshoctontribune.com</Url>
+	<SiteUrl>http://www.coshoctontribune.com/</SiteUrl>
+	<BusName>Coshocton Tribune</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>BUC,CGO,COS,FRE,LAN,MAR,MNJ,NEW,PTC,ZAN</SiteGroup>
+	<City>Coshocton</City>
+	<State>Ohio</State>
+	<Domain>coshoctontribune.com</Domain>
+	<DFP>oh-coshocton-C1502</DFP>
+	<DFPmobile>oh-coshocton-mobile-C1502</DFPmobile>
+	<Gpaper>gpaper232</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.coshoctontribune.com\/#ht=Headerhome","News":"http:\/\/www.coshoctontribune.com\/news\/#ht=Headernews","Sports":"http:\/\/www.coshoctontribune.com\/sports\/#ht=Headersports","Life & Events":"http:\/\/www.coshoctontribune.com\/life-events\/#ht=Headerlife-events","Obituaries":"http:\/\/www.legacy.com\/obituaries\/coshoctontribune\/#ht=Headerobituaries","Elections 2016":"http:\/\/www.coshoctontribune.com\/section\/elections-2016\/#ht=Headerelections-2016","Archives":"https:\/\/user.coshoctontribune.com\/PCOS-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fcoshoctontribune.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.coshoctontribune.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.coshoctontribune.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.coshoctontribune.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.coshoctontribune.com\/section\/NEWS01","Ohio News":"http:\/\/www.centralohio.com\/","Sports":"http:\/\/www.coshoctontribune.com\/section\/sports","Entertainment":"http:\/\/www.coshoctontribune.com\/section\/entertainment","Life":"http:\/\/www.coshoctontribune.com\/section\/lifestyle","Data Center":"http:\/\/www.coshoctontribune.com\/data","Obituaries":"http:\/\/www.legacy.com\/obituaries\/coshoctontribune\/","Video":"http:\/\/www.coshoctontribune.com\/section\/videonetwork?odyssey=nav|s|videos","Help":"http:\/\/www.coshoctontribune.com\/section\/customerservice"}</BottomLinks>
+	<Lat>40.272015</Lat>
+	<Lng>-81.859573</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

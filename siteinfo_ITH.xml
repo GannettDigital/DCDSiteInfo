@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>ITH</SiteCode>
+	<SiteName>ithacajournal</SiteName>
+	<Url>classifieds.ithacajournal.com</Url>
+	<SiteUrl>http://www.ithacajournal.com/</SiteUrl>
+	<BusName>The Ithaca Journal</BusName>
+	<Palette>8</Palette>
+	<SiteGroup>ELM,ITH,BGM</SiteGroup>
+	<City>Ithaca</City>
+	<State>New York</State>
+	<Domain>ithacajournal.com</Domain>
+	<DFP>ny-ithaca-C1038</DFP>
+	<DFPmobile>ny-ithaca-mobile-C1038</DFPmobile>
+	<Gpaper>gpaper140</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.ithacajournal.com\/#ht=Headerhome","News":"http:\/\/www.ithacajournal.com\/news\/#ht=Headernews","Sports":"http:\/\/www.ithacajournal.com\/sports\/#ht=Headersports","Opinion":"http:\/\/www.ithacajournal.com\/opinion\/#ht=Headeropinion","Business":"http:\/\/www.ithacajournal.com\/business\/#ht=Headerbusiness","Go!":"http:\/\/www.ithacajournal.com\/go\/#ht=Headergo","NY Data":"http:\/\/data.ithacajournal.com#ht=Headerny-data","Obituaries":"http:\/\/www.legacy.com\/obituaries\/theithacajournal\/#ht=Headerobituaries","Video-Photo":"http:\/\/www.ithacajournal.com\/media\/latest\/news\/#ht=Headervideo-photo","Travel":"http:\/\/www.ithacajournal.com\/travel\/#ht=Headertravel","Archives":"https:\/\/user.ithacajournal.com\/PITH-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fithacajournal.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.ithacajournal.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.ithacajournal.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.ithacajournal.com\/section\/news","Sports":"http:\/\/www.ithacajournal.com\/section\/sports","Events":"http:\/\/search.theithacajournal.com\/sp?aff=1000","Viewpoints":"http:\/\/www.ithacajournal.com\/section\/viewpoints","Business":"http:\/\/www.ithacajournal.com\/section\/business","Obituaries":"http:\/\/www.legacy.com\/obituaries\/theithacajournal\/","Life":"http:\/\/www.ithacajournal.com\/section\/life","Social":"http:\/\/www.ithacajournal.com\/section\/social","Help":"http:\/\/www.ithacajournal.com\/viewart\/99999999\/CUSTOMER\/399990038&template=theme&theme=CSITH"}</BottomLinks>
+	<Lat>42.443962</Lat>
+	<Lng>-76.501884</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

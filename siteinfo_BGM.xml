@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>BGM</SiteCode>
+	<SiteName>pressconnects</SiteName>
+	<Url>classifieds.pressconnects.com</Url>
+	<SiteUrl>http://www.pressconnects.com/</SiteUrl>
+	<BusName>Press & Sun-Bulletin</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>ELM,ITH,BGM</SiteGroup>
+	<City>Binghamton</City>
+	<State>New York</State>
+	<Domain>pressconnects.com</Domain>
+	<DFP>ny-binghamton-C1007</DFP>
+	<DFPmobile>ny-binghamton-mobile-C1007</DFPmobile>
+	<Gpaper>gpaper112</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.pressconnects.com\/home\/#ht=Headerhome","News":"http:\/\/www.pressconnects.com\/news\/#ht=Headernews","Sports":"http:\/\/www.pressconnects.com\/sports\/#ht=Headersports","Opinion":"http:\/\/www.pressconnects.com\/opinion\/#ht=Headeropinion","Business":"http:\/\/www.pressconnects.com\/business\/#ht=Headerbusiness","Go!":"http:\/\/www.pressconnects.com\/go\/#ht=Headergo","Voices":"http:\/\/www.pressconnects.com\/southern-tier-voices\/#ht=Headervoices","NY Data":"http:\/\/data.pressconnects.com#ht=Headerny-data","Obituaries":"http:\/\/www.legacy.com\/obituaries\/pressconnects\/#ht=Headerobituaries","Video-Photo":"http:\/\/www.pressconnects.com\/media\/latest\/news\/#ht=Headervideo-photo","Travel":"http:\/\/www.pressconnects.com\/travel\/#ht=Headertravel","Archives":"https:\/\/user.pressconnects.com\/PBIN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fpressconnects.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.pressconnects.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.pressconnects.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.pressconnects.com\/section\/news","Sports":"http:\/\/www.pressconnects.com\/section\/sports","Events":"http:\/\/localsearch.pressconnects.com\/sp?aff=1000","Viewpoints":"http:\/\/www.pressconnects.com\/section\/viewpoints","Business":"http:\/\/www.pressconnects.com\/section\/business","Obituaries":"http:\/\/www.pressconnects.com\/obits","Life":"http:\/\/www.pressconnects.com\/section\/life","Social":"http:\/\/www.pressconnects.com\/section\/social","Help":"http:\/\/www.pressconnects.com\/viewart\/99999999\/CUSTOMER\/110201046&template=theme&theme=CSBING"}</BottomLinks>
+	<Lat>42.098686</Lat>
+	<Lng>-75.917976</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>MNJ</SiteCode>
+	<SiteName>mansfieldnewsjournal</SiteName>
+	<Url>classifieds.mansfieldnewsjournal.com</Url>
+	<SiteUrl>http://www.mansfieldnewsjournal.com/</SiteUrl>
+	<BusName>Mansfield News Journal</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>BUC,CGO,COS,FRE,LAN,MAR,MNJ,NEW,PTC,ZAN</SiteGroup>
+	<City>Mansfield</City>
+	<State>Ohio</State>
+	<Domain>mansfieldnewsjournal.com</Domain>
+	<DFP>oh-mansfield-C1504</DFP>
+	<DFPmobile>oh-mansfield-mobile-C1504</DFPmobile>
+	<Gpaper>gpaper234</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.mansfieldnewsjournal.com\/#ht=Headerhome","News":"http:\/\/www.mansfieldnewsjournal.com\/news\/#ht=Headernews","Sports":"http:\/\/www.mansfieldnewsjournal.com\/sports\/#ht=Headersports","Business":"http:\/\/www.mansfieldnewsjournal.com\/business\/#ht=Headerbusiness","Life & Events":"http:\/\/www.mansfieldnewsjournal.com\/life-events\/#ht=Headerlife-events","Obituaries":"http:\/\/www.legacy.com\/obituaries\/mansfieldnewsjournal\/#ht=Headerobituaries","Elections 2016":"http:\/\/www.mansfieldnewsjournal.com\/section\/elections-2016\/#ht=Headerelections-2016","Archives":"https:\/\/user.mansfieldnewsjournal.com\/PMAN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fmansfieldnewsjournal.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.mansfieldnewsjournal.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.mansfieldnewsjournal.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.mansfieldnewsjournal.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.mansfieldnewsjournal.com\/section\/news01","Ohio News":"http:\/\/www.centralohio.com\/","Sports":"http:\/\/www.mansfieldnewsjournal.com\/section\/sports","Entertainment":"http:\/\/www.mansfieldnewsjournal.com\/section\/entertainment","Life":"http:\/\/www.mansfieldnewsjournal.com\/section\/lifestyle","Data Center":"http:\/\/www.mansfieldnewsjournal.com\/data","Obituaries":"http:\/\/www.legacy.com\/obituaries\/mansfieldnewsjournal\/","Video":"http:\/\/www.mansfieldnewsjournal.com\/section\/videonetwork?odyssey=nav|s|videos","Help":"http:\/\/www.mansfieldnewsjournal.com\/help"}</BottomLinks>
+	<Lat>40.758389</Lat>
+	<Lng>-82.515450</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

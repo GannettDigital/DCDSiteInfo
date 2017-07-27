@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>TLH</SiteCode>
+	<SiteName>tallahassee</SiteName>
+	<Url>classifieds.tallahassee.com</Url>
+	<SiteUrl>http://www.tallahassee.com/</SiteUrl>
+	<BusName>Tallahassee Democrat</BusName>
+	<Palette>8</Palette>
+	<SiteGroup>TLH</SiteGroup>
+	<City>Tallahassee</City>
+	<State>Florida</State>
+	<Domain>tallahassee.com</Domain>
+	<DFP>fl-tallahassee-C1558</DFP>
+	<DFPmobile>fl-tallahassee-mobile-C1558</DFPmobile>
+	<Gpaper>gpaper223</Gpaper>
+	<TopLinks>{"News":"http:\/\/www.tallahassee.com\/news\/#ht=Headernews","Sports":"http:\/\/www.tallahassee.com\/sports\/#ht=Headersports","Nolesports":"http:\/\/www.tallahassee.com\/nolesports\/#ht=Headernolesports","Policy & Politics":"http:\/\/www.tallahassee.com\/policy-politics\/#ht=Headerpolicy-politics","TLH":"http:\/\/www.tallahassee.com\/tlh\/#ht=Headertlh","Limelight":"http:\/\/www.tallahassee.com\/limelight\/#ht=Headerlimelight","Opinion":"http:\/\/www.tallahassee.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/tallahassee\/#ht=Headerobituaries","Archives":"https:\/\/user.tallahassee.com\/PTAL-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Ftallahassee.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.tallahassee.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.tallahassee.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.tallahassee.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.tallahassee.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"Local":"http:\/\/www.tallahassee.com\/section\/news01\/","Sports":"http:\/\/www.tallahassee.com\/section\/sports\/","Capital":"http:\/\/www.tallahassee.com\/section\/capitolnews\/","Opinion":"http:\/\/www.tallahassee.com\/section\/opinion\/","Limelight":"http:\/\/www.tallahassee.com\/section\/ent\/","Business":"http:\/\/www.tallahassee.com\/section\/business\/","Photo & Video":"http:\/\/www.tallahassee.com\/section\/galleriessectionfront?odyssey=mod|galleriespic\/","Obituaries":"http:\/\/www.legacy.com\/obituaries\/tallahassee\/","Help":"http:\/\/www.tallahassee.com\/section\/customerservice01\/"}</BottomLinks>
+	<Lat>30.438255</Lat>
+	<Lng>-84.280731</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

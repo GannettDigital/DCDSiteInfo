@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>ANI</SiteCode>
+	<SiteName>thetowntalk</SiteName>
+	<Url>classifieds.thetowntalk.com</Url>
+	<SiteUrl>http://www.thetowntalk.com/</SiteUrl>
+	<BusName>The Town Talk</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>ANI,MON,ODW,SHR,TDA</SiteGroup>
+	<City>Alexandria</City>
+	<State>Louisiana</State>
+	<Domain>thetowntalk.com</Domain>
+	<DFP>la-alexandria-C1533</DFP>
+	<DFPmobile>la-alexandria-mobile-C1533</DFPmobile>
+	<Gpaper>gpaper105</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.thetowntalk.com\/#ht=Headerhome","News":"http:\/\/www.thetowntalk.com\/news\/#ht=Headernews","Sports":"http:\/\/www.thetowntalk.com\/sports\/#ht=Headersports","Opinion":"http:\/\/www.thetowntalk.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/thetowntalk\/#ht=Headerobituaries","Features":"http:\/\/www.thetowntalk.com\/features\/#ht=Headerfeatures","Entertainment":"http:\/\/www.thetowntalk.com\/entertainment\/#ht=Headerentertainment","Archives":"https:\/\/user.thetowntalk.com\/PALE-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fthetowntalk.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.thetowntalk.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.thetowntalk.com\/media\/latest\/news\/#ht=Headermedia","Elections 2016":"http:\/\/www.thetowntalk.com\/elections-2016\/#ht=Headerelections-2016","More":"http:\/\/www.thetowntalk.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.thetowntalk.com\/section\/news01","Sports":"http:\/\/www.thetowntalk.com\/section\/SPORTS","Opinion":"http:\/\/www.thetowntalk.com\/section\/opinion","Weather":"http:\/\/thetowntalk.weather.gannettonline.com\/apps\/pbcs.dll\/section?Category=WEATHER01&city=Alexandria&state=LA","Obituaries":"http:\/\/www.legacy.com\/obituaries\/thetowntalk\/","Features":"http:\/\/www.thetowntalk.com\/section\/LIFESTYLE","Entertainment":"http:\/\/www.thetowntalk.com\/section\/ENTERTAINMENT","Multimedia":"http:\/\/www.thetowntalk.com\/section\/VIDEONETWORK","Help":"http:\/\/www.thetowntalk.com\/help"}</BottomLinks>
+	<Lat>31.311295</Lat>
+	<Lng>-92.445137</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

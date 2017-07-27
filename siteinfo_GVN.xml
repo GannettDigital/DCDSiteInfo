@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>GVN</SiteCode>
+	<SiteName>greenvilleonline</SiteName>
+	<Url>classifieds.greenvilleonline.com</Url>
+	<SiteUrl>http://www.greenvilleonline.com/</SiteUrl>
+	<BusName>The News-Press</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>GVN,GRE</SiteGroup>
+	<City>Greenville</City>
+	<State>South Carolina</State>
+	<Domain>greenvilleonline.com</Domain>
+	<DFP>sc-greenville-C1120</DFP>
+	<DFPmobile>sc-greenville-mobile-C1120</DFPmobile>
+	<Gpaper>gpaper133</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.greenvilleonline.com\/#ht=Headerhome","News":"http:\/\/www.greenvilleonline.com\/news\/#ht=Headernews","Sports":"http:\/\/www.greenvilleonline.com\/sports\/#ht=Headersports","Downtown":"http:\/\/www.greenvilleonline.com\/downtown\/#ht=Headerdowntown","Entertainment":"http:\/\/www.greenvilleonline.com\/entertainment\/#ht=Headerentertainment","Business":"http:\/\/www.greenvilleonline.com\/business\/#ht=Headerbusiness","Life":"http:\/\/www.greenvilleonline.com\/life\/#ht=Headerlife","HEALTH":"http:\/\/www.greenvilleonline.com\/health\/#ht=Headerhealth","Opinion":"http:\/\/www.greenvilleonline.com\/opinion\/#ht=Headeropinion","Archives":"https:\/\/user.greenvilleonline.com\/PGRE-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fgreenvilleonline.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.greenvilleonline.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.greenvilleonline.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.greenvilleonline.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.greenvilleonline.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>34.852619</Lat>
+	<Lng>-82.394012</Lng>
+	<ImgSiteName>greenvilleonline</ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

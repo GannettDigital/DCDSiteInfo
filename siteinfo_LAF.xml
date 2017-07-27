@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>LAF</SiteCode>
+	<SiteName>jconline</SiteName>
+	<Url>classifieds.jconline.com</Url>
+	<SiteUrl>http://www.jconline.com/</SiteUrl>
+	<BusName>Journal and Courier</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>INI,MNI,RCH,LAF</SiteGroup>
+	<City>Lafayette</City>
+	<State>Indiana</State>
+	<Domain>jconline.com</Domain>
+	<DFP>in-lafayette-C1048</DFP>
+	<DFPmobile>in-lafayette-mobile-C1048</DFPmobile>
+	<Gpaper>gpaper143</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.jconline.com\/#ht=Headerhome","News":"http:\/\/www.jconline.com\/news\/#ht=Headernews","Purdue":"http:\/\/www.jconline.com\/purdue\/#ht=Headerpurdue","Opinion":"http:\/\/www.jconline.com\/opinion\/#ht=Headeropinion","Sports":"http:\/\/www.jconline.com\/sports\/#ht=Headersports","Life":"http:\/\/www.jconline.com\/life\/#ht=Headerlife","Data":"http:\/\/www.jconline.com\/data\/#ht=Headerdata","Travel":"http:\/\/www.jconline.com\/travel\/#ht=Headertravel","Elections 2016":"http:\/\/www.jconline.com\/section\/global\/elections-2016\/#ht=Headerelections-2016","Obituaries":"http:\/\/www.legacy.com\/obituaries\/jconline\/#ht=Headerobituaries","Archives":"https:\/\/user.jconline.com\/PMUN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http:\/\/jconline.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.jconline.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.jconline.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.jconline.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>40.416702</Lat>
+	<Lng>-86.875290</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

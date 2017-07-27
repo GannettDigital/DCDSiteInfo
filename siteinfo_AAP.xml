@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>AAP</SiteCode>
+	<SiteName>fdlreporter</SiteName>
+	<Url>classifieds.fdlreporter.com</Url>
+	<SiteUrl>http://www.fdlreporter.com/</SiteUrl>
+	<BusName>The Fond Du Lac Reporter</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>GPG,SHE,AAP,APC,MAN,MNH,OSH,SPJ,WDH,WRT,DCA,OCR,KSN</SiteGroup>
+	<City>Fond du Lac</City>
+	<State>Wisconsin</State>
+	<Domain>fdlreporter.com</Domain>
+	<DFP>wi-fonddulac-C1516</DFP>
+	<DFPmobile>wi-fonddulac-mobile-C1516</DFPmobile>
+	<Gpaper>gpaper187</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.fdlreporter.com\/#ht=Headerhome","News":"http:\/\/www.fdlreporter.com\/news\/#ht=Headernews","Business":"http:\/\/www.fdlreporter.com\/business\/#ht=Headerbusiness","Sports":"http:\/\/www.fdlreporter.com\/sports\/#ht=Headersports","Packers":"http:\/\/www.fdlreporter.com\/packers\/#ht=Headerpackers","Opinion":"http:\/\/www.fdlreporter.com\/opinion\/#ht=Headeropinion","Go 920!":"http:\/\/www.fdlreporter.com\/go-920\/#ht=Headergo-920","Life":"http:\/\/www.fdlreporter.com\/life\/#ht=Headerlife","Outdoors":"http:\/\/www.fdlreporter.com\/outdoors\/#ht=Headeroutdoors","Archives":"https:\/\/user.fdlreporter.com\/PFDL-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Ffdlreporter.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.fdlreporter.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.fdlreporter.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.fdlreporter.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.fdlreporter.com\/section\/FON01","Sports":"http:\/\/www.fdlreporter.com\/section\/fon02","Living":"http:\/\/www.fdlreporter.com\/section\/fon04","Entertainment":"http:\/\/fonddulachub.fdlreporter.com","Opinion":"http:\/\/www.fdlreporter.com\/section\/fon06","Obituaries":"http:\/\/www.legacy.com\/obituaries\/fdlreporter\/","Business":"http:\/\/www.fdlreporter.com\/section\/fon03","Photos":"http:\/\/www.fdlreporter.com\/photos","Help":"http:\/\/www.fdlreporter.com\/section\/help","Action Advertiser":"http:\/\/www.fdlreporter.com\/section\/fon12"}</BottomLinks>
+	<Lat>43.773045</Lat>
+	<Lng>-88.447052</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

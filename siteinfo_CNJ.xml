@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>CNJ</SiteCode>
+	<SiteName>mycentraljersey</SiteName>
+	<Url>classifieds.mycentraljersey.com</Url>
+	<SiteUrl>http://www.mycentraljersey.com/</SiteUrl>
+	<BusName>Courier News & Home News Tribune</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>ASB,CNJ,MOR</SiteGroup>
+	<City>Bridgewater</City>
+	<State>New Jersey</State>
+	<Domain>mycentraljersey.com</Domain>
+	<DFP>nj-bridgewater-C1065</DFP>
+	<DFPmobile>nj-bridgewater-mobile-C1065</DFPmobile>
+	<Gpaper>gpaper248</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.mycentraljersey.com\/#ht=Headerhome","News":"http:\/\/www.mycentraljersey.com\/news\/#ht=Headernews","Sports":"http:\/\/www.mycentraljersey.com\/sports\/#ht=Headersports","Caring Communities":"http:\/\/www.mycentraljersey.com\/caring-communities\/#ht=Headercaring-communities","Opinion":"http:\/\/www.mycentraljersey.com\/opinion\/#ht=Headeropinion","Life":"http:\/\/www.mycentraljersey.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.mycentraljersey.com\/entertainment\/#ht=Headerentertainment","Obituaries":"http:\/\/www.legacy.com\/obituaries\/mycentraljersey\/#ht=Headerobituaries","Archives":"https:\/\/user.mycentraljersey.com\/PCNJ-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fmycentraljersey.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.mycentraljersey.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.mycentraljersey.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.mycentraljersey.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>40.623333</Lat>
+	<Lng>-74.601112</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

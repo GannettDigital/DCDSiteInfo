@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>YDR</SiteCode>
+	<SiteName>inyork</SiteName>
+	<Url>classifieds.inyork.com</Url>
+	<SiteUrl>http://www.inyork.com/</SiteUrl>
+	<BusName>In York</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>YDR,HES,LDN,CPO</SiteGroup>
+	<City>York</City>
+	<State>Pennsylvania</State>
+	<Domain>inyork.com</Domain>
+	<DFP>pa-yorkdailyrecord-C1287</DFP>
+	<DFPmobile>pa-yorkdailyrecord-mobile-C1287</DFPmobile>
+	<Gpaper>gpaper309</Gpaper>
+	<TopLinks>{"York Daily Record":"http:\/\/www.ydr.com\/#ht=Headerydr","York Dispatch":"http:\/\/www.yorkdispatch.com\/#ht=Headeryd","GameTimePA":"http:\/\/www.gametimepa.com\/#ht=Headergtpa","FlipSidePA":"http:\/\/www.flipsidepa.com#ht=Headerflipside","Classifieds":"http:\/\/classifieds.inyork.com\/#ht=Headerclassifieds","Obituaries":"http:\/\/www.legacy.com\/obituaries\/york\/#ht=Headerobits","More":"http:\/\/www.inyork.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>39.973701</Lat>
+	<Lng>-76.775002</Lng>
+	<ImgSiteName>inyork</ImgSiteName>
+	<SiteLinks>{"cars": "http://classifieds.inyork.com/category.php?place=Transportation&sites=YDR","jobs": "http://www.pajobfinder.com","homes": "http://www.homesinyork.com","img": {"cars": "http://dev.mediaonepa.com/dcd/york_dcd_blank.gif","jobs": "http://dev.mediaonepa.com/dcd/york_dcd_jobs.gif","homes": "http://dev.mediaonepa.com/dcd/york_dcd_homes.gif"}}</SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

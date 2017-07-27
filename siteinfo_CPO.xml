@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>CPO</SiteCode>
+	<SiteName>publicopiniononline</SiteName>
+	<Url>classifieds.publicopiniononline.com</Url>
+	<SiteUrl>http://www.publicopiniononline.com/</SiteUrl>
+	<BusName>Public Opinion Online</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>YDR,HES,LDN,CPO</SiteGroup>
+	<City>Chambersburg</City>
+	<State>Pennsylvania</State>
+	<Domain>publicopiniononline.com</Domain>
+	<DFP>pa-chambersburg-C1284</DFP>
+	<DFPmobile>pa-chambersburg-mobile-C1284</DFPmobile>
+	<Gpaper>gpaper305</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.publicopiniononline.com\/#ht=Headerhome","News":"http:\/\/www.publicopiniononline.com\/news\/#ht=Headernews","Sports":"http:\/\/www.publicopiniononline.com\/sports\/#ht=Headersports","Business":"http:\/\/www.publicopiniononline.com\/business\/#ht=Headerbusiness","Entertainment":"http:\/\/www.flipsidepa.com\/#ht=Headerentertainment","Lifestyle":"http:\/\/www.publicopiniononline.com\/lifestyle\/#ht=Headerlifestyle","Opinion":"http:\/\/www.publicopiniononline.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/publicopiniononline\/#ht=Headerobituaries","USA Today":"http:\/\/www.publicopiniononline.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.publicopiniononline.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.publicopiniononline.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>39.937500</Lat>
+	<Lng>-77.661102</Lng>
+	<ImgSiteName>publicopiniononline</ImgSiteName>
+	<SiteLinks>{"cars": "http://classifieds.publicopiniononline.com/category.php?place=Transportation&sites=CPO","jobs": "http://www.publicopiniononline.com/marketplace/jobs/","homes": "http://www.homesinyork.com/chambersburg","img": {"cars": "http://dev.mediaonepa.com/dcd/chambersburg_dcd_cars.gif","jobs": "http://dev.mediaonepa.com/dcd/chambersburg_dcd_jobs.gif","homes": "http://dev.mediaonepa.com/dcd/chambersburg_dcd_homes.gif"}}</SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>VIN</SiteCode>
+	<SiteName>thedailyjournal</SiteName>
+	<Url>classifieds.thedailyjournal.com</Url>
+	<SiteUrl>http://www.thedailyjournal.com/</SiteUrl>
+	<BusName>The Daily Journal</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>VIN</SiteGroup>
+	<City>Vineland</City>
+	<State>New Jersey</State>
+	<Domain>thedailyjournal.com</Domain>
+	<DFP>nj-vineland-C1106</DFP>
+	<DFPmobile>nj-vineland-mobile-C1106</DFPmobile>
+	<Gpaper>gpaper180</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.thedailyjournal.com\/#ht=Headerhome","News":"http:\/\/www.thedailyjournal.com\/news\/#ht=Headernews","Sports":"http:\/\/www.thedailyjournal.com\/sports\/#ht=Headersports","Weather":"http:\/\/www.thedailyjournal.com\/weather\/#ht=Headerweather","Living":"http:\/\/www.thedailyjournal.com\/living\/#ht=Headerliving","Neighbors":"http:\/\/www.thedailyjournal.com\/neighbors\/#ht=Headerneighbors","Opinion":"http:\/\/www.thedailyjournal.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/thedailyjournal\/#ht=Headerobituaries","Archives":"https:\/\/user.thedailyjournal.com\/PVIN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fthedailyjournal.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.thedailyjournal.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.thedailyjournal.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.thedailyjournal.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.thedailyjournal.com\/section\/news","Sports":"http:\/\/www.thedailyjournal.com\/section\/sports","Obituaries":"http:\/\/www.thedailyjournal.com\/obituaries","Opinion":"http:\/\/www.thedailyjournal.com\/section\/OPINION","Photos":"http:\/\/www.thedailyjournal.com\/section\/galleriessectionfront","Living":"http:\/\/www.thedailyjournal.com\/section\/lifestyle","Neighbors":"http:\/\/www.thedailyjournal.com\/section\/LOCAL","Advertising":"http:\/\/www.thedailyjournal.com\/section\/CUSTOMERSERVICE14","Video":"http:\/\/www.thedailyjournal.com\/video","Help":"http:\/\/www.thedailyjournal.com\/section\/CUSTOMERSERVICE"}</BottomLinks>
+	<Lat>39.486378</Lat>
+	<Lng>-75.025963</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

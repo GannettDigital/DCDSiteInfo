@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>RCH</SiteCode>
+	<SiteName>pal-item</SiteName>
+	<Url>classifieds.pal-item.com</Url>
+	<SiteUrl>http://www.pal-item.com/</SiteUrl>
+	<BusName>Palladium-Item</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>INI,MNI,RCH,LAF</SiteGroup>
+	<City>Richmond</City>
+	<State>Indiana</State>
+	<Domain>pal-item.com</Domain>
+	<DFP>in-richmond-C1044</DFP>
+	<DFPmobile>in-richmond-mobile-C1044</DFPmobile>
+	<Gpaper>gpaper163</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.pal-item.com\/#ht=Headerhome","News":"http:\/\/www.pal-item.com\/news\/#ht=Headernews","Sports":"http:\/\/www.pal-item.com\/sports\/#ht=Headersports","Life":"http:\/\/www.pal-item.com\/life\/#ht=Headerlife","Obituaries":"http:\/\/www.pal-item.com\/obituaries\/#ht=Headerobituaries","Opinion":"http:\/\/www.pal-item.com\/opinion\/#ht=Headeropinion","Travel":"http:\/\/www.pal-item.com\/travel\/#ht=Headertravel","USA Today":"http:\/\/www.pal-item.com\/section\/global\/nation-now\/#ht=Headerusa-today","Archives":"https:\/\/user.pal-item.com\/PRIC-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fpal-item.newspapers.com#ht=Headerarchives","Media":"http:\/\/www.pal-item.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.pal-item.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.pal-item.com\/section\/NEWS01","Sports":"http:\/\/www.pal-item.com\/section\/SPORTS","Money":"http:\/\/www.pal-item.com\/section\/money","Entertainment":"http:\/\/www.pal-item.com\/section\/ENTERTAINMENT","Life":"http:\/\/www.pal-item.com\/section\/LIFESTYLE","Obituaries":"http:\/\/www.pal-item.com\/section\/obituaries","Opinion":"http:\/\/www.pal-item.com\/section\/OPINION","Photos & Video":"http:\/\/www.pal-item.com\/section\/galleriessectionfront","Help":"http:\/\/www.pal-item.com\/section\/CUSTOMERSERVICE"}</BottomLinks>
+	<Lat>39.828938</Lat>
+	<Lng>-84.890236</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

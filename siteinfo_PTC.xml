@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>PTC</SiteCode>
+	<SiteName>portclintonnewsherald</SiteName>
+	<Url>classifieds.portclintonnewsherald.com</Url>
+	<SiteUrl>http://www.portclintonnewsherald.com/</SiteUrl>
+	<BusName>Port Clinton News Herald</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>BUC,CGO,COS,FRE,LAN,MAR,MNJ,NEW,PTC,ZAN</SiteGroup>
+	<City>Port Clinton</City>
+	<State>Ohio</State>
+	<Domain>portclintonnewsherald.com</Domain>
+	<DFP>oh-portclinton-C1086</DFP>
+	<DFPmobile>oh-portclinton-mobile-C1086</DFPmobile>
+	<Gpaper>gpaper237</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.portclintonnewsherald.com\/#ht=Headerhome","News":"http:\/\/www.portclintonnewsherald.com\/news\/#ht=Headernews","Sports":"http:\/\/www.portclintonnewsherald.com\/sports\/#ht=Headersports","Life & Events":"http:\/\/www.portclintonnewsherald.com\/life-events\/#ht=Headerlife-events","Obituaries":"http:\/\/www.legacy.com\/obituaries\/portclintonnewsherald\/#ht=Headerobituaries","Elections 2016":"http:\/\/www.portclintonnewsherald.com\/section\/elections-2016\/#ht=Headerelections-2016","Archives":"https:\/\/user.portclintonnewsherald.com\/PPOC-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fportclintonnewsherald.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.portclintonnewsherald.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.portclintonnewsherald.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.portclintonnewsherald.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.portclintonnewsherald.com\/section\/news01","Ohio News":"http:\/\/www.centralohio.com\/","Sports":"http:\/\/www.portclintonnewsherald.com\/section\/sports","Entertainment":"http:\/\/www.portclintonnewsherald.com\/section\/entertainment","Life":"http:\/\/www.portclintonnewsherald.com\/section\/lifestyle","Data Center":"http:\/\/www.portclintonnewsherald.com\/data","Obituaries":"http:\/\/www.legacy.com\/obituaries\/portclintonnewsherald\/","Video":"http:\/\/www.portclintonnewsherald.com\/section\/videonetwork","Help":"http:\/\/www.portclintonnewsherald.com\/help"}</BottomLinks>
+	<Lat>41.511993</Lat>
+	<Lng>-82.937691</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

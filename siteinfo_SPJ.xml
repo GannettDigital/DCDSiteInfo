@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>SPJ</SiteCode>
+	<SiteName>stevenspointjournal</SiteName>
+	<Url>classifieds.stevenspointjournal.com</Url>
+	<SiteUrl>http://www.stevenspointjournal.com/</SiteUrl>
+	<BusName>Stevens Point Journal</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>GPG,SHE,AAP,APC,MAN,MNH,OSH,SPJ,WDH,WRT,DCA,OCR,KSN</SiteGroup>
+	<City>Stevens Point</City>
+	<State>Wisconsin</State>
+	<Domain>stevenspointjournal.com</Domain>
+	<DFP>wi-stevenspoint-C1522</DFP>
+	<DFPmobile>wi-stevenspoint-mobile-C1522</DFPmobile>
+	<Gpaper>gpaper192</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.stevenspointjournal.com\/#ht=Headerhome","News":"http:\/\/www.stevenspointjournal.com\/news\/#ht=Headernews","Business":"http:\/\/www.stevenspointjournal.com\/business\/#ht=Headerbusiness","Sports":"http:\/\/www.stevenspointjournal.com\/sports\/#ht=Headersports","Packers":"http:\/\/www.stevenspointjournal.com\/packers\/#ht=Headerpackers","Opinion":"http:\/\/www.stevenspointjournal.com\/opinion\/#ht=Headeropinion","Go 715!":"http:\/\/www.stevenspointjournal.com\/go-715\/#ht=Headergo-715","Life":"http:\/\/www.stevenspointjournal.com\/life\/#ht=Headerlife","Outdoors":"http:\/\/www.stevenspointjournal.com\/outdoors\/#ht=Headeroutdoors","Archives":"https:\/\/user.stevenspointjournal.com\/PSTP-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fstevenspointjournal.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.stevenspointjournal.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.stevenspointjournal.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.stevenspointjournal.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.stevenspointjournal.com\/section\/spj01","Sports":"http:\/\/www.stevenspointjournal.com\/section\/spj02","Business":"http:\/\/www.stevenspointjournal.com\/section\/spj03","Opinion":"http:\/\/www.stevenspointjournal.com\/section\/spj06","Video\/Photos":"http:\/\/www.stevenspointjournal.com\/section\/permgall","Entertainment":"http:\/\/www.centralwisconsinhub.com","Life":"http:\/\/www.stevenspointjournal.com\/section\/spj04","Obituaries":"http:\/\/www.legacy.com\/obituaries\/stevenspointjournal\/","Help":"http:\/\/www.stevenspointjournal.com\/section\/help"}</BottomLinks>
+	<Lat>44.523579</Lat>
+	<Lng>-89.574562</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

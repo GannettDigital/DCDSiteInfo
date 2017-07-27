@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>TJN</SiteCode>
+	<SiteName>lohud</SiteName>
+	<Url>classifieds.lohud.com</Url>
+	<SiteUrl>http://www.lohud.com/</SiteUrl>
+	<BusName>The Journal News</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>TJN</SiteGroup>
+	<City>White Plains</City>
+	<State>New York</State>
+	<Domain>lohud.com</Domain>
+	<DFP>ny-westchester-C1084</DFP>
+	<DFPmobile>ny-westchester-mobile-C1084</DFPmobile>
+	<Gpaper>gpaper183</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.lohud.com\/#ht=Headerhome","News":"http:\/\/www.lohud.com\/news\/#ht=Headernews","Rockland":"http:\/\/www.lohud.com\/news\/rockland\/#ht=Headerrockland","Westchester":"http:\/\/www.lohud.com\/news\/westchester\/#ht=Headerwestchester","Sports":"http:\/\/www.lohud.com\/sports\/#ht=Headersports","Opinion":"http:\/\/www.lohud.com\/opinion\/#ht=Headeropinion","Homes":"http:\/\/www.lohud.com\/homes\/#ht=Headerhomes","food":"http:\/\/www.lohud.com\/food\/#ht=Headerfood","Obituaries":"http:\/\/obits.lohud.com\/obituaries\/lohud\/#ht=Headerobituaries","Photo-Video":"http:\/\/www.lohud.com\/media\/latest\/news\/#ht=Headermedialink","Life":"http:\/\/www.lohud.com\/life\/#ht=Headerlife","Health":"http:\/\/www.lohud.com\/news\/health\/#ht=Headerhealth","Archives":"https:\/\/user.lohud.com\/PWES-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Flohud.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.lohud.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.lohud.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>41.033985</Lat>
+	<Lng>-73.762909</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

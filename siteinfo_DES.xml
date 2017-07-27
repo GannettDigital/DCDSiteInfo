@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>DES</SiteCode>
+	<SiteName>desmoinesregister</SiteName>
+	<Url>classifieds.desmoinesregister.com</Url>
+	<SiteUrl>http://www.desmoinesregister.com/</SiteUrl>
+	<BusName>The Des Moines Register</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>DES</SiteGroup>
+	<City>Des Moines</City>
+	<State>Iowa</State>
+	<Domain>desmoinesregister.com</Domain>
+	<DFP>ia-desmoines-C1150</DFP>
+	<DFPmobile>ia-desmoines-mobile-C1150</DFPmobile>
+	<Gpaper>gpaper122</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.desmoinesregister.com\/#ht=Headerhome","News":"http:\/\/www.desmoinesregister.com\/news\/#ht=Headernews","Election 2016":"http:\/\/www.desmoinesregister.com\/elections-2016\/#ht=Headerelection-2016","Sports":"http:\/\/www.desmoinesregister.com\/sports\/#ht=Headersports","Things To Do":"http:\/\/www.desmoinesregister.com\/things-to-do\/#ht=Headerthings-to-do","Business":"http:\/\/www.desmoinesregister.com\/business\/#ht=Headerbusiness","Communities":"http:\/\/www.desmoinesregister.com\/communities\/#ht=Headercommunities","Opinion":"http:\/\/www.desmoinesregister.com\/opinion\/#ht=Headeropinion","Insider":"http:\/\/www.desmoinesregister.com\/insider\/#ht=Headerinsider","Archives":"http:\/\/archives.desmoinesregister.com#ht=Headerarchives","USA TODAY":"http:\/\/www.desmoinesregister.com\/section\/global\/nation-now\/#ht=Headerusa-today","Obituaries":"http:\/\/www.legacy.com\/obituaries\/desmoinesregister\/#ht=Headerobituaries","media":"http:\/\/www.desmoinesregister.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.desmoinesregister.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>41.600544</Lat>
+	<Lng>-93.609108</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks>{"cars": "http://www.desmoinesregister.com/cars","jobs": "http://www.desmoinesregister.com/jobs","homes": "http://www.desmoinesregister.com/homes","img": {"cars": "http://classifieds.desmoinesregister.com/img/partners/130-cars.gif","jobs": "http://www.gannett-cdn.com/media/2015/12/10/USCPTraining/USCPTraining/635853592402127398-130-careerbuilder-new.png","homes": "http://classifieds.desmoinesregister.com/img/partners/130-homefinder.gif"}}</SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

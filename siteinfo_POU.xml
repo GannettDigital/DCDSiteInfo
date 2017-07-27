@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>POU</SiteCode>
+	<SiteName>poughkeepsiejournal</SiteName>
+	<Url>classifieds.poughkeepsiejournal.com</Url>
+	<SiteUrl>http://www.poughkeepsiejournal.com/</SiteUrl>
+	<BusName>Poughkeepsie Journal</BusName>
+	<Palette>94</Palette>
+	<SiteGroup>POU</SiteGroup>
+	<City>Poughkeepsie</City>
+	<State>New York</State>
+	<Domain>poughkeepsiejournal.com</Domain>
+	<DFP>ny-poughkeepsie-C1066</DFP>
+	<DFPmobile>ny-poughkeepsie-mobile-C1066</DFPmobile>
+	<Gpaper>gpaper161</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.poughkeepsiejournal.com\/#ht=Headerhome","News":"http:\/\/www.poughkeepsiejournal.com\/news\/#ht=Headernews","Sports":"http:\/\/www.poughkeepsiejournal.com\/sports\/#ht=Headersports","Life":"http:\/\/www.poughkeepsiejournal.com\/life\/#ht=Headerlife","Business":"http:\/\/www.poughkeepsiejournal.com\/business\/#ht=Headerbusiness","Opinion":"http:\/\/www.poughkeepsiejournal.com\/opinion\/#ht=Headeropinion","Great Tastes":"http:\/\/www.poughkeepsiejournal.com\/greattastes\/#ht=Headergreattastes","Health":"http:\/\/www.poughkeepsiejournal.com\/news\/health\/#ht=Headerhealth","Environment":"http:\/\/www.poughkeepsiejournal.com\/environment\/#ht=Headerenvironment","Archives":"https:\/\/user.poughkeepsiejournal.com\/PPOU-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fpoughkeepsiejournal.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.poughkeepsiejournal.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.poughkeepsiejournal.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.poughkeepsiejournal.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>41.700371</Lat>
+	<Lng>-73.920967</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

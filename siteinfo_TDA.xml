@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>TDA</SiteCode>
+	<SiteName>theadvertiser</SiteName>
+	<Url>classifieds.theadvertiser.com</Url>
+	<SiteUrl>http://www.theadvertiser.com/</SiteUrl>
+	<BusName>The Daily Advertiser</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>ANI,MON,ODW,SHR,TDA</SiteGroup>
+	<City>Lafayette</City>
+	<State>Louisiana</State>
+	<Domain>theadvertiser.com</Domain>
+	<DFP>la-lafayette-C1529</DFP>
+	<DFPmobile>la-lafayette-mobile-C1529</DFPmobile>
+	<Gpaper>gpaper104</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.theadvertiser.com\/#ht=Headerhome","Insider":"http:\/\/www.theadvertiser.com\/insider\/#ht=Headerinsider","News":"http:\/\/www.theadvertiser.com\/news\/#ht=Headernews","Sports":"http:\/\/www.theadvertiser.com\/sports\/#ht=Headersports","Business":"http:\/\/www.theadvertiser.com\/business\/#ht=Headerbusiness","Opinion":"http:\/\/www.theadvertiser.com\/opinion\/#ht=Headeropinion","Things to Do":"http:\/\/www.theadvertiser.com\/things-to-do\/#ht=Headerthings-to-do","Living":"http:\/\/www.theadvertiser.com\/people-and-culture\/#ht=Headerpeople-and-culture","Obituaries":"http:\/\/www.legacy.com\/obituaries\/theadvertiser\/#ht=Headerobituaries","Archives":"https:\/\/user.theadvertiser.com\/PLAL-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Ftheadvertiser.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.theadvertiser.com\/section\/global\/nation-now\/#ht=Headerusa-today","Photo-Video":"http:\/\/www.theadvertiser.com\/media\/latest\/news\/#ht=Headerphoto-video","Elections 2016":"http:\/\/www.theadvertiser.com\/elections-2016\/#ht=Headerelections-2016","More":"http:\/\/www.theadvertiser.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>30.224091</Lat>
+	<Lng>-92.019844</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

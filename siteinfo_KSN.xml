@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>KSN</SiteCode>
+	<SiteName>kewauneestarnews</SiteName>
+	<Url>classifieds.kewauneestarnews.com</Url>
+	<SiteUrl>http://www.kewauneestarnews.com/</SiteUrl>
+	<BusName>Kewaunee Star News</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>GPG,SHE,AAP,APC,MAN,MNH,OSH,SPJ,WDH,WRT,DCA,OCR,KSN</SiteGroup>
+	<City>Green Bay</City>
+	<State>Wisconsin</State>
+	<Domain>kewauneestarnews.com</Domain>
+	<DFP>wi-greenbay-C1014</DFP>
+	<DFPmobile>wi-greenbay-mobile-C1014</DFPmobile>
+	<Gpaper>gpaper132</Gpaper>
+	<TopLinks>{"Home":"\/","News":"\/news\/","Business":"\/business\/","Sports":"\/sports\/","Packers":"http:\/\/www.greenbaypressgazette.com\/packers\/","Opinion":"\/opinion\/","Go 920!":"\/go-920\/","Life":"\/life\/","Outdoors":"\/outdoors\/","Door Co":"\/door-co\/","Archives":"https:\/\/user.greenbaypressgazette.com\/PGRB-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fgreenbaypressgazette.newspapers.com","Insider":"\/insider\/","USA TODAY":"\/section\/global\/nation-now\/","Media":"\/media\/latest\/news\/","More":"","Firefly":"http:\/\/account.greenbaypressgazette.com","Search":"\/search\/","Social":"http:\/\/static.greenbaypressgazette.com\/connectwithus\/"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>44.446495</Lat>
+	<Lng>-87.656479</Lng>
+	<ImgSiteName>greenbaypressgazette</ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

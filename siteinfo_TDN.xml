@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>TDN</SiteCode>
+	<SiteName>michigan</SiteName>
+	<Url>classifieds.detroitnews.com</Url>
+	<SiteUrl>http://www.detroitnews.com/</SiteUrl>
+	<BusName>The Detroit News</BusName>
+	<Palette>4</Palette>
+	<SiteGroup>LCP,LIV,DFP,TDN</SiteGroup>
+	<City>Detroit</City>
+	<State>Michigan</State>
+	<Domain>detroitnews.com</Domain>
+	<DFP>mi-detroit-C1561</DFP>
+	<DFPmobile>mi-detroit-mobile-C1561</DFPmobile>
+	<Gpaper>gpaper123</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.detroitnews.com\/#ht=Headerhome","News":"http:\/\/www.detroitnews.com\/news\/#ht=Headernews","Sports":"http:\/\/www.detroitnews.com\/sports\/#ht=Headersports","Business":"http:\/\/www.detroitnews.com\/business\/#ht=Headerbusiness","Autos":"http:\/\/www.detroitnews.com\/autos\/#ht=Headerautos","Life + Home":"http:\/\/www.detroitnews.com\/life-home\/#ht=Headerlife-home","Entertainment":"http:\/\/www.detroitnews.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.detroitnews.com\/opinion\/#ht=Headeropinion","Photo + Video":"http:\/\/www.detroitnews.com\/media\/latest\/news\/#ht=Headerphoto-video","More":"http:\/\/www.detroitnews.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.detroitnews.com#","Sports":"http:\/\/www.detroitnews.com#","Autos":"http:\/\/www.detroitnews.com#","Business":"http:\/\/www.detroitnews.com\/section\/biz","Entertainment":"http:\/\/www.detroitnews.com#","Lifestyle":"http:\/\/www.detroitnews.com#","Opinions":"http:\/\/www.detroitnews.com#","Multimedia":"http:\/\/www.detroitnews.com#","Blogs":"http:\/\/blogs.detroitnews.com","Terms of Service":"http:\/\/www.detroitnews.com\/section\/terms","Privacy Notice":"http:\/\/www.detroitnews.com\/section\/privacy","Ad Choices":"http:\/\/www.detroitnews.com\/section\/adnetwork"}</BottomLinks>
+	<Lat>42.328861</Lat>
+	<Lng>-83.120667</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

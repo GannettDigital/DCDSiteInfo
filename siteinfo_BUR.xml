@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>BUR</SiteCode>
+	<SiteName>burlingtonfreepress</SiteName>
+	<Url>classifieds.burlingtonfreepress.com</Url>
+	<SiteUrl>http://www.burlingtonfreepress.com/</SiteUrl>
+	<BusName>The Burlington Free Press</BusName>
+	<Palette>94</Palette>
+	<SiteGroup>BUR</SiteGroup>
+	<City>Burlington</City>
+	<State>Vermont</State>
+	<Domain>burlingtonfreepress.com</Domain>
+	<DFP>vt-burlington-C1010</DFP>
+	<DFPmobile>vt-burlington-mobile-C1010</DFPmobile>
+	<Gpaper>gpaper116</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.burlingtonfreepress.com\/#ht=Headerhome","NEWS":"http:\/\/www.burlingtonfreepress.com\/news\/#ht=Headernews","SPORTS":"http:\/\/www.burlingtonfreepress.com\/sports\/#ht=Headersports","BIZ":"http:\/\/www.burlingtonfreepress.com\/biz\/#ht=Headerbiz","VT LIFE":"http:\/\/www.burlingtonfreepress.com\/vt-life\/#ht=Headervt-life","Freshies":"http:\/\/freshiesmag.com\/#ht=Headerfreshies","BTVFoodie":"http:\/\/btvfoodie.com\/#ht=Headerbtv-foodie","Travel":"http:\/\/www.burlingtonfreepress.com\/travel\/#ht=Headertravel","OPINION":"http:\/\/www.burlingtonfreepress.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/burlingtonfreepress\/#ht=Headerobituaries","Archives":"https:\/\/user.burlingtonfreepress.com\/PBUR-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fburlingtonfreepress.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.burlingtonfreepress.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.burlingtonfreepress.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.burlingtonfreepress.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.burlingtonfreepress.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>44.475883</Lat>
+	<Lng>-73.212074</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

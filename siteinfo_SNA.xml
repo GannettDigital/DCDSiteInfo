@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>SNA</SiteCode>
+	<SiteName>thecalifornian</SiteName>
+	<Url>classifieds.thecalifornian.com</Url>
+	<SiteUrl>http://www.thecalifornian.com/</SiteUrl>
+	<BusName>The Salinas Californian</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>SNA</SiteGroup>
+	<City>Salinas</City>
+	<State>California</State>
+	<Domain>thecalifornian.com</Domain>
+	<DFP>ca-salinas-C1078</DFP>
+	<DFPmobile>ca-salinas-mobile-C1078</DFPmobile>
+	<Gpaper>gpaper167</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.thecalifornian.com\/#ht=Headerhome","News":"http:\/\/www.thecalifornian.com\/news\/#ht=Headernews","Sports":"http:\/\/www.thecalifornian.com\/sports\/#ht=Headersports","Life":"http:\/\/www.thecalifornian.com\/life\/#ht=Headerlife","Opinion":"http:\/\/www.thecalifornian.com\/opinion\/#ht=Headeropinion","Off 68":"http:\/\/www.thecalifornian.com\/off-68\/#ht=Headeroff-68","El Sol":"http:\/\/www.elsoldesalinas.com\/#ht=Headerel-sol","Obituaries":"http:\/\/www.legacy.com\/obituaries\/thecalifornian\/#ht=Headerobituaries","Archives":"https:\/\/user.thecalifornian.com\/PSAS-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fthecalifornian.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.thecalifornian.com\/section\/global\/nation-now\/#ht=Headerusa-today","Elections 2016":"http:\/\/www.thecalifornian.com\/section\/elections-2016\/#ht=Headerelections-2016","Real Estate":"http:\/\/www.thecalifornian.com\/marketplace\/real-estate\/#ht=Headerreal-estate","Photo & Video":"http:\/\/www.thecalifornian.com\/media\/latest\/news\/#ht=Headerphoto-video","More":"http:\/\/www.thecalifornian.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.thecalifornian.com\/section\/news","Sports":"http:\/\/www.thecalifornian.com\/section\/sports","Living":"http:\/\/www.thecalifornian.com\/section\/lifestyle","Columns\/Blogs":"http:\/\/www.thecalifornian.com\/section\/blogs","Opinion":"http:\/\/www.thecalifornian.com\/section\/opinion","Help":"http:\/\/www.thecalifornian.com\/help","Off 68":"http:\/\/www.thecalifornian.com\/section\/offsixtyeight&template=cover","El Sol":"http:\/\/www.thecalifornian.com\/section\/news05","Obituaries":"http:\/\/www.thecalifornian.com\/obituaries"}</BottomLinks>
+	<Lat>36.677738</Lat>
+	<Lng>-121.655502</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

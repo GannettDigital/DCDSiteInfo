@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>REN</SiteCode>
+	<SiteName>rgj</SiteName>
+	<Url>classifieds.rgj.com</Url>
+	<SiteUrl>http://www.rgj.com/</SiteUrl>
+	<BusName>Reno Gazette-Journal</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>REN</SiteGroup>
+	<City>Reno</City>
+	<State>Nevada</State>
+	<Domain>rgj.com</Domain>
+	<DFP>nv-reno-C1011</DFP>
+	<DFPmobile>nv-reno-mobile-C1011</DFPmobile>
+	<Gpaper>gpaper162</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.rgj.com\/#ht=Headerhome","News":"http:\/\/www.rgj.com\/news\/#ht=Headernews","Business":"http:\/\/www.rgj.com\/business\/#ht=Headerbusiness","Sports":"http:\/\/www.rgj.com\/sports\/#ht=Headersports","Life":"http:\/\/www.rgj.com\/life\/#ht=Headerlife","Outdoors":"http:\/\/www.rgj.com\/outdoors\/#ht=Headeroutdoors","Opinion":"http:\/\/www.rgj.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/rgj\/#ht=Headerobituaries","Archives":"https:\/\/user.rgj.com\/PREN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Frgj.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.rgj.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.rgj.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.rgj.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.rgj.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>39.529633</Lat>
+	<Lng>-119.813805</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

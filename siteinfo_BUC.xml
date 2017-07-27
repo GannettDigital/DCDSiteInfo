@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>BUC</SiteCode>
+	<SiteName>bucyrustelegraphforum</SiteName>
+	<Url>classifieds.bucyrustelegraphforum.com</Url>
+	<SiteUrl>http://www.bucyrustelegraphforum.com/</SiteUrl>
+	<BusName>Telegraph-Forum</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>BUC,CGO,COS,FRE,LAN,MAR,MNJ,NEW,PTC,ZAN</SiteGroup>
+	<City>Bucyrus</City>
+	<State>Ohio</State>
+	<Domain>bucyrustelegraphforum.com</Domain>
+	<DFP>oh-bucyrus-C1501</DFP>
+	<DFPmobile>oh-bucyrus-mobile-C1501</DFPmobile>
+	<Gpaper>gpaper230</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.bucyrustelegraphforum.com\/#ht=Headerhome","News":"http:\/\/www.bucyrustelegraphforum.com\/news\/#ht=Headernews","Sports":"http:\/\/www.bucyrustelegraphforum.com\/sports\/#ht=Headersports","Life & Events":"http:\/\/www.bucyrustelegraphforum.com\/life-events\/#ht=Headerlife-events","Obituaries":"http:\/\/www.legacy.com\/obituaries\/bucyrustelegraphforum\/#ht=Headerobituaries","Elections 2016":"http:\/\/www.bucyrustelegraphforum.com\/section\/elections-2016\/#ht=Headerelections-2016","Archives":"https:\/\/user.bucyrustelegraphforum.com\/PBUC-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fbucyrustelegraphforum.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.bucyrustelegraphforum.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.bucyrustelegraphforum.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.bucyrustelegraphforum.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.bucyrustelegraphforum.com\/section\/news01","Ohio News":"http:\/\/www.centralohio.com\/","Sports":"http:\/\/www.bucyrustelegraphforum.com\/section\/sports","Entertainment":"http:\/\/www.bucyrustelegraphforum.com\/section\/entertainment","Life":"http:\/\/www.bucyrustelegraphforum.com\/section\/lifestyle","Data Center":"http:\/\/www.bucyrustelegraphforum.com\/data","Obituaries":"http:\/\/www.legacy.com\/obituaries\/bucyrustelegraphforum\/","Video":"http:\/\/www.bucyrustelegraphforum.com\/section\/videonetwork","Help":"http:\/\/www.bucyrustelegraphforum.com\/help"}</BottomLinks>
+	<Lat>40.808392</Lat>
+	<Lng>-82.975464</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

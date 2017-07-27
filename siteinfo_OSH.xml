@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>OSH</SiteCode>
+	<SiteName>thenorthwestern</SiteName>
+	<Url>classifieds.thenorthwestern.com</Url>
+	<SiteUrl>http://www.thenorthwestern.com/</SiteUrl>
+	<BusName>Oshkosh Northwestern</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>GPG,SHE,AAP,APC,MAN,MNH,OSH,SPJ,WDH,WRT,DCA,OCR,KSN</SiteGroup>
+	<City>Oshkosh</City>
+	<State>Wisconsin</State>
+	<Domain>thenorthwestern.com</Domain>
+	<DFP>wi-oshkosh-C1518</DFP>
+	<DFPmobile>wi-oshkosh-mobile-C1518</DFPmobile>
+	<Gpaper>gpaper190</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.thenorthwestern.com\/#ht=Headerhome","News":"http:\/\/www.thenorthwestern.com\/news\/#ht=Headernews","Business":"http:\/\/www.thenorthwestern.com\/business\/#ht=Headerbusiness","Sports":"http:\/\/www.thenorthwestern.com\/sports\/#ht=Headersports","Packers":"http:\/\/www.thenorthwestern.com\/packers\/#ht=Headerpackers","Opinion":"http:\/\/www.thenorthwestern.com\/opinion\/#ht=Headeropinion","Go 920!":"http:\/\/www.thenorthwestern.com\/go-920\/#ht=Headergo-920","Life":"http:\/\/www.thenorthwestern.com\/life\/#ht=Headerlife","Outdoors":"http:\/\/www.thenorthwestern.com\/outdoors\/#ht=Headeroutdoors","Archives":"https:\/\/user.thenorthwestern.com\/POSH-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fthenorthwestern.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.thenorthwestern.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.thenorthwestern.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.thenorthwestern.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.thenorthwestern.com\/section\/osh01","Sports":"http:\/\/www.thenorthwestern.com\/section\/osh02","Opinion":"http:\/\/www.thenorthwestern.com\/section\/osh06","Living":"http:\/\/www.thenorthwestern.com\/section\/osh04","Entertainment":"http:\/\/oshkoshhub.thenorthwestern.com","Business":"http:\/\/www.thenorthwestern.com\/section\/osh03","Photos":"http:\/\/www.thenorthwestern.com\/section\/permgall","Obituaries":"http:\/\/www.legacy.com\/obituaries\/thenorthwestern","Help":"http:\/\/www.thenorthwestern.com\/section\/help"}</BottomLinks>
+	<Lat>44.024708</Lat>
+	<Lng>-88.542618</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

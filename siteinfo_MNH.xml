@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>MNH</SiteCode>
+	<SiteName>marshfieldnewsherald</SiteName>
+	<Url>classifieds.marshfieldnewsherald.com</Url>
+	<SiteUrl>http://www.marshfieldnewsherald.com/</SiteUrl>
+	<BusName>Marshfield News-Herald</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>GPG,SHE,AAP,APC,MAN,MNH,OSH,SPJ,WDH,WRT,DCA,OCR,KSN</SiteGroup>
+	<City>Marshfield</City>
+	<State>Wisconsin</State>
+	<Domain>marshfieldnewsherald.com</Domain>
+	<DFP>wi-marshfield-C1521</DFP>
+	<DFPmobile>wi-marshfield-mobile-C1521</DFPmobile>
+	<Gpaper>gpaper189</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.marshfieldnewsherald.com\/#ht=Headerhome","News":"http:\/\/www.marshfieldnewsherald.com\/news\/#ht=Headernews","Business":"http:\/\/www.marshfieldnewsherald.com\/business\/#ht=Headerbusiness","Sports":"http:\/\/www.marshfieldnewsherald.com\/sports\/#ht=Headersports","Packers":"http:\/\/www.marshfieldnewsherald.com\/packers\/#ht=Headerpackers","Opinion":"http:\/\/www.marshfieldnewsherald.com\/opinion\/#ht=Headeropinion","Go 715!":"http:\/\/www.marshfieldnewsherald.com\/go-715\/#ht=Headergo-715","Life":"http:\/\/www.marshfieldnewsherald.com\/life\/#ht=Headerlife","Outdoors":"http:\/\/www.marshfieldnewsherald.com\/outdoors\/#ht=Headeroutdoors","Archives":"https:\/\/user.marshfieldnewsherald.com\/PMAD-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fmarshfieldnewsherald.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.marshfieldnewsherald.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.marshfieldnewsherald.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.marshfieldnewsherald.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.marshfieldnewsherald.com\/section\/mnh01","Sports":"http:\/\/www.marshfieldnewsherald.com\/section\/mnh02","Business":"http:\/\/www.marshfieldnewsherald.com\/section\/mnh03","Opinion":"http:\/\/www.marshfieldnewsherald.com\/section\/mnh06","Photos\/Video":"http:\/\/www.marshfieldnewsherald.com\/section\/permgall","Entertainment":"http:\/\/www.centralwisconsinhub.com","Life":"http:\/\/www.marshfieldnewsherald.com\/section\/mnh04","Obits\/Records":"http:\/\/www.legacy.com\/obituaries\/marshfieldnewsherald\/","Help":"http:\/\/www.marshfieldnewsherald.com\/section\/help"}</BottomLinks>
+	<Lat>44.668854</Lat>
+	<Lng>-90.171799</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

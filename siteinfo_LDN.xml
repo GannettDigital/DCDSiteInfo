@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>LDN</SiteCode>
+	<SiteName>ldnews</SiteName>
+	<Url>classifieds.ldnews.com</Url>
+	<SiteUrl>http://www.ldnews.com/</SiteUrl>
+	<BusName>Lebanon Daily News</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>YDR,HES,LDN,CPO</SiteGroup>
+	<City>Lebanon</City>
+	<State>Pennsylvania</State>
+	<Domain>ldnews.com</Domain>
+	<DFP>pa-lebanon-C1286</DFP>
+	<DFPmobile>pa-lebanon-mobile-C1286</DFPmobile>
+	<Gpaper>gpaper303</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.ldnews.com\/#ht=Headerhome","News":"http:\/\/www.ldnews.com\/news\/#ht=Headernews","Sports":"http:\/\/www.ldnews.com\/sports\/#ht=Headersports","Business":"http:\/\/www.ldnews.com\/business\/#ht=Headerbusiness","Entertainment":"http:\/\/www.flipsidepa.com\/#ht=Headerentertainment","Lifestyle":"http:\/\/www.ldnews.com\/lifestyle\/#ht=Headerlifestyle","Opinion":"http:\/\/www.ldnews.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/ldnews\/#ht=Headerobituaries","USA Today":"http:\/\/www.ldnews.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.ldnews.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.ldnews.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>40.330399</Lat>
+	<Lng>-76.422600</Lng>
+	<ImgSiteName>ldnews</ImgSiteName>
+	<SiteLinks>{"cars": "http://classifieds.ldnews.com/category.php?place=Transportation&sites=LDN","jobs": "http://www.pajobfinder.com","homes": "http://www.homesinyork.com/lebanon","img": {"cars": "http://dev.mediaonepa.com/dcd/york_dcd_blank.gif","jobs": "http://dev.mediaonepa.com/dcd/york_dcd_jobs.gif","homes": "http://dev.mediaonepa.com/dcd/lebanon_dcd_homes.gif"}}</SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

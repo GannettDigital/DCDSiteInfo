@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>MGMBB</SiteCode>
+	<SiteName>thebulletinboard</SiteName>
+	<Url>classifieds.thebulletinboard.com</Url>
+	<SiteUrl>http://www.thebulletinboard.com/</SiteUrl>
+	<BusName>Bulletin Board</BusName>
+	<Palette>95</Palette>
+	<SiteGroup>MGMBB</SiteGroup>
+	<City>Montgomery</City>
+	<State>Alabama</State>
+	<Domain>thebulletinboard.com</Domain>
+	<DFP>al-montgomery-C1123</DFP>
+	<DFPmobile>al-montgomery-mobile-C1123</DFPmobile>
+	<Gpaper>gpaper147</Gpaper>
+	<TopLinks>s</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>32.366806</Lat>
+	<Lng>-86.299973</Lng>
+	<ImgSiteName>thebulletinboard</ImgSiteName>
+	<SiteLinks>{"cars": "","jobs": "","homes": "","img": {"cars": "","jobs": "","homes": ""}}</SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

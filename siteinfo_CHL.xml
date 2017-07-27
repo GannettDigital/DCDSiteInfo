@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>CHL</SiteCode>
+	<SiteName>courierpostonline</SiteName>
+	<Url>classifieds.courierpostonline.com</Url>
+	<SiteUrl>http://www.courierpostonline.com/</SiteUrl>
+	<BusName>Courier-Post</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>CHL</SiteGroup>
+	<City>Cherry Hill</City>
+	<State>New Jersey</State>
+	<Domain>courierpostonline.com</Domain>
+	<DFP>nj-cherryhill-C1013</DFP>
+	<DFPmobile>nj-cherryhill-mobile-C1013</DFPmobile>
+	<Gpaper>gpaper119</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.courierpostonline.com\/#ht=Headerhome","South Jersey":"http:\/\/www.courierpostonline.com\/south-jersey\/#ht=Headersouth-jersey","Varsity":"http:\/\/www.courierpostonline.com\/varsity\/#ht=Headervarsity","Sports":"http:\/\/www.courierpostonline.com\/sports\/#ht=Headersports","Weather":"http:\/\/www.courierpostonline.com\/weather\/#ht=Headerweather","Living":"http:\/\/www.courierpostonline.com\/living\/#ht=Headerliving","Blogs":"http:\/\/www.courierpostonline.com\/siteblog\/#ht=Headersiteblog","Obituaries":"http:\/\/www.legacy.com\/obituaries\/courierpostonline\/#ht=Headerobituaries","Archives":"https:\/\/user.courierpostonline.com\/PCHH-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fcourierpostonline.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.courierpostonline.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.courierpostonline.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.courierpostonline.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>39.926811</Lat>
+	<Lng>-75.024628</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

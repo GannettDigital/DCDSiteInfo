@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>CIN</SiteCode>
+	<SiteName>cincinnati</SiteName>
+	<Url>classifieds.cincinnati.com</Url>
+	<SiteUrl>http://www.cincinnati.com/</SiteUrl>
+	<BusName>The Cincinnati Enquirer</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>CIN</SiteGroup>
+	<City>Cincinnati</City>
+	<State>Ohio</State>
+	<Domain>cincinnati.com</Domain>
+	<DFP>oh-cincinnati-C1019</DFP>
+	<DFPmobile>oh-cincinnati-mobile-C1019</DFPmobile>
+	<Gpaper>gpaper120</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.cincinnati.com\/#ht=Headerhome","News":"http:\/\/www.cincinnati.com\/news\/#ht=Headernews","Sports":"http:\/\/www.cincinnati.com\/sports\/#ht=Headersports","Business":"http:\/\/www.cincinnati.com\/business\/#ht=Headerbusiness","Things To Do":"http:\/\/www.cincinnati.com\/things-to-do\/#ht=Headerthings_to_do","Communities":"http:\/\/www.cincinnati.com\/communities\/#ht=Headercommunities","Weather":"http:\/\/www.cincinnati.com\/weather\/#ht=Headerweather","xtras":"http:\/\/www.cincinnati.com\/xtras\/#ht=Headerxtras","Cincinnati USA":"http:\/\/cincinnatiusa.com\/#ht=Headercincinnati-usa","USA TODAY":"http:\/\/www.cincinnati.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.cincinnati.com\/media\/latest\/news\/#ht=Headermedia","Archives":"https:\/\/user.cincinnati.com\/PCIN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fcincinnati.newspapers.com#ht=Headerarchives","More":"http:\/\/www.cincinnati.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>39.103119</Lat>
+	<Lng>-84.512016</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

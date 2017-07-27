@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>DFP</SiteCode>
+	<SiteName>michigan</SiteName>
+	<Url>classifieds.freep.com</Url>
+	<SiteUrl>http://www.freep.com/</SiteUrl>
+	<BusName>Detroit Free Press</BusName>
+	<Palette>1</Palette>
+	<SiteGroup>LCP,LIV,DFP,TDN</SiteGroup>
+	<City>Detroit</City>
+	<State>Michigan</State>
+	<Domain>freep.com</Domain>
+	<DFP>mi-freep-C1561</DFP>
+	<DFPmobile>mi-freep-mobile-C1561</DFPmobile>
+	<Gpaper>gpaper204</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.freep.com\/#ht=Headerhome","News":"http:\/\/www.freep.com\/news\/#ht=Headernews","Sports":"http:\/\/www.freep.com\/sports\/#ht=Headersports","Autos":"http:\/\/www.freep.com\/autos\/#ht=Headerautos","Business":"http:\/\/www.freep.com\/business\/#ht=Headerbusiness","Life":"http:\/\/www.freep.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.freep.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.freep.com\/opinion\/#ht=Headeropinion","Advice":"http:\/\/www.freep.com\/life\/advice\/#ht=Headeradvice","Mitch Albom":"http:\/\/www.freep.com\/sports\/mitch-albom\/#ht=Headermitch-albom","Archives":"http:\/\/archives.freep.com#ht=Headerarchives","Insider":"http:\/\/www.freep.com\/insider\/#ht=Headerinsider","Media":"http:\/\/www.freep.com\/media\/latest\/news\/#ht=Headermedia","USA TODAY":"http:\/\/www.freep.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.freep.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.freep.com\/localnews","Sports":"http:\/\/www.freep.com\/sportsnews","Michigan Business":"http:\/\/www.freep.com\/businessnews","Entertainment":"http:\/\/www.freep.com\/entertainmentnews","Life":"http:\/\/www.freep.com\/lifeindex","Better Michigan":"http:\/\/www.freep.com\/abettermichigan","Obits":"http:\/\/www.freep.com\/obituaries","Help":"http:\/\/www.freep.com\/help"}</BottomLinks>
+	<Lat>42.328861</Lat>
+	<Lng>-83.120667</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

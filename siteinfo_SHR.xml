@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>SHR</SiteCode>
+	<SiteName>shreveporttimes</SiteName>
+	<Url>classifieds.shreveporttimes.com</Url>
+	<SiteUrl>http://www.shreveporttimes.com/</SiteUrl>
+	<BusName>The Times</BusName>
+	<Palette>1</Palette>
+	<SiteGroup>ANI,MON,ODW,SHR,TDA</SiteGroup>
+	<City>Shreveport</City>
+	<State>Louisiana</State>
+	<Domain>shreveporttimes.com</Domain>
+	<DFP>la-shreveport-C1040</DFP>
+	<DFPmobile>la-shreveport-mobile-C1040</DFPmobile>
+	<Gpaper>gpaper169</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.shreveporttimes.com\/#ht=Headerhome","Insider":"http:\/\/www.shreveporttimes.com\/insider\/#ht=Headerinsider","News":"http:\/\/www.shreveporttimes.com\/news\/#ht=Headernews","Sports":"http:\/\/www.shreveporttimes.com\/sports\/#ht=Headersports","Life":"http:\/\/www.shreveporttimes.com\/life\/#ht=Headerlife","Things to Do":"http:\/\/www.shreveporttimes.com\/things-to-do\/#ht=Headerthings-to-do","Opinion":"http:\/\/www.shreveporttimes.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/shreveporttimes\/#ht=Headerobituaries","Rouge":"http:\/\/www.shreveporttimes.com\/life\/rouge\/#ht=Headerrouge","Archives":"https:\/\/user.shreveporttimes.com\/PSHR-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fshreveporttimes.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.shreveporttimes.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.shreveporttimes.com\/media\/latest\/news\/#ht=Headermedia","Elections 2016":"http:\/\/www.shreveporttimes.com\/elections-2016\/#ht=Headerelections-2016","More":"http:\/\/www.shreveporttimes.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.shreveporttimes.com\/section\/NEWS","Sports":"http:\/\/www.shreveporttimes.com\/section\/sports","Life":"http:\/\/www.shreveporttimes.com\/section\/LIVING","Entertainment":"http:\/\/www.shreveporttimes.com\/section\/ent","Opinion":"http:\/\/www.shreveporttimes.com\/section\/OPINION","Obituaries":"http:\/\/www.legacy.com\/shreveporttimes\/Obituaries.asp","Multimedia":"http:\/\/www.shreveporttimes.com\/section\/galleriessectionfront","Help":"http:\/\/www.shreveporttimes.com\/section\/CUSTOMERSERVICE"}</BottomLinks>
+	<Lat>32.525150</Lat>
+	<Lng>-93.750175</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

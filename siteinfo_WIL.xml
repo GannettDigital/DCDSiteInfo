@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>WIL</SiteCode>
+	<SiteName>delawareonline</SiteName>
+	<Url>classifieds.delawareonline.com</Url>
+	<SiteUrl>http://www.delawareonline.com/</SiteUrl>
+	<BusName>The News Journal</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>WIL</SiteGroup>
+	<City>Wilmington</City>
+	<State>Delaware</State>
+	<Domain>delawareonline.com</Domain>
+	<DFP>de-wilmington-C1052</DFP>
+	<DFPmobile>de-wilmington-mobile-C1052</DFPmobile>
+	<Gpaper>gpaper184</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.delawareonline.com\/#ht=Headerhome","News":"http:\/\/www.delawareonline.com\/news\/#ht=Headernews","Sports":"http:\/\/www.delawareonline.com\/sports\/#ht=Headersports","Life":"http:\/\/www.delawareonline.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.delawareonline.com\/entertainment\/#ht=Headerentertainment","Travel":"http:\/\/www.delawareonline.com\/travel\/#ht=Headertravel","Opinion":"http:\/\/www.delawareonline.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/delawareonline\/#ht=Headerobituaries","Archives":"https:\/\/user.delawareonline.com\/PWIL-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fdelawareonline.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.delawareonline.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.delawareonline.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.delawareonline.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.delawareonline.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>39.739071</Lat>
+	<Lng>-75.539787</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

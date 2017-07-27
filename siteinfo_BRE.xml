@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>BRE</SiteCode>
+	<SiteName>floridatoday</SiteName>
+	<Url>classifieds.floridatoday.com</Url>
+	<SiteUrl>http://www.floridatoday.com/</SiteUrl>
+	<BusName>Florida Today</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>BRE</SiteGroup>
+	<City>Brevard</City>
+	<State>Florida</State>
+	<Domain>floridatoday.com</Domain>
+	<DFP>fl-brevard-C1028</DFP>
+	<DFPmobile>fl-brevard-mobile-C1028</DFPmobile>
+	<Gpaper>gpaper114</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.floridatoday.com\/#ht=Headerhome","News":"http:\/\/www.floridatoday.com\/news\/#ht=Headernews","Sports":"http:\/\/www.floridatoday.com\/sports\/#ht=Headersports","Space":"http:\/\/www.floridatoday.com\/space\/#ht=Headerspace","Life":"http:\/\/www.floridatoday.com\/life#ht=Headerlife","Entertainment":"http:\/\/www.floridatoday.com\/entertainment\/#ht=Headerentertainment","Elections":"http:\/\/www.floridatoday.com\/section\/elections-2016\/#ht=Headerelections","Travel":"http:\/\/www.floridatoday.com\/travel\/#ht=Headertravel","Opinions":"http:\/\/www.floridatoday.com\/opinions-columns\/#ht=Headeropinions-columns","Obituaries":"http:\/\/www.legacy.com\/obituaries\/floridatoday\/#ht=Headerobituaries","Archives":"https:\/\/user.floridatoday.com\/PBRE-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Ffloridatoday.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.floridatoday.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.floridatoday.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.floridatoday.com\/media\/latest\/news\/#ht=Headermedialink","More":"http:\/\/www.floridatoday.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>28.263933</Lat>
+	<Lng>-80.721443</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>xDW</SiteCode>
+	<SiteName>tennessean</SiteName>
+	<Url>classifieds.tennessean.com</Url>
+	<SiteUrl>http://www.tennessean.com/</SiteUrl>
+	<BusName>Davidson County</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>MUR,JTN,CLR,NAS,xCCM,xDW,xDH,xFO,xGNE,xHST,xRCE,xSHT,xWILL</SiteGroup>
+	<City>Davidson</City>
+	<State>Tennessee</State>
+	<Domain>tennessean.com</Domain>
+	<DFP>tn-nashville-C1056</DFP>
+	<DFPmobile>tn-nashville-mobile-C1056</DFPmobile>
+	<Gpaper>gpaper151</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.tennessean.com\/#ht=Headerhome","News":"http:\/\/www.tennessean.com\/news\/#ht=Headernews","Counties":"http:\/\/www.tennessean.com\/counties\/#ht=Headercounties","Sports":"http:\/\/www.tennessean.com\/sports\/#ht=Headersports","Business":"http:\/\/www.tennessean.com\/business\/#ht=Headerbusiness","12th & Broad":"http:\/\/www.tennessean.com\/12thandbroad\/#ht=Header12-b","Music":"http:\/\/www.tennessean.com\/music\/#ht=Headermusic","Life":"http:\/\/www.tennessean.com\/lifestyle\/#ht=Headerlifestyle","Opinion":"http:\/\/www.tennessean.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/tennessean\/#ht=Headerobituaries","Archives":"http:\/\/archives.tennessean.com#ht=Headerarchives","Insider":"http:\/\/www.tennessean.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.tennessean.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.tennessean.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.tennessean.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>36.166668</Lat>
+	<Lng>-86.783333</Lng>
+	<ImgSiteName>tennessean</ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

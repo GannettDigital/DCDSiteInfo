@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>CGO</SiteCode>
+	<SiteName>chillicothegazette</SiteName>
+	<Url>classifieds.chillicothegazette.com</Url>
+	<SiteUrl>http://www.chillicothegazette.com/</SiteUrl>
+	<BusName>Chillicothe Gazette</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>BUC,CGO,COS,FRE,LAN,MAR,MNJ,NEW,PTC,ZAN</SiteGroup>
+	<City>Chillicothe</City>
+	<State>Ohio</State>
+	<Domain>chillicothegazette.com</Domain>
+	<DFP>oh-chillicothe-C1016</DFP>
+	<DFPmobile>oh-chillicothe-mobile-C1016</DFPmobile>
+	<Gpaper>gpaper231</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.chillicothegazette.com\/#ht=Headerhome","News":"http:\/\/www.chillicothegazette.com\/news\/#ht=Headernews","Sports":"http:\/\/www.chillicothegazette.com\/sports\/#ht=Headersports","Life & Events":"http:\/\/www.chillicothegazette.com\/life-events\/#ht=Headerlife-events","Obituaries":"http:\/\/www.legacy.com\/obituaries\/chillicothegazette\/#ht=Headerobituaries","Elections 2016":"http:\/\/www.chillicothegazette.com\/elections-2016\/#ht=Headerelections-2016","Archives":"https:\/\/user.chillicothegazette.com\/PCHI-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fchillicothegazette.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.chillicothegazette.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.chillicothegazette.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.chillicothegazette.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.chillicothegazette.com\/section\/news01","Ohio News":"http:\/\/www.centralohio.com\/index.html","Sports":"http:\/\/www.chillicothegazette.com\/section\/sports","Entertainment":"http:\/\/www.chillicothegazette.com\/section\/entertainment","Life":"http:\/\/www.chillicothegazette.com\/section\/lifestyle","Data Center":"http:\/\/www.chillicothegazette.com\/data","Obituaries":"http:\/\/www.legacy.com\/obituaries\/chillicothegazette\/","Video":"http:\/\/www.chillicothegazette.com\/section\/videonetwork","Help":"http:\/\/www.chillicothegazette.com\/help"}</BottomLinks>
+	<Lat>39.333118</Lat>
+	<Lng>-82.982399</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

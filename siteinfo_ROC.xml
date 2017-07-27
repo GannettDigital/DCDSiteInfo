@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>ROC</SiteCode>
+	<SiteName>democratandchronicle</SiteName>
+	<Url>classifieds.democratandchronicle.com</Url>
+	<SiteUrl>http://www.democratandchronicle.com/</SiteUrl>
+	<BusName> Democrat and Chronicle</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>ROC</SiteGroup>
+	<City>Rochester</City>
+	<State>New York</State>
+	<Domain>democratandchronicle.com</Domain>
+	<DFP>ny-rochester-C1070</DFP>
+	<DFPmobile>ny-rochester-mobile-C1070</DFPmobile>
+	<Gpaper>gpaper164</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.democratandchronicle.com\/#ht=Headerhome","News":"http:\/\/www.democratandchronicle.com\/news\/#ht=Headernews","Sports":"http:\/\/www.democratandchronicle.com\/sports\/#ht=Headersports","Life":"http:\/\/www.democratandchronicle.com\/life\/#ht=Headerlife","Business":"http:\/\/www.democratandchronicle.com\/business\/#ht=Headerbusiness","Flavors":"http:\/\/www.democratandchronicle.com\/rocflavors\/#ht=Headerflavors","Opinion":"http:\/\/www.democratandchronicle.com\/opinion\/#ht=Headeropinion","Roc Magazine":"http:\/\/www.democratandchronicle.com\/magazine\/#ht=Headermagazine","NY Data":"http:\/\/rochester.nydatabases.com\/#ht=Headerroc-docs","RocRoots":"http:\/\/www.democratandchronicle.com\/life\/rocroots\/#ht=Headerrocroots","Archives":"http:\/\/democratandchronicle.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.democratandchronicle.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.democratandchronicle.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.democratandchronicle.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.democratandchronicle.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>43.154213</Lat>
+	<Lng>-77.612053</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

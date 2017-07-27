@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>MON</SiteCode>
+	<SiteName>thenewsstar</SiteName>
+	<Url>classifieds.thenewsstar.com</Url>
+	<SiteUrl>http://www.thenewsstar.com/</SiteUrl>
+	<BusName>The News-Star</BusName>
+	<Palette>7</Palette>
+	<SiteGroup>ANI,MON,ODW,SHR,TDA</SiteGroup>
+	<City>Monroe</City>
+	<State>Louisiana</State>
+	<Domain>thenewsstar.com</Domain>
+	<DFP>la-monroe-C1055</DFP>
+	<DFPmobile>la-monroe-mobile-C1055</DFPmobile>
+	<Gpaper>gpaper148</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.thenewsstar.com\/#ht=Headerhome","News":"http:\/\/www.thenewsstar.com\/news\/#ht=Headernews","Sports":"http:\/\/www.thenewsstar.com\/sports\/#ht=Headersports","Opinion":"http:\/\/www.thenewsstar.com\/opinion\/#ht=Headeropinion","Features":"http:\/\/www.thenewsstar.com\/features\/#ht=Headerfeatures","Delta Business":"http:\/\/www.thenewsstar.com\/delta-business\/#ht=Headerbusiness","Obituaries":"http:\/\/www.legacy.com\/obituaries\/TheNewsStar\/#ht=Headerobituaries","Archives":"https:\/\/user.thenewsstar.com\/PMON-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fthenewsstar.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.thenewsstar.com\/section\/global\/nation-now\/ #ht=Headerusa-today","Elections 2016":"http:\/\/www.thenewsstar.com\/elections-2016\/#ht=Headerelections-2016","Media":"http:\/\/www.thenewsstar.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.thenewsstar.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.thenewsstar.com\/section\/news01","Sports":"http:\/\/www.thenewsstar.com\/section\/SPORTS","Opinion":"http:\/\/www.thenewsstar.com\/section\/opinion","Accent":"http:\/\/www.thenewsstar.com\/section\/LIFESTYLE","Multimedia":"http:\/\/www.thenewsstar.com\/section\/VIDEONETWORK","Obituaries":"http:\/\/www.legacy.com\/obituaries\/TheNewsStar\/","Help":"http:\/\/www.thenewsstar.com\/help"}</BottomLinks>
+	<Lat>32.509312</Lat>
+	<Lng>-92.119301</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

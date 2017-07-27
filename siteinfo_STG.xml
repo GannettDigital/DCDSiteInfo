@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>STG</SiteCode>
+	<SiteName>thespectrum</SiteName>
+	<Url>classifieds.thespectrum.com</Url>
+	<SiteUrl>http://www.thespectrum.com/</SiteUrl>
+	<BusName>The Spectrum</BusName>
+	<Palette>4</Palette>
+	<SiteGroup>STG</SiteGroup>
+	<City>St. George</City>
+	<State>Utah</State>
+	<Domain>thespectrum.com</Domain>
+	<DFP>ut-stgeorge-C1530</DFP>
+	<DFPmobile>ut-stgeorge-mobile-C1530</DFPmobile>
+	<Gpaper>gpaper173</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.thespectrum.com\/#ht=Headerhome","News":"http:\/\/www.thespectrum.com\/news\/#ht=Headernews","Life":"http:\/\/www.thespectrum.com\/life\/#ht=Headerlife","Sports":"http:\/\/www.thespectrum.com\/sports\/#ht=Headersports","Opinion":"http:\/\/www.thespectrum.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/thespectrum\/#ht=Headerobituaries","Cedar City":"http:\/\/www.thespectrum.com\/cedar-city\/#ht=Headercedar-city","Mesquite":"http:\/\/www.thespectrum.com\/mesquite\/#ht=Headermesquite","Archives":"https:\/\/user.thespectrum.com\/PSTG-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fthespectrum.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.thespectrum.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.thespectrum.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.thespectrum.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.thespectrum.com\/section\/news01","Obituaries":"http:\/\/www.thespectrum.com\/OBITUARIES","Sports":"http:\/\/www.thespectrum.com\/section\/sports","Opinion":"http:\/\/www.thespectrum.com\/section\/opinion","Multimedia":"http:\/\/www.thespectrum.com\/section\/galleriessectionfront","Life":"http:\/\/www.thespectrum.com\/section\/lifestyle","Outdoors":"http:\/\/www.thespectrum.com\/section\/outdoors","Help":"http:\/\/www.thespectrum.com\/section\/customerservice","Cedar City":"http:\/\/www.thespectrum.com\/section\/cedarcity"}</BottomLinks>
+	<Lat>37.096527</Lat>
+	<Lng>-113.568413</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

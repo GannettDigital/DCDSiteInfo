@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>MAN</SiteCode>
+	<SiteName>htrnews</SiteName>
+	<Url>classifieds.htrnews.com</Url>
+	<SiteUrl>http://www.htrnews.com/</SiteUrl>
+	<BusName>The Herald Times Reporter</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>GPG,SHE,AAP,APC,MAN,MNH,OSH,SPJ,WDH,WRT,DCA,OCR,KSN</SiteGroup>
+	<City>Manitowoc</City>
+	<State>Wisconsin</State>
+	<Domain>htrnews.com</Domain>
+	<DFP>wi-manitowoc-C1517</DFP>
+	<DFPmobile>wi-manitowoc-mobile-C1517</DFPmobile>
+	<Gpaper>gpaper188</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.htrnews.com\/#ht=Headerhome","News":"http:\/\/www.htrnews.com\/news\/#ht=Headernews","Business":"http:\/\/www.htrnews.com\/business\/#ht=Headerbusiness","Sports":"http:\/\/www.htrnews.com\/sports\/#ht=Headersports","Packers":"http:\/\/www.htrnews.com\/packers\/#ht=Headerpackers","Opinion":"http:\/\/www.htrnews.com\/opinion\/#ht=Headeropinion","Go 920!":"http:\/\/www.htrnews.com\/go-920\/#ht=Headergo-920","Life":"http:\/\/www.htrnews.com\/life\/#ht=Headerlife","Outdoors":"http:\/\/www.htrnews.com\/outdoors\/#ht=Headeroutdoors","Archives":"https:\/\/user.htrnews.com\/PMAC-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fhtrnews.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.htrnews.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.htrnews.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.htrnews.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.htrnews.com\/section\/MAN01","Sports":"http:\/\/www.htrnews.com\/section\/man02","Business":"http:\/\/www.htrnews.com\/section\/man03","Life&Style":"http:\/\/www.htrnews.com\/section\/man04","Entertainment":"http:\/\/www.manitowochub.com","Opinion":"http:\/\/www.htrnews.com\/section\/man06","Photos":"http:\/\/www.htrnews.com\/section\/permgall","Videos":"http:\/\/www.htrnews.com\/section\/videonetwork","Help":"http:\/\/www.htrnews.com\/section\/help","Obituaries":"http:\/\/www.legacy.com\/obituaries\/htrnews\/"}</BottomLinks>
+	<Lat>44.088608</Lat>
+	<Lng>-87.657585</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

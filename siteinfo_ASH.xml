@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>ASH</SiteCode>
+	<SiteName>citizen-times</SiteName>
+	<Url>classifieds.citizen-times.com</Url>
+	<SiteUrl>http://www.citizen-times.com/</SiteUrl>
+	<BusName>Asheville Citizen-Times</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>ASH</SiteGroup>
+	<City>Asheville</City>
+	<State>North Carolina</State>
+	<Domain>citizen-times.com</Domain>
+	<DFP>nc-asheville-C1122</DFP>
+	<DFPmobile>nc-asheville-mobile-C1122</DFPmobile>
+	<Gpaper>gpaper108</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.citizen-times.com\/#ht=Headerhome","Local":"http:\/\/www.citizen-times.com\/local\/#ht=Headerlocal","Sports":"http:\/\/www.citizen-times.com\/sports\/#ht=Headersports","Asheville Scene":"http:\/\/www.citizen-times.com\/asheville-scene\/#ht=Headerasheville-scene","Lifestyle":"http:\/\/www.citizen-times.com\/lifestyle\/#ht=Headerlifestyle","Voices & Views":"http:\/\/www.citizen-times.com\/voices-views\/#ht=Headervoices-views","Outdoors":"http:\/\/www.citizen-times.com\/outdoors\/#ht=Headeroutdoors","Obituaries":"http:\/\/www.legacy.com\/obituaries\/Citizen-Times\/#ht=Headerobituaries","AVL Biz":"http:\/\/www.citizen-times.com\/business\/#ht=Headerbusiness","Archives":"https:\/\/user.citizen-times.com\/PASH-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fcitizen-times.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.citizen-times.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.citizen-times.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.citizen-times.com\/media\/latest\/local\/#ht=Headermedia","More":"http:\/\/www.citizen-times.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>35.595058</Lat>
+	<Lng>-82.551491</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

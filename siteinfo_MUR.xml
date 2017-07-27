@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>MUR</SiteCode>
+	<SiteName>dnj</SiteName>
+	<Url>classifieds.dnj.com</Url>
+	<SiteUrl>http://www.dnj.com/</SiteUrl>
+	<BusName>The Daily News Journal</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>MUR,JTN,CLR,NAS</SiteGroup>
+	<City>Murfreesboro</City>
+	<State>Tennessee</State>
+	<Domain>dnj.com</Domain>
+	<DFP>tn-murfreesboro-C1137</DFP>
+	<DFPmobile>tn-murfreesboro-mobile-C1137</DFPmobile>
+	<Gpaper>gpaper214</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.dnj.com\/#ht=Headerhome","News":"http:\/\/www.dnj.com\/news\/#ht=Headernews","Sports":"http:\/\/www.dnj.com\/sports\/#ht=Headersports","Blue Raiders":"http:\/\/www.dnj.com\/blue-raiders\/#ht=Headerblue-raiders","Lifestyles":"http:\/\/www.dnj.com\/lifestyles\/#ht=Headerlifestyles","Opinion":"http:\/\/www.dnj.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/dnj\/#ht=Headerobituaries","TPA PUBLIC NOTICES":"http:\/\/www.publicnoticeads.com\/tn\/search\/searchnotices.asp#ht=Headertpa-public-notices","Photo-Video":"http:\/\/www.dnj.com\/media\/latest\/news\/#ht=Headerphoto-video","Archives":"https:\/\/user.dnj.com\/PMUR-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fdnj.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.dnj.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.dnj.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.dnj.com\/section\/news01","Sports":"http:\/\/www.dnj.com\/section\/sports","Opinion":"http:\/\/www.dnj.com\/section\/opinion","Blue Raiders":"http:\/\/www.dnj.com\/section\/blueraiders","Obituaries":"http:\/\/www.legacy.com\/obituaries\/dnj\/","Lifestyles":"http:\/\/www.dnj.com\/section\/lifestyle&template=cover","Multimedia":"http:\/\/www.dnj.com\/section\/VIDEONETWORK","Help":"http:\/\/www.dnj.com\/help"}</BottomLinks>
+	<Lat>35.845619</Lat>
+	<Lng>-86.390266</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

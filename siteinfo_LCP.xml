@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>LCP</SiteCode>
+	<SiteName>livingstondaily</SiteName>
+	<Url>classifieds.livingstondaily.com</Url>
+	<SiteUrl>http://www.livingstondaily.com/</SiteUrl>
+	<BusName>Daily Press & Argus</BusName>
+	<Palette>10</Palette>
+	<SiteGroup>LCP,LIV,DFP,TDN</SiteGroup>
+	<City>Howell</City>
+	<State>Michigan</State>
+	<Domain>livingstondaily.com</Domain>
+	<DFP>mi-livingstoncounty-C1553</DFP>
+	<DFPmobile>mi-livingstoncounty-mobile-C1553</DFPmobile>
+	<Gpaper>gpaper219</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.livingstondaily.com\/#ht=Headerhome","News":"http:\/\/www.livingstondaily.com\/news\/#ht=Headernews","Sports":"http:\/\/www.livingstondaily.com\/sports\/#ht=Headersports","Elections 2016":"http:\/\/www.livingstondaily.com\/section\/elections-2016\/#ht=Headerelections-2016","Life":"http:\/\/www.livingstondaily.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.livingstondaily.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.livingstondaily.com\/opinion\/#ht=Headeropinion","Archives":"https:\/\/user.livingstondaily.com\/PLID-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Flivingstondaily.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.livingstondaily.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.livingstondaily.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.livingstondaily.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.livingstondaily.com\/section\/news","Classifieds":"http:\/\/www.livingstondaily.com\/section\/classifieds","Opinion":"http:\/\/www.livingstondaily.com\/section\/opinion","Sports":"http:\/\/www.livingstondaily.com\/section\/sports","Multimedia":"http:\/\/www.livingstondaily.com\/section\/galleriessectionfront","Calendar":"http:\/\/www.livingstondaily.com\/calendar","Lifestyle":"http:\/\/www.livingstondaily.com\/section\/lifestyle","Obituaries":"http:\/\/deathnotices.michigan.com\/results.php?page=1&0010=true&page=1&0050=true&name=&date-range=30&publication=DPA","Help":"http:\/\/www.livingstondaily.com\/section\/customerservice"}</BottomLinks>
+	<Lat>42.607254</Lat>
+	<Lng>-83.929398</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

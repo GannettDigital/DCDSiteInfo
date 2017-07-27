@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>ASB</SiteCode>
+	<SiteName>app</SiteName>
+	<Url>classifieds.app.com</Url>
+	<SiteUrl>http://www.app.com/</SiteUrl>
+	<BusName>The Asbury Park Press</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>ASB,CNJ,MOR</SiteGroup>
+	<City>Asbury Park</City>
+	<State>New Jersey</State>
+	<Domain>app.com</Domain>
+	<DFP>nj-asburypark-C1171</DFP>
+	<DFPmobile>nj-asburypark-mobile-C1171</DFPmobile>
+	<Gpaper>gpaper107</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.app.com\/#ht=Headerhome","News":"http:\/\/www.app.com\/news\/#ht=Headernews","Sports":"http:\/\/www.app.com\/sports\/#ht=Headersports","Watchdog":"http:\/\/www.app.com\/watchdog\/#ht=Headerwatchdog","@Issue":"http:\/\/www.app.com\/at-issue\/#ht=Headerat-issue","Living in Jersey":"http:\/\/www.app.com\/living-in-jersey\/#ht=Headerliving-in-jersey","@Play":"http:\/\/www.app.com\/at-play\/#ht=Headerat-play","Chris Christie":"http:\/\/www.app.com\/topic\/bcd4a1cc-655e-48f2-90b1-9c69334db5c7\/gov-chris-christie\/#ht=Headerchris-christie","Obituaries":"http:\/\/www.legacy.com\/obituaries\/app\/#ht=Headerobituaries","Archives":"https:\/\/user.app.com\/PAPP-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fapp.newspapers.com#ht=Headerarchives","Insider":"http:\/\/app.com\/insider#ht=Headerinsider","USA TODAY":"http:\/\/www.app.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.app.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.app.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.app.com\/section\/NJNEWS","Communities":"http:\/\/www.app.com\/section\/NJTOWNS","Data Universe":"http:\/\/www.app.com\/section\/DATA","Sports":"http:\/\/www.app.com\/section\/NJSPORTS","Deals":"http:\/\/monmouth.njbestbuys.com","Leisure":"http:\/\/www.app.com\/section\/NJENT","Opinion":"http:\/\/www.app.com\/section\/NJOPINION","Obituaries":"http:\/\/www.legacy.com\/obituaries\/app\/","Help":"http:\/\/www.app.com\/section\/CUSTOMERSERVICE"}</BottomLinks>
+	<Lat>40.220390</Lat>
+	<Lng>-74.012085</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

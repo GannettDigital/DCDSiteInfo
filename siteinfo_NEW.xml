@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>NEW</SiteCode>
+	<SiteName>newarkadvocate</SiteName>
+	<Url>classifieds.newarkadvocate.com</Url>
+	<SiteUrl>http://www.newarkadvocate.com/</SiteUrl>
+	<BusName>The Newark Advocate</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>BUC,CGO,COS,FRE,LAN,MAR,MNJ,NEW,PTC,ZAN</SiteGroup>
+	<City>Newark</City>
+	<State>Ohio</State>
+	<Domain>newarkadvocate.com</Domain>
+	<DFP>oh-newark-C1506</DFP>
+	<DFPmobile>oh-newark-mobile-C1506</DFPmobile>
+	<Gpaper>gpaper236</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.newarkadvocate.com\/#ht=Headerhome","News":"http:\/\/www.newarkadvocate.com\/news\/#ht=Headernews","Sports":"http:\/\/www.newarkadvocate.com\/sports\/#ht=Headersports","Business":"http:\/\/www.newarkadvocate.com\/business\/#ht=Headerbusiness","Life & Events":"http:\/\/www.newarkadvocate.com\/life-events\/#ht=Headerlife-events","Obituaries":"http:\/\/www.legacy.com\/obituaries\/newarkadvocate\/#ht=Headerobituaries","Elections 2016":"http:\/\/www.newarkadvocate.com\/section\/elections-2016\/#ht=Headerelections-2016","Archives":"https:\/\/user.newarkadvocate.com\/PNEW-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fnewarkadvocate.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.newarkadvocate.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.newarkadvocate.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.newarkadvocate.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.newarkadvocate.com\/section\/news01?odyssey=nav|p|news","Ohio News":"http:\/\/www.centralohio.com\/index.html?odyssey=nav|p|ohionews","Sports":"http:\/\/www.newarkadvocate.com\/section\/sports?odyssey=nav|p|sports","Entertainment":"http:\/\/www.newarkadvocate.com\/section\/entertainment?odyssey=nav|p|entertainment","Life":"http:\/\/www.newarkadvocate.com\/section\/lifestyle?odyssey=nav|p|life","Data Center":"http:\/\/www.newarkadvocate.com\/data","Obituaries":"http:\/\/www.newarkadvocate.com\/obituaries?odyssey=nav|p|obituaries","Video":"http:\/\/www.newarkadvocate.com\/section\/videonetwork?odyssey=nav|s|videos","Help":"http:\/\/www.newarkadvocate.com\/help"}</BottomLinks>
+	<Lat>40.058121</Lat>
+	<Lng>-82.401260</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

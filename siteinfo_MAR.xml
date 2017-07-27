@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>MAR</SiteCode>
+	<SiteName>marionstar</SiteName>
+	<Url>classifieds.marionstar.com</Url>
+	<SiteUrl>http://www.marionstar.com/</SiteUrl>
+	<BusName>The Marion Star</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>BUC,CGO,COS,FRE,LAN,MAR,MNJ,NEW,PTC,ZAN</SiteGroup>
+	<City>Marion</City>
+	<State>Ohio</State>
+	<Domain>marionstar.com</Domain>
+	<DFP>oh-marion-C1505</DFP>
+	<DFPmobile>oh-marion-mobile-C1505</DFPmobile>
+	<Gpaper>gpaper235</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.marionstar.com\/#ht=Headerhome","News":"http:\/\/www.marionstar.com\/news\/#ht=Headernews","Sports":"http:\/\/www.marionstar.com\/sports\/#ht=Headersports","Life & Events":"http:\/\/www.marionstar.com\/life-events\/#ht=Headerlife-events","Obituaries":"http:\/\/www.legacy.com\/obituaries\/marionstar\/#ht=Headerobituaries","Elections 2016":"http:\/\/www.marionstar.com\/section\/elections-2016\/#ht=Headerelections-2016","Archives":"https:\/\/user.marionstar.com\/PMAR-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fmarionstar.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.marionstar.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.marionstar.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.marionstar.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.marionstar.com\/section\/news01","Ohio News":"http:\/\/www.centralohio.com\/","Sports":"http:\/\/www.marionstar.com\/section\/sports","Entertainment":"http:\/\/www.marionstar.com\/section\/entertainment","Life":"http:\/\/www.marionstar.com\/section\/lifestyle","Data Center":"http:\/\/www.marionstar.com\/data","Obituaries":"http:\/\/www.legacy.com\/obituaries\/marionstar\/","Video":"http:\/\/www.marionstar.com\/video","Help":"http:\/\/www.marionstar.com\/help"}</BottomLinks>
+	<Lat>40.588669</Lat>
+	<Lng>-83.128525</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

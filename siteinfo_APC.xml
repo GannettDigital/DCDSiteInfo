@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>APC</SiteCode>
+	<SiteName>postcrescent</SiteName>
+	<Url>classifieds.postcrescent.com</Url>
+	<SiteUrl>http://www.postcrescent.com/</SiteUrl>
+	<BusName>The Post-Crescent</BusName>
+	<Palette>92</Palette>
+	<SiteGroup>GPG,SHE,AAP,APC,MAN,MNH,OSH,SPJ,WDH,WRT,DCA,OCR,KSN</SiteGroup>
+	<City>Appleton</City>
+	<State>Wisconsin</State>
+	<Domain>postcrescent.com</Domain>
+	<DFP>wi-appleton-C1515</DFP>
+	<DFPmobile>wi-appleton-mobile-C1515</DFPmobile>
+	<Gpaper>gpaper186</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.postcrescent.com\/#ht=Headerhome","News":"http:\/\/www.postcrescent.com\/news\/#ht=Headernews","Business":"http:\/\/www.postcrescent.com\/business\/#ht=Headerbusiness","Sports":"http:\/\/www.postcrescent.com\/sports\/#ht=Headersports","Packers":"http:\/\/www.postcrescent.com\/packers\/#ht=Headerpackers","Opinion":"http:\/\/www.postcrescent.com\/opinion\/#ht=Headeropinion","Go 920!":"http:\/\/www.postcrescent.com\/go-920\/#ht=Headergo-920","Life":"http:\/\/www.postcrescent.com\/life\/#ht=Headerlife","Outdoors":"http:\/\/www.postcrescent.com\/outdoors\/#ht=Headeroutdoors","Archives":"https:\/\/user.postcrescent.com\/PAPN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fpostcrescent.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.postcrescent.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.postcrescent.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.postcrescent.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.postcrescent.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.postcrescent.com\/section\/APC01","Business":"http:\/\/www.postcrescent.com\/section\/APC03","Sports":"http:\/\/www.postcrescent.com\/section\/APC02","Life & Style":"http:\/\/www.postcrescent.com\/section\/APC04","Entertainment":"http:\/\/appletonhub.postcrescent.com\/","Views":"http:\/\/www.postcrescent.com\/section\/APC06","Photos":"http:\/\/www.postcrescent.com\/section\/permgall","Videos":"http:\/\/www.postcrescent.com\/section\/videonetwork","Help":"http:\/\/www.postcrescent.com\/section\/help","Obituaries":"http:\/\/www.legacy.com\/obituaries\/postcrescent\/"}</BottomLinks>
+	<Lat>44.261932</Lat>
+	<Lng>-88.415382</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

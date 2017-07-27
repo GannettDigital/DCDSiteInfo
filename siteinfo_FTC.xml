@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>FTC</SiteCode>
+	<SiteName>coloradoan</SiteName>
+	<Url>classifieds.coloradoan.com</Url>
+	<SiteUrl>http://www.coloradoan.com/</SiteUrl>
+	<BusName>Fort Collins Coloradoan</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>FTC</SiteGroup>
+	<City>Fort Collins</City>
+	<State>Colorado</State>
+	<Domain>coloradoan.com</Domain>
+	<DFP>co-fortcollins-C1021</DFP>
+	<DFPmobile>co-fortcollins-mobile-C1021</DFPmobile>
+	<Gpaper>gpaper127</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.coloradoan.com\/#ht=Headerhome","News":"http:\/\/www.coloradoan.com\/news\/#ht=Headernews","Sports":"http:\/\/www.coloradoan.com\/sports\/#ht=Headersports","Business":"http:\/\/www.coloradoan.com\/business#ht=Headerbusiness","NoCo Life":"http:\/\/www.coloradoan.com\/life\/#ht=Headerlife","Xplore":"http:\/\/www.coloradoan.com\/sports\/xplore-outdoors\/#ht=Headerxplore","Windsor Beacon":"http:\/\/www.coloradoan.com\/windsor-beacon\/#ht=Headerwindsor-beacon","Opinion":"http:\/\/www.coloradoan.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/coloradoan\/#ht=Headerobituaries","Archives":"https:\/\/user.coloradoan.com\/PFTC-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fcoloradoan.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.coloradoan.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.coloradoan.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.coloradoan.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.coloradoan.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>40.585258</Lat>
+	<Lng>-105.084419</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

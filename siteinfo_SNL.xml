@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>SNL</SiteCode>
+	<SiteName>news-leader</SiteName>
+	<Url>classifieds.news-leader.com</Url>
+	<SiteUrl>http://www.news-leader.com/</SiteUrl>
+	<BusName>Springfield News-Leader</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>SNL</SiteGroup>
+	<City>Springfield</City>
+	<State>Missouri</State>
+	<Domain>news-leader.com</Domain>
+	<DFP>mo-springfield-C1042</DFP>
+	<DFPmobile>mo-springfield-mobile-C1042</DFPmobile>
+	<Gpaper>gpaper171</Gpaper>
+	<TopLinks>{"home":"http:\/\/www.news-leader.com\/#ht=Headerhome","news":"http:\/\/www.news-leader.com\/news\/#ht=Headernews","sports":"http:\/\/www.news-leader.com\/sports\/#ht=Headersports","life":"http:\/\/www.news-leader.com\/life\/#ht=Headerlife","opinion":"http:\/\/www.news-leader.com\/opinion\/#ht=Headeropinion","entertainment":"http:\/\/www.news-leader.com\/entertainment\/#ht=Headerentertainment","Obituaries":"http:\/\/www.legacy.com\/obituaries\/news-leader\/#ht=Headerobituaries","Archives":"https:\/\/user.news-leader.com\/PSPR-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fnews-leader.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.news-leader.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.news-leader.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.news-leader.com#ht=Headertext"}</TopLinks>
+	<BottomLinks></BottomLinks>
+	<Lat>37.208958</Lat>
+	<Lng>-93.292297</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

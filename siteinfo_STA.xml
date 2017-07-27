@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>STA</SiteCode>
+	<SiteName>newsleader</SiteName>
+	<Url>classifieds.newsleader.com</Url>
+	<SiteUrl>http://www.newsleader.com/</SiteUrl>
+	<BusName>The News Leader</BusName>
+	<Palette>2</Palette>
+	<SiteGroup>STA</SiteGroup>
+	<City>Staunton</City>
+	<State>Virginia</State>
+	<Domain>newsleader.com</Domain>
+	<DFP>va-staunton-C1125</DFP>
+	<DFPmobile>va-staunton-mobile-C1125</DFPmobile>
+	<Gpaper>gpaper174</Gpaper>
+	<TopLinks>{"Home":"http:\/\/www.newsleader.com\/#ht=Headerhome","Local":"http:\/\/www.newsleader.com\/local\/#ht=Headerlocal","Sports":"http:\/\/www.newsleader.com\/sports\/#ht=Headersports","Lifestyles":"http:\/\/www.newsleader.com\/lifestyles\/#ht=Headerlifestyles","In Depth":"http:\/\/www.newsleader.com\/in-depth\/#ht=Headerin-depth","Opinions":"http:\/\/www.newsleader.com\/opinions\/#ht=Headeropinions","Obituaries":"http:\/\/www.legacy.com\/obituaries\/newsleader\/#ht=Headerobituaries","Elections 2016":"http:\/\/www.newsleader.com\/section\/elections-2016\/#ht=Headerelections-2016","Archives":"https:\/\/user.newsleader.com\/PSTA-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fnewsleader.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.newsleader.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.newsleader.com\/media\/#ht=Headermedia","More":"http:\/\/www.newsleader.com#ht=Headertext"}</TopLinks>
+	<BottomLinks>{"News":"http:\/\/www.newsleader.com\/section\/NEWS01","Sports":"http:\/\/www.newsleader.com\/section\/SPORTS","Voices":"http:\/\/www.newsleader.com\/section\/OPINION","Lifestyles":"http:\/\/www.newsleader.com\/section\/LIFESTYLE","Entertainment":"http:\/\/www.newsleader.com\/section\/ENTERTAINMENT","Weather":"http:\/\/newsleader.weather.gannettonline.com\/apps\/pbcs.dll\/section?Category=WEATHER01&city=Staunton&state=VA","Obituaries":"http:\/\/www.newsleader.com\/section\/OBITUARIES","Help":"http:\/\/www.newsleader.com\/section\/CUSTOMERSERVICE"}</BottomLinks>
+	<Lat>38.149574</Lat>
+	<Lng>-79.071693</Lng>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>
