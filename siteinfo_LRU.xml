@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>LRU</SiteCode>
+	<SiteName>lcsun-news</SiteName>
+	<Url>classifieds.lcsun-news.com</Url>
+	<SiteUrl>http://www.lcsun-news.com/</SiteUrl>
+	<BusName>Las Cruces Sun-News</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>ALM,CNM,DNM,ELP,FMN,LRU,RUI,SCS</SiteGroup>
+	<City>Las Cruces</City>
+	<State>New Mexico</State>
+	<Domain>lcsun-news.com</Domain>
+	<DFP>nm-lascruces-C1280</DFP>
+	<DFPmobile>nm-lascruces-mobile-C1280</DFPmobile>
+	<Gpaper>gpaper302</Gpaper>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.lcsun-news.com\/#ht=Headerhome","News":"http:\/\/www.lcsun-news.com\/news\/#ht=Headernews","Sports":"http:\/\/www.lcsun-news.com\/sports\/#ht=Headersports","Business":"http:\/\/www.lcsun-news.com\/business\/#ht=Headerbusiness","Entertainment":"http:\/\/www.lcsun-news.com\/entertainment\/#ht=Headerentertainment","Lifestyle":"http:\/\/www.lcsun-news.com\/lifestyle\/#ht=Headerlifestyle","Opinion":"http:\/\/www.lcsun-news.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/lcsun-news\/#ht=Headerobituaries","Homes":"http:\/\/www.lcsun-news.com\/marketplace\/real-estate\/#ht=Headerhomes","Missile Ranger":"http:\/\/www.missileranger.com\/#ht=Headermissileranger","Insider":"http:\/\/www.lcsun-news.com\/insider\/#ht=Headerinsider","USA Today":"http:\/\/www.lcsun-news.com\/section\/global\/nation-now\/#ht=Headerusa-today","media":"http:\/\/www.lcsun-news.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.lcsun-news.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.lcsun-news.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
+	<Lat>32.311001</Lat>
+	<Lng>-106.781403</Lng>
+	<ImgSiteName>lcsun-news</ImgSiteName>
+	<SiteLinks><![CDATA[{"cars": "http://www.newmexicodrives.com","jobs": "http://www.lcsun-news.com/marketplace/jobs","homes": "http://www.lcsun-news.com/marketplace/real-estate","img": {"cars": "http://production.elpasotimes.net/Logos/NMDrives.gif","jobs": "http://classifieds.lcsun-news.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

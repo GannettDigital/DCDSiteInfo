@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>RUI</SiteCode>
+	<SiteName>ruidosonews</SiteName>
+	<Url>classifieds.ruidosonews.com</Url>
+	<SiteUrl>http://www.ruidosonews.com/</SiteUrl>
+	<BusName>Ruidoso News</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>ALM,CNM,DNM,ELP,FMN,LRU,RUI,SCS</SiteGroup>
+	<City>Ruidoso</City>
+	<State>New Mexico</State>
+	<Domain>ruidosonews.com</Domain>
+	<DFP>nm-ruidoso-C1283</DFP>
+	<DFPmobile>nm-ruidoso-mobile-C1283</DFPmobile>
+	<Gpaper>gpaper312</Gpaper>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.ruidosonews.com\/#ht=Headerhome","News":"http:\/\/www.ruidosonews.com\/news\/#ht=Headernews","Sports":"http:\/\/www.ruidosonews.com\/sports\/#ht=Headersports","Entertainment":"http:\/\/www.ruidosonews.com\/entertainment\/#ht=Headerentertainment","Local Life":"http:\/\/www.ruidosonews.com\/local-life\/#ht=Headerlocal-life","Obituaries":"http:\/\/www.legacy.com\/obituaries\/ruidosonews\/#ht=Headerobituaries","Homes":"http:\/\/www.ruidosonews.com\/marketplace\/real-estate\/#ht=Headerhomes","Vamonos":"http:\/\/www.ruidosonews.com\/news\/vamonos#ht=Headervamonos","USA Today":"http:\/\/www.ruidosonews.com\/section\/global\/nation-now\/#ht=Headerusa-today","media":"http:\/\/www.ruidosonews.com\/media\/latest\/home\/#ht=Headermedia","More":"http:\/\/www.ruidosonews.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
+	<Lat>33.328300</Lat>
+	<Lng>-105.662903</Lng>
+	<ImgSiteName>ruidosonews</ImgSiteName>
+	<SiteLinks><![CDATA[{"cars": "http://www.newmexicodrives.com","jobs": "http://www.ruidosonews.com/marketplace/jobs","homes": "http://www.ruidosonews.com/marketplace/real-estate","img": {"cars": "http://production.elpasotimes.net/Logos/NMDrives.gif","jobs": "http://classifieds.ruidosonews.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>

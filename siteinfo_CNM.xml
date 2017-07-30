@@ -1,0 +1,22 @@
+<siteinfo>
+	<SiteCode>CNM</SiteCode>
+	<SiteName>currentargus</SiteName>
+	<Url>classifieds.currentargus.com</Url>
+	<SiteUrl>http://www.currentargus.com/</SiteUrl>
+	<BusName>Current-Argus</BusName>
+	<Palette>91</Palette>
+	<SiteGroup>ALM,CNM,DNM,ELP,FMN,LRU,RUI,SCS</SiteGroup>
+	<City>Carlsbad</City>
+	<State>New Mexico</State>
+	<Domain>currentargus.com</Domain>
+	<DFP>nm-carlsbad-C1282</DFP>
+	<DFPmobile>nm-carlsbad-mobile-C1282</DFPmobile>
+	<Gpaper>gpaper311</Gpaper>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.currentargus.com\/#ht=Headerhome","News":"http:\/\/www.currentargus.com\/news\/#ht=Headernews","Sports":"http:\/\/www.currentargus.com\/sports\/#ht=Headersports","Lifestyle":"http:\/\/www.currentargus.com\/lifestyle\/#ht=Headerlifestyle","Opinion":"http:\/\/www.currentargus.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/currentargus\/#ht=Headerobituaries","Insider":"http:\/\/www.currentargus.com\/insider\/#ht=Headerinsider","USA Today":"http:\/\/www.currentargus.com\/section\/global\/nation-now\/#ht=Headerusa-today","media":"http:\/\/www.currentargus.com\/media\/latest\/home\/#ht=Headermedia","Subscribe":"http:\/\/offers.currentargus.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.currentargus.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
+	<Lat>32.414200</Lat>
+	<Lng>-104.226402</Lng>
+	<ImgSiteName>currentargus</ImgSiteName>
+	<SiteLinks><![CDATA[{"cars": "http://www.newmexicodrives.com","jobs": "http://www.currentargus.com/marketplace/jobs","homes": "http://www.currentargus.com/marketplace/real-estate","img": {"cars": "http://production.elpasotimes.net/Logos/NMDrives.gif","jobs": "http://classifieds.currentargus.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
+	<TimeZone></TimeZone>
+</siteinfo>
