@@ -17,6 +17,6 @@
 	<Lat>30.224091</Lat>
 	<Lng>-92.019844</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://www.theadvertiser.com/cars","jobs": "http://www.theadvertiser.com/jobs","homes": "http://www.theadvertiser.com/homes","img": {"cars": "http://classifieds.theadvertiser.com/img/partners/130-cars.gif","jobs": "http://classifieds.theadvertiser.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2017/02/09/LAGroup/LafayetteLA/636222536306692696-placesterhomefinder-130x60.jpg.jpeg"}}]]></SiteLinks>
+	<SiteLinks><![CDATA[{jobs:http://www.theadvertiser.com/jobs,homes:http://www.theadvertiser.com/homes,img:{jobs:http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png,homes:http://www.gannett-cdn.com/media/2017/02/09/LAGroup/LafayetteLA/636222536306692696-placesterhomefinder-130x60.jpg.jpeg}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

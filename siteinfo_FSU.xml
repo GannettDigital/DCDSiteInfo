@@ -17,6 +17,6 @@
 	<Lat>30.449327</Lat>
 	<Lng>-84.300743</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks><![CDATA[]]></SiteLinks>
+	<SiteLinks><![CDATA[{"cars":false,"homes":false,"jobs":false}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

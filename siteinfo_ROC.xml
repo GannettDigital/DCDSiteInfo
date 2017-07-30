@@ -17,6 +17,6 @@
 	<Lat>43.154213</Lat>
 	<Lng>-77.612053</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://www.democratandchronicle.com/cars","jobs": "http://www.democratandchronicle.com/jobs","homes": "http://www.democratandchronicle.com/homes","img": {"cars": "http://classifieds.democratandchronicle.com/img/partners/130-cars.gif","jobs": "http://classifieds.democratandchronicle.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
+	<SiteLinks><![CDATA[{jobs:http://www.democratandchronicle.com/jobs,homes:http://www.democratandchronicle.com/homes,img:{jobs:http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png,homes:http://www.gannett-cdn.com/media/2017/02/09/LAGroup/LafayetteLA/636222536306692696-placesterhomefinder-130x60.jpg.jpeg}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>
