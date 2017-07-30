@@ -17,6 +17,6 @@
 	<Lat>42.328861</Lat>
 	<Lng>-83.120667</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://www.freep.com/cars","jobs": "http://www.freep.com/jobs","homes": "http://www.freep.com/homes","img": {"cars": "http://classifieds.freep.com/img/partners/130-cars.gif","jobs": "http://classifieds.freep.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
+	<SiteLinks><![CDATA[{jobs:http://www.freep.com/jobs,homes:http://www.freep.com/homes,img:{jobs:http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png,homes:http://www.gannett-cdn.com/media/2017/02/09/LAGroup/LafayetteLA/636222536306692696-placesterhomefinder-130x60.jpg.jpeg}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

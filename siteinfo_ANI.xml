@@ -17,6 +17,6 @@
 	<Lat>31.311295</Lat>
 	<Lng>-92.445137</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://www.thetowntalk.com/cars","jobs": "http://www.thetowntalk.com/jobs","homes": "http://www.thetowntalk.com/homes","img": {"cars": "http://classifieds.thetowntalk.com/img/partners/130-cars.gif","jobs": "http://classifieds.thetowntalk.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2017/02/09/LAGroup/LafayetteLA/636222539673662279-placesterhomefinder-130x60.png"}}]]></SiteLinks>
+	<SiteLinks><![CDATA[{jobs:http://www.thetowntalk.com/jobs,homes:http://www.thetowntalk.com/homes,img:{jobs:http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png,homes:http://www.gannett-cdn.com/media/2017/02/09/LAGroup/LafayetteLA/636222536306692696-placesterhomefinder-130x60.jpg.jpeg}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

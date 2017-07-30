@@ -17,6 +17,6 @@
 	<Lat>26.640629</Lat>
 	<Lng>-81.872307</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://www.news-press.com/cars","jobs": "http://www.news-press.com/jobs","homes": "http://www.news-press.com/homes","img": {"cars": "http://classifieds.news-press.com/img/partners/130-cars.gif","jobs": "http://classifieds.news-press.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/FortMyers/FortMyers/636076225271847031-placesterhomesftmyers-130x60.jpg"}}]]></SiteLinks>
+	<SiteLinks><![CDATA[{jobs:http://www.news-press.com/jobs,homes:http://www.news-press.com/homes,img:{jobs:http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png,homes:http://www.gannett-cdn.com/media/2017/02/09/LAGroup/LafayetteLA/636222536306692696-placesterhomefinder-130x60.jpg.jpeg}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

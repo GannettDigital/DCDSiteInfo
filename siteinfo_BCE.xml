@@ -17,6 +17,6 @@
 	<Lat>42.321152</Lat>
 	<Lng>-85.179710</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://www.battlecreekenquirer.com/cars","jobs": "http://www.battlecreekenquirer.com/jobs","homes": "http://www.battlecreekenquirer.com/homes","img": {"cars": "http://classifieds.battlecreekenquirer.com/img/partners/130-cars.gif","jobs": "http://classifieds.battlecreekenquirer.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
+	<SiteLinks><![CDATA[{jobs:http://www.battlecreekenquirer.com/jobs,homes:http://www.battlecreekenquirer.com/homes,img:{jobs:http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png,homes:http://www.gannett-cdn.com/media/2017/02/09/LAGroup/LafayetteLA/636222536306692696-placesterhomefinder-130x60.jpg.jpeg}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>
