@@ -5,18 +5,18 @@
 	<SiteUrl>http://www.jacksonsun.com/</SiteUrl>
 	<BusName>The Jackson Sun</BusName>
 	<Palette>92</Palette>
-	<SiteGroup>MUR,JTN,CLR,NAS</SiteGroup>
+	<SiteGroup>MUR,JTN,CLR,NAS,xCCM,xDW,xDH,xFO,xGNE,xHST,xRCE,xSHT,xWILL</SiteGroup>
 	<City>Jackson</City>
 	<State>Tennessee</State>
 	<Domain>jacksonsun.com</Domain>
 	<DFP>tn-jackson-C1151</DFP>
 	<DFPmobile>tn-jackson-mobile-C1151</DFPmobile>
 	<Gpaper>gpaper142</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.jacksonsun.com\/#ht=Headerhome","News":"http:\/\/www.jacksonsun.com\/news\/#ht=Headernews","Opinion":"http:\/\/www.jacksonsun.com\/opinion\/#ht=Headeropinion","Sports":"http:\/\/www.jacksonsun.com\/sports\/#ht=Headersports","Features":"http:\/\/www.jacksonsun.com\/features\/#ht=Headerfeatures","Obituaries":"http:\/\/www.legacy.com\/obituaries\/jacksonsun\/#ht=Headerobituaries","TPA PUBLIC NOTICES":"http:\/\/www.publicnoticeads.com\/tn\/search\/searchnotices.asp#ht=Headertpa-public-notices","Media":"http:\/\/www.jacksonsun.com\/media\/latest\/news\/#ht=Headermedia","Archives":"https:\/\/user.jacksonsun.com\/PJAT-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fjacksonsun.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.jacksonsun.com\/section\/global\/nation-now\/ #ht=Headerusa-today","More":"http:\/\/www.jacksonsun.com#ht=Headertext"}</TopLinks>
-	<BottomLinks>{"News":"http:\/\/www.jacksonsun.com\/section\/NEWS01","Sports":"http:\/\/www.jacksonsun.com\/section\/SPORTS","Opinion":"http:\/\/www.jacksonsun.com\/section\/OPINION","Obituaries":"http:\/\/www.legacy.com\/obituaries\/jacksonsun\/","Weather":"http:\/\/jacksonsun.weather.gannettonline.com\/apps\/pbcs.dll\/section?Category=WEATHER01&city=Jackson&state=TN&nav=7","Features":"http:\/\/www.jacksonsun.com\/section\/LIFESTYLE","Multimedia":"http:\/\/www.jacksonsun.com\/section\/VIDEONETWORK","Help":"http:\/\/www.jacksonsun.com\/help","Social Media":"http:\/\/www.jacksonsun.com#"}</BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.jacksonsun.com\/#ht=Headerhome","News":"http:\/\/www.jacksonsun.com\/news\/#ht=Headernews","Sports":"http:\/\/www.jacksonsun.com\/sports\/#ht=Headersports","Features":"http:\/\/www.jacksonsun.com\/features\/#ht=Headerfeatures","Opinion":"http:\/\/www.jacksonsun.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/jacksonsun\/#ht=Headerobituaries","Media":"http:\/\/www.jacksonsun.com\/media\/latest\/news\/#ht=Headermedia","Archives":"http:\/\/jacksonsun.newspapers.com\/?xid=1232#ht=Headerarchives","Insider":"http:\/\/www.jacksonsun.com\/insider\/#ht=Headerinsider","USA Today":"http:\/\/www.jacksonsun.com\/section\/global\/nation-now\/ #ht=Headerusa-today","More":"http:\/\/www.jacksonsun.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[{"News":"http:\/\/www.jacksonsun.com\/section\/NEWS01","Sports":"http:\/\/www.jacksonsun.com\/section\/SPORTS","Opinion":"http:\/\/www.jacksonsun.com\/section\/OPINION","Obituaries":"http:\/\/www.legacy.com\/obituaries\/jacksonsun\/","Weather":"http:\/\/jacksonsun.weather.gannettonline.com\/apps\/pbcs.dll\/section?Category=WEATHER01&city=Jackson&state=TN&nav=7","Features":"http:\/\/www.jacksonsun.com\/section\/LIFESTYLE","Multimedia":"http:\/\/www.jacksonsun.com\/section\/VIDEONETWORK","Help":"http:\/\/www.jacksonsun.com\/help","Social Media":"http:\/\/www.jacksonsun.com#"}]]></BottomLinks>
 	<Lat>35.614517</Lat>
 	<Lng>-88.813950</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.jacksonsun.com/cars","jobs": "http://www.jacksonsun.com/jobs","homes": "http://www.jacksonsun.com/homes","img": {"cars": "http://classifieds.livingstondaily.com/img/partners/130-cars.gif","jobs": "http://classifieds.jacksonsun.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

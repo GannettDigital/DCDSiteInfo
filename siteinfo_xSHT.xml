@@ -2,7 +2,7 @@
 	<SiteCode>xSHT</SiteCode>
 	<SiteName>theleafchronicle</SiteName>
 	<Url>classifieds.theleafchronicle.com</Url>
-	<SiteUrl>http://www.tennessean.com/</SiteUrl>
+	<SiteUrl>http://www.theleafchronicle.com/</SiteUrl>
 	<BusName>Stewart Houston Times</BusName>
 	<Palette>92</Palette>
 	<SiteGroup>MUR,JTN,CLR,NAS,xCCM,xDW,xDH,xFO,xGNE,xHST,xRCE,xSHT,xWILL</SiteGroup>
@@ -12,11 +12,11 @@
 	<DFP>tn-clarksville-C1126</DFP>
 	<DFPmobile>tn-clarksville-mobile-C1126</DFPmobile>
 	<Gpaper>gpaper121</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.tennessean.com\/#ht=Headerhome","News":"http:\/\/www.tennessean.com\/news\/#ht=Headernews","Counties":"http:\/\/www.tennessean.com\/counties\/#ht=Headercounties","Sports":"http:\/\/www.tennessean.com\/sports\/#ht=Headersports","Business":"http:\/\/www.tennessean.com\/business\/#ht=Headerbusiness","12th & Broad":"http:\/\/www.tennessean.com\/12thandbroad\/#ht=Header12-b","Music":"http:\/\/www.tennessean.com\/music\/#ht=Headermusic","Life":"http:\/\/www.tennessean.com\/lifestyle\/#ht=Headerlifestyle","Opinion":"http:\/\/www.tennessean.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/tennessean\/#ht=Headerobituaries","Archives":"http:\/\/archives.tennessean.com#ht=Headerarchives","Insider":"http:\/\/www.tennessean.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.tennessean.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.tennessean.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.tennessean.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.theleafchronicle.com\/#ht=Headerhome","News":"http:\/\/www.theleafchronicle.com\/news\/#ht=Headernews","Fort Campbell":"http:\/\/www.theleafchronicle.com\/fort-campbell\/#ht=Headerfort-campbell","Sports":"http:\/\/www.theleafchronicle.com\/sports\/#ht=Headersports","Living":"http:\/\/www.theleafchronicle.com\/living\/#ht=Headerliving","Obituaries":"http:\/\/www.legacy.com\/obituaries\/theleafchronicle\/#ht=Headerobituaries","Opinion":"http:\/\/www.theleafchronicle.com\/opinion\/#ht=Headeropinion","Photo-Video":"http:\/\/www.theleafchronicle.com\/media\/latest\/news\/#ht=Headerphoto-video","TPA PUBLIC NOTICES":"http:\/\/www.publicnoticeads.com\/tn\/search\/searchnotices.asp#ht=Headertpa-public-notices","Archives":"http:\/\/theleafchronicle.newspapers.com\/?xid=1245#ht=Headerarchives","Insider":"http:\/\/www.theleafchronicle.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.theleafchronicle.com\/section\/global\/nation-now\/ #ht=Headerusa-today","More":"http:\/\/www.theleafchronicle.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>36.529770</Lat>
 	<Lng>-87.359451</Lng>
 	<ImgSiteName>NULL</ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

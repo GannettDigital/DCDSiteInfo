@@ -12,11 +12,11 @@
 	<DFP>nv-reno-C1011</DFP>
 	<DFPmobile>nv-reno-mobile-C1011</DFPmobile>
 	<Gpaper>gpaper162</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.rgj.com\/#ht=Headerhome","News":"http:\/\/www.rgj.com\/news\/#ht=Headernews","Business":"http:\/\/www.rgj.com\/business\/#ht=Headerbusiness","Sports":"http:\/\/www.rgj.com\/sports\/#ht=Headersports","Life":"http:\/\/www.rgj.com\/life\/#ht=Headerlife","Outdoors":"http:\/\/www.rgj.com\/outdoors\/#ht=Headeroutdoors","Opinion":"http:\/\/www.rgj.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/rgj\/#ht=Headerobituaries","Archives":"https:\/\/user.rgj.com\/PREN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Frgj.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.rgj.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.rgj.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.rgj.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.rgj.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.rgj.com\/#ht=Headerhome","News":"http:\/\/www.rgj.com\/news\/#ht=Headernews","Business":"http:\/\/www.rgj.com\/business\/#ht=Headerbusiness","Sports":"http:\/\/www.rgj.com\/sports\/#ht=Headersports","Life":"http:\/\/www.rgj.com\/life\/#ht=Headerlife","Outdoors":"http:\/\/www.rgj.com\/outdoors\/#ht=Headeroutdoors","Opinion":"http:\/\/www.rgj.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/rgj\/#ht=Headerobituaries","Archives":"http:\/\/www.tkqlhce.com\/click-8144719-11570746?url=http:\/\/rgj.newspapers.com\/?xid=815#ht=Headerarchives","Insider":"http:\/\/www.rgj.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.rgj.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.rgj.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.rgj.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.rgj.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>39.529633</Lat>
 	<Lng>-119.813805</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.rgj.com/cars","jobs": "http://www.rgj.com/jobs","homes": "http://www.rgj.com/homes","img": {"cars": "http://classifieds.rgj.com/img/partners/130-cars.gif","jobs": "http://classifieds.rgj.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

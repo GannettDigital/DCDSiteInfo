@@ -3,7 +3,7 @@
 	<SiteName>mycentraljersey</SiteName>
 	<Url>classifieds.mycentraljersey.com</Url>
 	<SiteUrl>http://www.mycentraljersey.com/</SiteUrl>
-	<BusName>Courier News & Home News Tribune</BusName>
+	<BusName>Courier News &amp; Home News Tribune</BusName>
 	<Palette>92</Palette>
 	<SiteGroup>ASB,CNJ,MOR</SiteGroup>
 	<City>Bridgewater</City>
@@ -12,11 +12,11 @@
 	<DFP>nj-bridgewater-C1065</DFP>
 	<DFPmobile>nj-bridgewater-mobile-C1065</DFPmobile>
 	<Gpaper>gpaper248</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.mycentraljersey.com\/#ht=Headerhome","News":"http:\/\/www.mycentraljersey.com\/news\/#ht=Headernews","Sports":"http:\/\/www.mycentraljersey.com\/sports\/#ht=Headersports","Caring Communities":"http:\/\/www.mycentraljersey.com\/caring-communities\/#ht=Headercaring-communities","Opinion":"http:\/\/www.mycentraljersey.com\/opinion\/#ht=Headeropinion","Life":"http:\/\/www.mycentraljersey.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.mycentraljersey.com\/entertainment\/#ht=Headerentertainment","Obituaries":"http:\/\/www.legacy.com\/obituaries\/mycentraljersey\/#ht=Headerobituaries","Archives":"https:\/\/user.mycentraljersey.com\/PCNJ-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fmycentraljersey.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.mycentraljersey.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.mycentraljersey.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.mycentraljersey.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.mycentraljersey.com\/#ht=Headerhome","News":"http:\/\/www.mycentraljersey.com\/news\/#ht=Headernews","COURIER NEWS":"http:\/\/www.mycentraljersey.com\/news\/courier-news\/#ht=Headercourier-news","HOME NEWS TRIBUNE":"http:\/\/www.mycentraljersey.com\/news\/home-news-tribune\/#ht=Headerhome-news-tribune","Sports":"http:\/\/www.mycentraljersey.com\/sports\/#ht=Headersports","Opinion":"http:\/\/www.mycentraljersey.com\/opinion\/#ht=Headeropinion","Things To Do":"http:\/\/www.mycentraljersey.com\/things-to-do\/#ht=Headerthings-to-do","Obituaries":"http:\/\/www.legacy.com\/obituaries\/mycentraljersey\/#ht=Headerobituaries","PHOTO-VIDEO":"http:\/\/www.mycentraljersey.com\/media\/latest\/news\/#ht=Headermedia","Insider":"http:\/\/www.mycentraljersey.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.mycentraljersey.com\/section\/global\/nation-now\/#ht=Headerusa-today","Subscribe":"http:\/\/offers.mycentraljersey.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","Archives":"http:\/\/www.tkqlhce.com\/click-8144354-11570746?url=http:\/\/mycentraljersey.newspapers.com\/?xid=922#ht=Headerarchives","Caring Communities":"http:\/\/www.mycentraljersey.com\/caring-communities\/#ht=Headercaring-communities","Entertainment":"http:\/\/www.mycentraljersey.com\/entertainment#ht=Headerentertainment","Life":"http:\/\/www.mycentraljersey.com\/life#ht=Headerlife","More":"http:\/\/www.mycentraljersey.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>40.623333</Lat>
 	<Lng>-74.601112</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.mycentraljersey.com/cars","jobs": "http://www.mycentraljersey.com/jobs","homes": "http://www.mycentraljersey.com/homes","img": {"cars": "http://classifieds.mycentraljersey.com/img/partners/130-cars.gif","jobs": "http://classifieds.mycentraljersey.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

@@ -12,11 +12,11 @@
 	<DFP>FL-Pensacola-C1063</DFP>
 	<DFPmobile>fl-pensacola-mobile-C1063</DFPmobile>
 	<Gpaper>gpaper157</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.pnj.com\/home#ht=Headerhome","News":"http:\/\/www.pnj.com\/news\/#ht=Headernews","Sports":"http:\/\/www.pnj.com\/sports#ht=Headersports","Entertainment":"http:\/\/www.pnj.com\/entertainment\/#ht=Headerentertainment","Coast Life":"http:\/\/www.pnj.com\/coast-life\/#ht=Headercoast-life","Opinion":"http:\/\/www.pnj.com\/opinion#ht=Headeropinion","Travel":"http:\/\/www.pnj.com\/travel\/#ht=Headertravel","Obituaries":"http:\/\/www.legacy.com\/obituaries\/pensacolanewsjournal\/#ht=Headerobituaries","Media":"http:\/\/www.pnj.com\/media\/latest\/news\/#ht=Headermedia","Archives":"https:\/\/user.pnj.com\/PPEN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fpnj.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.pnj.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.pnj.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.pnj.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.pnj.com\/home#ht=Headerhome","News":"http:\/\/www.pnj.com\/news\/#ht=Headernews","Sports":"http:\/\/www.pnj.com\/sports#ht=Headersports","Play":"http:\/\/www.pnj.com\/play\/#ht=Headerplay","Table":"http:\/\/www.pnj.com\/table\/#ht=Headertable","Calendar":"http:\/\/events.pnj.com\/#ht=Headercalendar","Opinion":"http:\/\/www.pnj.com\/opinion#ht=Headeropinion","Travel":"http:\/\/www.pnj.com\/travel\/#ht=Headertravel","Obituaries":"http:\/\/www.legacy.com\/obituaries\/pensacolanewsjournal\/#ht=Headerobituaries","Media":"http:\/\/www.pnj.com\/media\/latest\/news\/#ht=Headermedia","Archives":"http:\/\/www.tkqlhce.com\/click-8144838-11570746?url=http:\/\/pnj.newspapers.com\/?xid=1054#ht=Headerarchives","Insider":"http:\/\/www.pnj.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.pnj.com\/section\/global\/nation-now\/#ht=Headerusa-today","Subscribe":"http:\/\/offers.pnj.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.pnj.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>30.421309</Lat>
 	<Lng>-87.216911</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.pnj.com/cars","jobs": "http://www.pnj.com/jobs","homes": "http://www.pnj.com/homes","img": {"cars": "http://classifieds.pnj.com/img/partners/130-cars.gif","jobs": "http://classifieds.pnj.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

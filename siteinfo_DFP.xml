@@ -1,22 +1,22 @@
 <siteinfo>
 	<SiteCode>DFP</SiteCode>
-	<SiteName>michigan</SiteName>
+	<SiteName>freep</SiteName>
 	<Url>classifieds.freep.com</Url>
 	<SiteUrl>http://www.freep.com/</SiteUrl>
 	<BusName>Detroit Free Press</BusName>
 	<Palette>1</Palette>
-	<SiteGroup>LCP,LIV,DFP,TDN</SiteGroup>
+	<SiteGroup>DFP,LIV,LCP,LSJ,PTH,BCE</SiteGroup>
 	<City>Detroit</City>
 	<State>Michigan</State>
 	<Domain>freep.com</Domain>
 	<DFP>mi-freep-C1561</DFP>
 	<DFPmobile>mi-freep-mobile-C1561</DFPmobile>
 	<Gpaper>gpaper204</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.freep.com\/#ht=Headerhome","News":"http:\/\/www.freep.com\/news\/#ht=Headernews","Sports":"http:\/\/www.freep.com\/sports\/#ht=Headersports","Autos":"http:\/\/www.freep.com\/autos\/#ht=Headerautos","Business":"http:\/\/www.freep.com\/business\/#ht=Headerbusiness","Life":"http:\/\/www.freep.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.freep.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.freep.com\/opinion\/#ht=Headeropinion","Advice":"http:\/\/www.freep.com\/life\/advice\/#ht=Headeradvice","Mitch Albom":"http:\/\/www.freep.com\/sports\/mitch-albom\/#ht=Headermitch-albom","Archives":"http:\/\/archives.freep.com#ht=Headerarchives","Insider":"http:\/\/www.freep.com\/insider\/#ht=Headerinsider","Media":"http:\/\/www.freep.com\/media\/latest\/news\/#ht=Headermedia","USA TODAY":"http:\/\/www.freep.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.freep.com#ht=Headertext"}</TopLinks>
-	<BottomLinks>{"News":"http:\/\/www.freep.com\/localnews","Sports":"http:\/\/www.freep.com\/sportsnews","Michigan Business":"http:\/\/www.freep.com\/businessnews","Entertainment":"http:\/\/www.freep.com\/entertainmentnews","Life":"http:\/\/www.freep.com\/lifeindex","Better Michigan":"http:\/\/www.freep.com\/abettermichigan","Obits":"http:\/\/www.freep.com\/obituaries","Help":"http:\/\/www.freep.com\/help"}</BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.freep.com\/#ht=Headerhome","News":"http:\/\/www.freep.com\/news\/#ht=Headernews","Sports":"http:\/\/www.freep.com\/sports\/#ht=Headersports","Business":"http:\/\/www.freep.com\/business\/#ht=Headerbusiness","Autos":"http:\/\/www.freep.com\/autos\/#ht=Headerautos","Life":"http:\/\/www.freep.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.freep.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.freep.com\/opinion\/#ht=Headeropinion","Insider":"http:\/\/www.freep.com\/insider\/#ht=Headerinsider","Mitch Albom":"http:\/\/www.freep.com\/sports\/mitch-albom\/#ht=Headermitch-albom","Advice":"http:\/\/www.freep.com\/life\/advice\/#ht=Headeradvice","Archives":"http:\/\/www.tkqlhce.com\/click-8144703-11570746?url=http:\/\/freep.newspapers.com\/?xid=547#ht=Headerarchives","Media":"http:\/\/www.freep.com\/media\/latest\/news\/#ht=Headermedia","USA TODAY":"http:\/\/www.freep.com\/section\/global\/nation-now\/#ht=Headerusa-today","Subscribe":"http:\/\/offers.freep.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.freep.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[{"News":"http:\/\/www.freep.com\/localnews","Sports":"http:\/\/www.freep.com\/sportsnews","Michigan Business":"http:\/\/www.freep.com\/businessnews","Entertainment":"http:\/\/www.freep.com\/entertainmentnews","Life":"http:\/\/www.freep.com\/lifeindex","Better Michigan":"http:\/\/www.freep.com\/abettermichigan","Obits":"http:\/\/www.freep.com\/obituaries","Help":"http:\/\/www.freep.com\/help"}]]></BottomLinks>
 	<Lat>42.328861</Lat>
 	<Lng>-83.120667</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.freep.com/cars","jobs": "http://www.freep.com/jobs","homes": "http://www.freep.com/homes","img": {"cars": "http://classifieds.freep.com/img/partners/130-cars.gif","jobs": "http://classifieds.freep.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

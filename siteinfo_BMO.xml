@@ -12,11 +12,11 @@
 	<DFP>nc-asheville-blackmountainnews-C1122</DFP>
 	<DFPmobile>nc-asheville-blackmountainnews-mobile-C1122</DFPmobile>
 	<Gpaper>gpaper108</Gpaper>
-	<TopLinks>{"Local":"http:\/\/www.blackmountainnews.com\/#ht=Headerhome","USA TODAY":"http:\/\/www.blackmountainnews.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.blackmountainnews.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Local":"http:\/\/www.blackmountainnews.com\/#ht=Headerhome","USA TODAY":"http:\/\/www.blackmountainnews.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.blackmountainnews.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>35.617863</Lat>
 	<Lng>-82.318672</Lng>
 	<ImgSiteName>blackmountainnews</ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

@@ -12,11 +12,11 @@
 	<DFP>sd-siouxfalls-C1085</DFP>
 	<DFPmobile>sd-siouxfalls-mobile-C1085</DFPmobile>
 	<Gpaper>gpaper170</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.argusleader.com\/#ht=Headerhome","News":"http:\/\/www.argusleader.com\/news\/#ht=Headernews","Sports":"http:\/\/www.argusleader.com\/sports\/#ht=Headersports","Link":"http:\/\/www.argusleader.com\/link\/#ht=Headerlink","Life":"http:\/\/www.argusleader.com\/life\/#ht=Headerlife","Opinion":"http:\/\/www.argusleader.com\/opinion#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/argusleader\/#ht=Headerobituaries","Archives":"https:\/\/user.argusleader.com\/PSIF-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fargusleader.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.argusleader.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.argusleader.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.argusleader.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.argusleader.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.argusleader.com\/#ht=Headerhome","News":"http:\/\/www.argusleader.com\/news\/#ht=Headernews","Sports":"http:\/\/www.argusleader.com\/sports\/#ht=Headersports","Link":"http:\/\/www.argusleader.com\/link\/#ht=Headerlink","Life":"http:\/\/www.argusleader.com\/life\/#ht=Headerlife","Opinion":"http:\/\/www.argusleader.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/argusleader\/#ht=Headerobituaries","Archives":"http:\/\/www.tkqlhce.com\/click-8144730-11570746?url=http:\/\/argusleader.newspapers.com\/?xid=912#ht=Headerarchives","Insider":"http:\/\/www.argusleader.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.argusleader.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.argusleader.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.argusleader.com\/specialoffers?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffers#ht=Headersubscribe","Advertise with Us":"https:\/\/www.almediasolutions.com\/#ht=Headeradvertise","More":"http:\/\/www.argusleader.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>43.544598</Lat>
 	<Lng>-96.731102</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.argusleader.com/cars","jobs": "http://www.argusleader.com/jobs","homes": "http://www.argusleader.com/homes","img": {"cars": "http://classifieds.argusleader.com/img/partners/130-cars.gif","jobs": "http://classifieds.argusleader.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

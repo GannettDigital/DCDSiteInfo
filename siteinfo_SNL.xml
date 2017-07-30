@@ -12,11 +12,11 @@
 	<DFP>mo-springfield-C1042</DFP>
 	<DFPmobile>mo-springfield-mobile-C1042</DFPmobile>
 	<Gpaper>gpaper171</Gpaper>
-	<TopLinks>{"home":"http:\/\/www.news-leader.com\/#ht=Headerhome","news":"http:\/\/www.news-leader.com\/news\/#ht=Headernews","sports":"http:\/\/www.news-leader.com\/sports\/#ht=Headersports","life":"http:\/\/www.news-leader.com\/life\/#ht=Headerlife","opinion":"http:\/\/www.news-leader.com\/opinion\/#ht=Headeropinion","entertainment":"http:\/\/www.news-leader.com\/entertainment\/#ht=Headerentertainment","Obituaries":"http:\/\/www.legacy.com\/obituaries\/news-leader\/#ht=Headerobituaries","Archives":"https:\/\/user.news-leader.com\/PSPR-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fnews-leader.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.news-leader.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.news-leader.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.news-leader.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"home":"http:\/\/www.news-leader.com\/#ht=Headerhome","news":"http:\/\/www.news-leader.com\/news\/#ht=Headernews","sports":"http:\/\/www.news-leader.com\/sports\/#ht=Headersports","life":"http:\/\/www.news-leader.com\/life\/#ht=Headerlife","opinion":"http:\/\/www.news-leader.com\/opinion\/#ht=Headeropinion","entertainment":"http:\/\/www.news-leader.com\/entertainment\/#ht=Headerentertainment","Obituaries":"http:\/\/www.legacy.com\/obituaries\/news-leader\/#ht=Headerobituaries","Archives":"http:\/\/news-leader.newspapers.com\/?xid=1229#ht=Headerarchives","Insider":"http:\/\/www.news-leader.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.news-leader.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.news-leader.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.news-leader.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","Advertise with Us":"https:\/\/www.news-leadermedia.com\/#ht=Headeradvertise","More":"http:\/\/www.news-leader.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>37.208958</Lat>
 	<Lng>-93.292297</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.news-leader.com/cars","jobs": "http://www.news-leader.com/jobs","homes": "http://www.news-leader.com/homes","img": {"cars": "http://classifieds.poughkeepsiejournal.com/img/partners/130-cars.gif","jobs": "http://classifieds.news-leader.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

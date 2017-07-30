@@ -2,7 +2,7 @@
 	<SiteCode>POU</SiteCode>
 	<SiteName>poughkeepsiejournal</SiteName>
 	<Url>classifieds.poughkeepsiejournal.com</Url>
-	<SiteUrl>http://www.poughkeepsiejournal.com/</SiteUrl>
+	<SiteUrl>http://www.poughkeepsiejournal.com</SiteUrl>
 	<BusName>Poughkeepsie Journal</BusName>
 	<Palette>94</Palette>
 	<SiteGroup>POU</SiteGroup>
@@ -12,11 +12,11 @@
 	<DFP>ny-poughkeepsie-C1066</DFP>
 	<DFPmobile>ny-poughkeepsie-mobile-C1066</DFPmobile>
 	<Gpaper>gpaper161</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.poughkeepsiejournal.com\/#ht=Headerhome","News":"http:\/\/www.poughkeepsiejournal.com\/news\/#ht=Headernews","Sports":"http:\/\/www.poughkeepsiejournal.com\/sports\/#ht=Headersports","Life":"http:\/\/www.poughkeepsiejournal.com\/life\/#ht=Headerlife","Business":"http:\/\/www.poughkeepsiejournal.com\/business\/#ht=Headerbusiness","Opinion":"http:\/\/www.poughkeepsiejournal.com\/opinion\/#ht=Headeropinion","Great Tastes":"http:\/\/www.poughkeepsiejournal.com\/greattastes\/#ht=Headergreattastes","Health":"http:\/\/www.poughkeepsiejournal.com\/news\/health\/#ht=Headerhealth","Environment":"http:\/\/www.poughkeepsiejournal.com\/environment\/#ht=Headerenvironment","Archives":"https:\/\/user.poughkeepsiejournal.com\/PPOU-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fpoughkeepsiejournal.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.poughkeepsiejournal.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.poughkeepsiejournal.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.poughkeepsiejournal.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.poughkeepsiejournal.com\/#ht=Headerhome","News":"http:\/\/www.poughkeepsiejournal.com\/news\/#ht=Headernews","Sports":"http:\/\/www.poughkeepsiejournal.com\/sports\/#ht=Headersports","Life":"http:\/\/www.poughkeepsiejournal.com\/life\/#ht=Headerlife","Business":"http:\/\/www.poughkeepsiejournal.com\/business\/#ht=Headerbusiness","Opinion":"http:\/\/www.poughkeepsiejournal.com\/opinion\/#ht=Headeropinion","Dining":"http:\/\/www.poughkeepsiejournal.com\/greattastes\/#ht=Headerdining","Health":"http:\/\/www.poughkeepsiejournal.com\/news\/health\/#ht=Headerhealth","Environment":"http:\/\/www.poughkeepsiejournal.com\/environment\/#ht=Headerenvironment","Insider":"http:\/\/www.poughkeepsiejournal.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.poughkeepsiejournal.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.poughkeepsiejournal.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.poughkeepsiejournal.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.poughkeepsiejournal.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>41.700371</Lat>
 	<Lng>-73.920967</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.poughkeepsiejournal.com/cars","jobs": "http://www.poughkeepsiejournal.com/jobs","homes": "http://www.poughkeepsiejournal.com/homes","img": {"cars": "http://classifieds.poughkeepsiejournal.com/img/partners/130-cars.gif","jobs": "http://classifieds.poughkeepsiejournal.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

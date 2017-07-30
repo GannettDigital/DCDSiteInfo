@@ -3,7 +3,7 @@
 	<SiteName>pressconnects</SiteName>
 	<Url>classifieds.pressconnects.com</Url>
 	<SiteUrl>http://www.pressconnects.com/</SiteUrl>
-	<BusName>Press & Sun-Bulletin</BusName>
+	<BusName>Press &amp; Sun-Bulletin</BusName>
 	<Palette>2</Palette>
 	<SiteGroup>ELM,ITH,BGM</SiteGroup>
 	<City>Binghamton</City>
@@ -12,11 +12,11 @@
 	<DFP>ny-binghamton-C1007</DFP>
 	<DFPmobile>ny-binghamton-mobile-C1007</DFPmobile>
 	<Gpaper>gpaper112</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.pressconnects.com\/home\/#ht=Headerhome","News":"http:\/\/www.pressconnects.com\/news\/#ht=Headernews","Sports":"http:\/\/www.pressconnects.com\/sports\/#ht=Headersports","Opinion":"http:\/\/www.pressconnects.com\/opinion\/#ht=Headeropinion","Business":"http:\/\/www.pressconnects.com\/business\/#ht=Headerbusiness","Go!":"http:\/\/www.pressconnects.com\/go\/#ht=Headergo","Voices":"http:\/\/www.pressconnects.com\/southern-tier-voices\/#ht=Headervoices","NY Data":"http:\/\/data.pressconnects.com#ht=Headerny-data","Obituaries":"http:\/\/www.legacy.com\/obituaries\/pressconnects\/#ht=Headerobituaries","Video-Photo":"http:\/\/www.pressconnects.com\/media\/latest\/news\/#ht=Headervideo-photo","Travel":"http:\/\/www.pressconnects.com\/travel\/#ht=Headertravel","Archives":"https:\/\/user.pressconnects.com\/PBIN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fpressconnects.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.pressconnects.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.pressconnects.com#ht=Headertext"}</TopLinks>
-	<BottomLinks>{"News":"http:\/\/www.pressconnects.com\/section\/news","Sports":"http:\/\/www.pressconnects.com\/section\/sports","Events":"http:\/\/localsearch.pressconnects.com\/sp?aff=1000","Viewpoints":"http:\/\/www.pressconnects.com\/section\/viewpoints","Business":"http:\/\/www.pressconnects.com\/section\/business","Obituaries":"http:\/\/www.pressconnects.com\/obits","Life":"http:\/\/www.pressconnects.com\/section\/life","Social":"http:\/\/www.pressconnects.com\/section\/social","Help":"http:\/\/www.pressconnects.com\/viewart\/99999999\/CUSTOMER\/110201046&template=theme&theme=CSBING"}</BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.pressconnects.com\/home\/#ht=Headerhome","News":"http:\/\/www.pressconnects.com\/news\/#ht=Headernews","Sports":"http:\/\/www.pressconnects.com\/sports\/#ht=Headersports","Opinion":"http:\/\/www.pressconnects.com\/opinion\/#ht=Headeropinion","Business":"http:\/\/www.pressconnects.com\/business\/#ht=Headerbusiness","Go!":"http:\/\/www.pressconnects.com\/go\/#ht=Headergo","Voices":"http:\/\/www.pressconnects.com\/southern-tier-voices\/#ht=Headervoices","NY Data":"http:\/\/data.pressconnects.com#ht=Headerny-data","Obituaries":"http:\/\/www.legacy.com\/obituaries\/pressconnects\/#ht=Headerobituaries","Video-Photo":"http:\/\/www.pressconnects.com\/media\/latest\/news\/#ht=Headervideo-photo","Travel":"http:\/\/www.pressconnects.com\/travel\/#ht=Headertravel","Archives":"http:\/\/www.tkqlhce.com\/click-8144844-11570746?url=http:\/\/pressconnects.newspapers.com\/?xid=978#ht=Headerarchives","Insider":"http:\/\/www.pressconnects.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.pressconnects.com\/section\/global\/nation-now\/#ht=Headerusa-today","Subscribe":"http:\/\/offers.pressconnects.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.pressconnects.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[{"News":"http:\/\/www.pressconnects.com\/section\/news","Sports":"http:\/\/www.pressconnects.com\/section\/sports","Events":"http:\/\/localsearch.pressconnects.com\/sp?aff=1000","Viewpoints":"http:\/\/www.pressconnects.com\/section\/viewpoints","Business":"http:\/\/www.pressconnects.com\/section\/business","Obituaries":"http:\/\/www.pressconnects.com\/obits","Life":"http:\/\/www.pressconnects.com\/section\/life","Social":"http:\/\/www.pressconnects.com\/section\/social","Help":"http:\/\/www.pressconnects.com\/viewart\/99999999\/CUSTOMER\/110201046&template=theme&theme=CSBING"}]]></BottomLinks>
 	<Lat>42.098686</Lat>
 	<Lng>-75.917976</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.pressconnects.com/cars","jobs": "http://www.pressconnects.com/jobs","homes": "http://www.pressconnects.com/homes","img": {"cars": "http://classifieds.pressconnects.com/img/partners/130-cars.gif","jobs": "http://classifieds.pressconnects.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

@@ -12,11 +12,11 @@
 	<DFP>wi-greenbay-C1014</DFP>
 	<DFPmobile>wi-greenbay-mobile-C1014</DFPmobile>
 	<Gpaper>gpaper132</Gpaper>
-	<TopLinks>{"Home":"\/","News":"\/news\/","Business":"\/business\/","Sports":"\/sports\/","Packers":"http:\/\/www.greenbaypressgazette.com\/packers\/","Opinion":"\/opinion\/","Go 920!":"\/go-920\/","Life":"\/life\/","Outdoors":"\/outdoors\/","Door Co":"\/door-co\/","Archives":"https:\/\/user.greenbaypressgazette.com\/PGRB-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fgreenbaypressgazette.newspapers.com","Insider":"\/insider\/","USA TODAY":"\/section\/global\/nation-now\/","Media":"\/media\/latest\/news\/","More":"","Firefly":"http:\/\/account.greenbaypressgazette.com","Search":"\/search\/","Social":"http:\/\/static.greenbaypressgazette.com\/connectwithus\/"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"\/","News":"\/news\/","Business":"\/business\/","Sports":"\/sports\/","Packers":"\/packers\/","Opinion":"\/opinion\/","Go 920!":"\/go-920\/","Life":"\/life\/","Outdoors":"\/outdoors\/","Door Co":"\/door-co\/","Homes":"\/marketplace\/real-estate\/","Insider":"\/insider\/","Archives":"http:\/\/www.tkqlhce.com\/click-8144725-11570746?url=http:\/\/greenbaypressgazette.newspapers.com\/?xid=860","USA TODAY":"\/section\/global\/nation-now\/","Media":"\/media\/latest\/news\/","Subscribe":"http:\/\/offers.greenbaypressgazette.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer","More":"","Search":"\/search\/","Social":"http:\/\/static.greenbaypressgazette.com\/connectwithus\/","Firefly":"http:\/\/account.greenbaypressgazette.com"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>45.127777</Lat>
 	<Lng>-87.246941</Lng>
 	<ImgSiteName>greenbaypressgazette</ImgSiteName>
-	<SiteLinks>{"cars": "http://www.doorcountyadvocate.com/cars","jobs": "http://www.doorcountyadvocate.com/jobs","homes": "http://www.doorcountyadvocate.com/homes","img": {"cars": "http://classifieds.doorcountyadvocate.com/img/partners/130-cars.gif","jobs": "http://www.gannett-cdn.com/media/2015/12/10/USCPTraining/USCPTraining/635853592402127398-130-careerbuilder-new.png","homes": "http://classifieds.doorcountyadvocate.com/img/partners/130-homefinder.gif"}}</SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.greenbaypressgazette.com/cars","jobs": "http://www.greenbaypressgazette.com/jobs","homes": "http://www.greenbaypressgazette.com/homes","img": {"cars": "http://classifieds.doorcountyadvocate.com/img/partners/130-cars.gif","jobs": "http://classifieds.doorcountyadvocate.com/img/partners/130-careerbuilder.gif","homes": "http://classifieds.doorcountyadvocate.com/img/partners/130-homefinder.gif"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

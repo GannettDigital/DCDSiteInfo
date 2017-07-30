@@ -1,22 +1,22 @@
 <siteinfo>
 	<SiteCode>LIV</SiteCode>
-	<SiteName>hometownlife</SiteName>
-	<Url>classifieds.hometownlife.com</Url>
-	<SiteUrl>http://www.hometownlife.com/</SiteUrl>
-	<BusName>Observer & Eccentric Newspapers</BusName>
-	<Palette>1</Palette>
-	<SiteGroup>LCP,LIV,DFP,TDN</SiteGroup>
-	<City>Detroit</City>
+	<SiteName>livingstondaily</SiteName>
+	<Url>classifieds.livingstondaily.com</Url>
+	<SiteUrl>http://www.livingstondaily.com/</SiteUrl>
+	<BusName>Daily Press &amp; Argus</BusName>
+	<Palette>10</Palette>
+	<SiteGroup>DFP,LIV,LCP,LSJ,PTH,BCE</SiteGroup>
+	<City>Howell</City>
 	<State>Michigan</State>
-	<Domain>hometownlife.com</Domain>
-	<DFP>mi-livonia-C1551</DFP>
-	<DFPmobile>mi-livonia-mobile-C1551</DFPmobile>
-	<Gpaper>gpaper224</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.hometownlife.com\/#ht=Headerhome","News":"http:\/\/www.hometownlife.com\/news\/#ht=Headernews","Sports":"http:\/\/www.hometownlife.com\/sports\/#ht=Headersports","Elections 2016":"http:\/\/www.hometownlife.com\/section\/elections-2016\/#ht=Headerelections-2016","Business":"http:\/\/www.hometownlife.com\/business\/#ht=Headerbusiness","Life":"http:\/\/www.hometownlife.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.hometownlife.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.hometownlife.com\/opinion\/#ht=Headeropinion","Archives":"https:\/\/user.hometownlife.com\/POEN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fhometownlife.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.hometownlife.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.hometownlife.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.hometownlife.com#ht=Headertext"}</TopLinks>
-	<BottomLinks>{"Observer":"http:\/\/www.hometownlife.com#","Eccentric":"http:\/\/www.hometownlife.com#","Hometown":"http:\/\/www.hometownlife.com#","Sports":"http:\/\/www.hometownlife.com\/section\/sports","Business":"http:\/\/www.hometownlife.com\/section\/business","Life":"http:\/\/www.hometownlife.com\/section\/life","Opinion":"http:\/\/www.hometownlife.com\/section\/opinion","Obituaries":"http:\/\/deathnotices.michigan.com\/results.php?page=1&0010=true&page=1&0050=t rue&name=&date-range=30&publication=OE","Help":"http:\/\/www.hometownlife.com\/help"}</BottomLinks>
-	<Lat>42.328861</Lat>
-	<Lng>-83.120667</Lng>
+	<Domain>livingstondaily.com</Domain>
+	<DFP>mi-livingstoncounty-C1553</DFP>
+	<DFPmobile>mi-livingstoncounty-mobile-C1553</DFPmobile>
+	<Gpaper>gpaper219</Gpaper>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.livingstondaily.com\/#ht=Headerhome","News":"http:\/\/www.livingstondaily.com\/news\/#ht=Headernews","Sports":"http:\/\/www.livingstondaily.com\/sports\/#ht=Headersports","Life":"http:\/\/www.livingstondaily.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.livingstondaily.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.livingstondaily.com\/opinion\/#ht=Headeropinion","Archives":"http:\/\/www.tkqlhce.com\/click-8144845-11570746?url=http:\/\/livingstondaily.newspapers.com\/?xid=1183#ht=Headerarchives","Insider":"http:\/\/www.livingstondaily.com\/insider\/#ht=Headerinsider","USA Today":"http:\/\/www.livingstondaily.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.livingstondaily.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.livingstondaily.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.livingstondaily.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[{"News":"http:\/\/www.livingstondaily.com\/section\/news","Classifieds":"http:\/\/www.livingstondaily.com\/section\/classifieds","Opinion":"http:\/\/www.livingstondaily.com\/section\/opinion","Sports":"http:\/\/www.livingstondaily.com\/section\/sports","Multimedia":"http:\/\/www.livingstondaily.com\/section\/galleriessectionfront","Calendar":"http:\/\/www.livingstondaily.com\/calendar","Lifestyle":"http:\/\/www.livingstondaily.com\/section\/lifestyle","Obituaries":"http:\/\/deathnotices.michigan.com\/results.php?page=1&0010=true&page=1&0050=true&name=&date-range=30&publication=DPA","Help":"http:\/\/www.livingstondaily.com\/section\/customerservice"}]]></BottomLinks>
+	<Lat>42.607254</Lat>
+	<Lng>-83.929398</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.livingstondaily.com/cars","jobs": "http://www.livingstondaily.com/jobs","homes": "http://www.livingstondaily.com/homes","img": {"cars": "http://classifieds.livingstondaily.com/img/partners/130-cars.gif","jobs": "http://classifieds.livingstondaily.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

@@ -8,15 +8,15 @@
 	<SiteGroup>FNP,FCA,FCO,FLE,FMA</SiteGroup>
 	<City>Fort Myers</City>
 	<State>Florida</State>
-	<Domain>bontiasprings.com</Domain>
+	<Domain>bonitasprings.com</Domain>
 	<DFP>fl-fortmyers-C1026</DFP>
 	<DFPmobile>fl-fortmyers-mobile-C1026</DFPmobile>
 	<Gpaper>gpaper128</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.news-press.com\/#ht=Headerhome","News":"http:\/\/www.news-press.com\/news\/#ht=Headernews","Sports":"http:\/\/www.news-press.com\/sports\/#ht=Headersports","Business":"http:\/\/www.news-press.com\/business\/#ht=Headerbusiness","Travel":"http:\/\/www.news-press.com\/travel\/#ht=Headerusat-travel","Life":"http:\/\/www.news-press.com\/life\/#ht=Headerlife","Taste":"http:\/\/www.news-press.com\/taste\/#ht=Headertaste","Opinion":"http:\/\/www.news-press.com\/opinion\/#ht=Headeropinion","Archives":"https:\/\/user.news-press.com\/PFTM-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fnews-press.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.news-press.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.news-press.com\/section\/global\/nation-now\/#ht=Headerusa-today","Photo-Video":"http:\/\/www.news-press.com\/media\/latest\/news\/#ht=Headerphotovideo","More":"http:\/\/www.news-press.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Weather":"http:\/\/www.news-press.com\/weather\/#ht=Headerweather","Home":"http:\/\/www.news-press.com\/#ht=Headerhome","News":"http:\/\/www.news-press.com\/news\/#ht=Headernews","Sports":"http:\/\/www.news-press.com\/sports\/#ht=Headersports","Business":"http:\/\/www.news-press.com\/business\/#ht=Headerbusiness","Travel":"http:\/\/www.news-press.com\/travel\/#ht=Headerusat-travel","Life":"http:\/\/www.news-press.com\/life\/#ht=Headerlife","Taste":"http:\/\/www.news-press.com\/taste\/#ht=Headertaste","Opinion":"http:\/\/www.news-press.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/news-press\/#ht=Headerobituaries","Archives":"http:\/\/news-press.newspapers.com\/?xid=1233#ht=Headerarchives","Insider":"http:\/\/www.news-press.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.news-press.com\/section\/global\/nation-now\/#ht=Headerusa-today","Photo-Video":"http:\/\/www.news-press.com\/media\/latest\/news\/#ht=Headerphotovideo","Subscribe":"http:\/\/offers.news-press.com\/subscribe?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.news-press.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>26.616699</Lat>
 	<Lng>81.833298</Lng>
 	<ImgSiteName>news-press</ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

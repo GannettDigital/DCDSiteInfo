@@ -2,7 +2,7 @@
 	<SiteCode>INI</SiteCode>
 	<SiteName>indystar</SiteName>
 	<Url>classifieds.indystar.com</Url>
-	<SiteUrl>http://www.indystar.com/</SiteUrl>
+	<SiteUrl>http://www.indystar.com</SiteUrl>
 	<BusName>The Indianapolis Star</BusName>
 	<Palette>91</Palette>
 	<SiteGroup>INI,MNI,RCH,LAF</SiteGroup>
@@ -12,11 +12,11 @@
 	<DFP>in-indianapolis-C1532</DFP>
 	<DFPmobile>in-indianapolis-mobile-C1532</DFPmobile>
 	<Gpaper>gpaper138</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.indystar.com\/#ht=Headerhome","News":"http:\/\/www.indystar.com\/news\/#ht=Headernews","Sports":"http:\/\/www.indystar.com\/sports\/#ht=Headersports","Life":"http:\/\/www.indystar.com\/life\/#ht=Headerlife","Things To Do":"http:\/\/www.indystar.com\/thingstodo\/#ht=Headerthingstodo","Travel":"http:\/\/www.indystar.com\/travel\/#ht=Headertravel","Opinion":"http:\/\/www.indystar.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/indystar\/#ht=Headerobituaries","Weather":"http:\/\/www.indystar.com\/weather\/#ht=Headerweather","Archives":"https:\/\/user.indystar.com\/PIND-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Findystar.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.indystar.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.indystar.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.indystar.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.indystar.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.indystar.com\/#ht=Headerhome","News":"http:\/\/www.indystar.com\/news\/#ht=Headernews","Sports":"http:\/\/www.indystar.com\/sports\/#ht=Headersports","Things to Do":"http:\/\/www.indystar.com\/thingstodo\/#ht=Headerthingstodo","Life":"http:\/\/www.indystar.com\/life\/#ht=Headerlife","Travel":"http:\/\/www.indystar.com\/travel\/#ht=Headertravel","Opinion":"http:\/\/www.indystar.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/indystar\/#ht=Headerobituaries","Weather":"http:\/\/www.indystar.com\/weather\/#ht=Headerweather","Archives":"http:\/\/www.tkqlhce.com\/click-8144704-11570746?url=http:\/\/indystar.newspapers.com\/?xid=793#ht=Headerarchives","Insider":"http:\/\/www.indystar.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.indystar.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.indystar.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.indystar.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","Advertise with Us":"http:\/\/www.indystarmedia.com\/#ht=Headeradvertise","More":"http:\/\/www.indystar.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>39.768402</Lat>
 	<Lng>-86.158066</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.indystar.com/cars","jobs": "http://www.indystar.com/jobs","homes": "http://www.indystar.com/homes","img": {"cars": "http://classifieds.indystar.com/img/partners/130-cars.gif","jobs": "http://classifieds.indystar.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

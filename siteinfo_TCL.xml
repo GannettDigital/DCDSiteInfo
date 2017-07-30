@@ -5,18 +5,18 @@
 	<SiteUrl>http://www.clarionledger.com/</SiteUrl>
 	<BusName>The Clarion-Ledger</BusName>
 	<Palette>91</Palette>
-	<SiteGroup>TCL</SiteGroup>
+	<SiteGroup>HTB,TCL</SiteGroup>
 	<City>Jackson</City>
 	<State>Mississippi</State>
 	<Domain>clarionledger.com</Domain>
 	<DFP>ms-jackson-C1098</DFP>
 	<DFPmobile>ms-jackson-mobile-C1098</DFPmobile>
 	<Gpaper>gpaper141</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.clarionledger.com\/#ht=Headerhome","News":"http:\/\/www.clarionledger.com\/news\/#ht=Headernews","Sports":"http:\/\/www.clarionledger.com\/sports\/#ht=Headersports","Life":"http:\/\/www.clarionledger.com\/life\/#ht=Headerlife","Opinion":"http:\/\/www.clarionledger.com\/opinion\/#ht=Headeropinion","Business":"http:\/\/www.clarionledger.com\/business\/#ht=Headerbusiness","Insider":"http:\/\/www.clarionledger.com\/insider\/#ht=Headerinsider","Obituaries":"http:\/\/www.legacy.com\/obituaries\/clarionledger\/#ht=Headerobituaries","Archives":"https:\/\/user.clarionledger.com\/PJAM-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fclarionledger.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.clarionledger.com\/section\/global\/nation-now\/#ht=Headerusa-today","Elections 2016":"http:\/\/www.clarionledger.com\/section\/global\/elections-2016\/#ht=Headerelections-2016","Media":"http:\/\/www.clarionledger.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.clarionledger.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.clarionledger.com\/#ht=Headerhome","News":"http:\/\/www.clarionledger.com\/news\/#ht=Headernews","Sports":"http:\/\/www.clarionledger.com\/sports\/#ht=Headersports","Upside":"http:\/\/www.clarionledger.com\/magnolia\/upside\/#ht=Headerupside","Magnolia":"http:\/\/www.clarionledger.com\/magnolia\/#ht=Headermagnolia","Opinion":"http:\/\/www.clarionledger.com\/opinion\/#ht=Headeropinion","Insider":"http:\/\/www.clarionledger.com\/insider\/#ht=Headerinsider","Obituaries":"http:\/\/www.legacy.com\/obituaries\/clarionledger\/#ht=Headerobituaries","Archives":"http:\/\/www.tkqlhce.com\/click-8144710-11570746?url=http:\/\/clarionledger.newspapers.com\/?xid=825#ht=Headerarchives","USA TODAY":"http:\/\/www.clarionledger.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.clarionledger.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.clarionledger.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.clarionledger.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>32.298756</Lat>
 	<Lng>-90.184807</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.clarionledger.com/cars","jobs": "http://www.clarionledger.com/jobs","homes": "http://www.clarionledger.com/homes","img": {"cars": "http://classifieds.desertsun.com/img/partners/130-cars.gif","jobs": "http://classifieds.clarionledger.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

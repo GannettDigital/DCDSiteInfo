@@ -2,7 +2,7 @@
 	<SiteCode>ROC</SiteCode>
 	<SiteName>democratandchronicle</SiteName>
 	<Url>classifieds.democratandchronicle.com</Url>
-	<SiteUrl>http://www.democratandchronicle.com/</SiteUrl>
+	<SiteUrl>http://www.democratandchronicle.com</SiteUrl>
 	<BusName> Democrat and Chronicle</BusName>
 	<Palette>92</Palette>
 	<SiteGroup>ROC</SiteGroup>
@@ -12,11 +12,11 @@
 	<DFP>ny-rochester-C1070</DFP>
 	<DFPmobile>ny-rochester-mobile-C1070</DFPmobile>
 	<Gpaper>gpaper164</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.democratandchronicle.com\/#ht=Headerhome","News":"http:\/\/www.democratandchronicle.com\/news\/#ht=Headernews","Sports":"http:\/\/www.democratandchronicle.com\/sports\/#ht=Headersports","Life":"http:\/\/www.democratandchronicle.com\/life\/#ht=Headerlife","Business":"http:\/\/www.democratandchronicle.com\/business\/#ht=Headerbusiness","Flavors":"http:\/\/www.democratandchronicle.com\/rocflavors\/#ht=Headerflavors","Opinion":"http:\/\/www.democratandchronicle.com\/opinion\/#ht=Headeropinion","Roc Magazine":"http:\/\/www.democratandchronicle.com\/magazine\/#ht=Headermagazine","NY Data":"http:\/\/rochester.nydatabases.com\/#ht=Headerroc-docs","RocRoots":"http:\/\/www.democratandchronicle.com\/life\/rocroots\/#ht=Headerrocroots","Archives":"http:\/\/democratandchronicle.newspapers.com#ht=Headerarchives","Insider":"http:\/\/www.democratandchronicle.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.democratandchronicle.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.democratandchronicle.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.democratandchronicle.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.democratandchronicle.com\/#ht=Headerhome","News":"http:\/\/www.democratandchronicle.com\/news\/#ht=Headernews","Sports":"http:\/\/www.democratandchronicle.com\/sports\/#ht=Headersports","Life":"http:\/\/www.democratandchronicle.com\/life\/#ht=Headerlife","Business":"http:\/\/www.democratandchronicle.com\/business\/#ht=Headerbusiness","Flavors":"http:\/\/www.democratandchronicle.com\/rocflavors\/#ht=Headerflavors","Opinion":"http:\/\/www.democratandchronicle.com\/opinion\/#ht=Headeropinion","Roc Magazine":"http:\/\/www.democratandchronicle.com\/magazine\/#ht=Headermagazine","NY Data":"http:\/\/rochester.nydatabases.com\/#ht=Headerroc-docs","RocRoots":"http:\/\/www.democratandchronicle.com\/life\/rocroots\/#ht=Headerrocroots","Archives":"http:\/\/www.tkqlhce.com\/click-8144712-11570746?url=http:\/\/democratandchronicle.newspapers.com\/?xid=808#ht=Headerarchives","Insider":"http:\/\/www.democratandchronicle.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.democratandchronicle.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.democratandchronicle.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/promotions.democratandchronicle.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.democratandchronicle.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>43.154213</Lat>
 	<Lng>-77.612053</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.democratandchronicle.com/cars","jobs": "http://www.democratandchronicle.com/jobs","homes": "http://www.democratandchronicle.com/homes","img": {"cars": "http://classifieds.democratandchronicle.com/img/partners/130-cars.gif","jobs": "http://classifieds.democratandchronicle.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

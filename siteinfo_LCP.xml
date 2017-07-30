@@ -1,22 +1,22 @@
 <siteinfo>
 	<SiteCode>LCP</SiteCode>
-	<SiteName>livingstondaily</SiteName>
-	<Url>classifieds.livingstondaily.com</Url>
-	<SiteUrl>http://www.livingstondaily.com/</SiteUrl>
-	<BusName>Daily Press & Argus</BusName>
-	<Palette>10</Palette>
-	<SiteGroup>LCP,LIV,DFP,TDN</SiteGroup>
-	<City>Howell</City>
+	<SiteName>hometownlife</SiteName>
+	<Url>classifieds.hometownlife.com</Url>
+	<SiteUrl>http://www.hometownlife.com/</SiteUrl>
+	<BusName>Observer &amp; Eccentric Newspapers</BusName>
+	<Palette>1</Palette>
+	<SiteGroup>DFP,LIV,LCP,LSJ,PTH,BCE</SiteGroup>
+	<City>Detroit</City>
 	<State>Michigan</State>
-	<Domain>livingstondaily.com</Domain>
-	<DFP>mi-livingstoncounty-C1553</DFP>
-	<DFPmobile>mi-livingstoncounty-mobile-C1553</DFPmobile>
-	<Gpaper>gpaper219</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.livingstondaily.com\/#ht=Headerhome","News":"http:\/\/www.livingstondaily.com\/news\/#ht=Headernews","Sports":"http:\/\/www.livingstondaily.com\/sports\/#ht=Headersports","Elections 2016":"http:\/\/www.livingstondaily.com\/section\/elections-2016\/#ht=Headerelections-2016","Life":"http:\/\/www.livingstondaily.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.livingstondaily.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.livingstondaily.com\/opinion\/#ht=Headeropinion","Archives":"https:\/\/user.livingstondaily.com\/PLID-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Flivingstondaily.newspapers.com#ht=Headerarchives","USA Today":"http:\/\/www.livingstondaily.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.livingstondaily.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.livingstondaily.com#ht=Headertext"}</TopLinks>
-	<BottomLinks>{"News":"http:\/\/www.livingstondaily.com\/section\/news","Classifieds":"http:\/\/www.livingstondaily.com\/section\/classifieds","Opinion":"http:\/\/www.livingstondaily.com\/section\/opinion","Sports":"http:\/\/www.livingstondaily.com\/section\/sports","Multimedia":"http:\/\/www.livingstondaily.com\/section\/galleriessectionfront","Calendar":"http:\/\/www.livingstondaily.com\/calendar","Lifestyle":"http:\/\/www.livingstondaily.com\/section\/lifestyle","Obituaries":"http:\/\/deathnotices.michigan.com\/results.php?page=1&0010=true&page=1&0050=true&name=&date-range=30&publication=DPA","Help":"http:\/\/www.livingstondaily.com\/section\/customerservice"}</BottomLinks>
-	<Lat>42.607254</Lat>
-	<Lng>-83.929398</Lng>
+	<Domain>hometownlife.com</Domain>
+	<DFP>mi-livonia-C1551</DFP>
+	<DFPmobile>mi-livonia-mobile-C1551</DFPmobile>
+	<Gpaper>gpaper224</Gpaper>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.hometownlife.com\/#ht=Headerhome","News":"http:\/\/www.hometownlife.com\/news\/#ht=Headernews","Sports":"http:\/\/www.hometownlife.com\/sports\/#ht=Headersports","Business":"http:\/\/www.hometownlife.com\/business\/#ht=Headerbusiness","Life":"http:\/\/www.hometownlife.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.hometownlife.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.hometownlife.com\/opinion\/#ht=Headeropinion","Archives":"https:\/\/user.hometownlife.com\/POEN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fhometownlife.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.hometownlife.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.hometownlife.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.hometownlife.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[{"Observer":"http:\/\/www.hometownlife.com#","Eccentric":"http:\/\/www.hometownlife.com#","Hometown":"http:\/\/www.hometownlife.com#","Sports":"http:\/\/www.hometownlife.com\/section\/sports","Business":"http:\/\/www.hometownlife.com\/section\/business","Life":"http:\/\/www.hometownlife.com\/section\/life","Opinion":"http:\/\/www.hometownlife.com\/section\/opinion","Obituaries":"http:\/\/deathnotices.michigan.com\/results.php?page=1&0010=true&page=1&0050=t rue&name=&date-range=30&publication=OE","Help":"http:\/\/www.hometownlife.com\/help"}]]></BottomLinks>
+	<Lat>42.328861</Lat>
+	<Lng>-83.120667</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.hometownlife.com/cars","jobs": "http://www.hometownlife.com/jobs","homes": "http://www.hometownlife.com/homes","img": {"cars": "http://classifieds.hometownlife.com/img/partners/130-cars.gif","jobs": "http://classifieds.hometownlife.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

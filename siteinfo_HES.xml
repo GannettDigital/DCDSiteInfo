@@ -5,18 +5,18 @@
 	<SiteUrl>http://www.eveningsun.com/</SiteUrl>
 	<BusName>Hanover Evening Sun</BusName>
 	<Palette>91</Palette>
-	<SiteGroup>YDR,HES,LDN,CPO</SiteGroup>
+	<SiteGroup>HES,LDN,CPO,YDR</SiteGroup>
 	<City>Hanover</City>
 	<State>Pennsylvania</State>
 	<Domain>eveningsun.com</Domain>
 	<DFP>pa-hanover-C1285</DFP>
 	<DFPmobile>pa-hanover-mobile-C1285</DFPmobile>
 	<Gpaper>gpaper304</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.eveningsun.com\/#ht=Headerhome","News":"http:\/\/www.eveningsun.com\/news\/#ht=Headernews","Sports":"http:\/\/www.eveningsun.com\/sports\/#ht=Headersports","Business":"http:\/\/www.eveningsun.com\/business\/#ht=Headerbusiness","Entertainment":"http:\/\/www.flipsidepa.com\/#ht=Headerentertainment","Lifestyle":"http:\/\/www.eveningsun.com\/lifestyle\/#ht=Headerlifestyle","Opinion":"http:\/\/www.eveningsun.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/eveningsun\/#ht=Headerobituaries","USA Today":"http:\/\/www.eveningsun.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.eveningsun.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.eveningsun.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.eveningsun.com\/#ht=Headerhome","News":"http:\/\/www.eveningsun.com\/news\/#ht=Headernews","Sports":"http:\/\/www.eveningsun.com\/sports\/#ht=Headersports","GameTimePA":"http:\/\/www.eveningsun.com\/gametimepa\/#ht=Headergametimepa","Business":"http:\/\/www.eveningsun.com\/business\/#ht=Headerbusiness","Lifestyle":"http:\/\/www.eveningsun.com\/lifestyle\/#ht=Headerlifestyle","FlipSidePA":"http:\/\/www.eveningsun.com\/things-to-do\/#ht=Headerthings-to-do","Opinion":"http:\/\/www.eveningsun.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/eveningsun\/#ht=Headerobituaries","Subscribe":"http:\/\/offers.eveningsun.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","USA Today":"http:\/\/www.eveningsun.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.eveningsun.com\/media\/latest\/news\/#ht=Headermedia","Jobs":"http:\/\/www.eveningsun.com\/marketplace\/jobs\/#ht=Headerjobs","More":"http:\/\/www.eveningsun.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>39.800598</Lat>
 	<Lng>-76.983002</Lng>
 	<ImgSiteName>eveningsun</ImgSiteName>
-	<SiteLinks>{"cars": "http://classifieds.eveningsun.com/category.php?place=Transportation&sites=HES","jobs": "http://www.pajobfinder.com","homes": "http://www.homesinyork.com/hanover","img": {"cars": "http://dev.mediaonepa.com/dcd/york_dcd_blank.gif","jobs": "http://dev.mediaonepa.com/dcd/york_dcd_jobs.gif","homes": "http://dev.mediaonepa.com/dcd/hanover_dcd_homes.gif"}}</SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://classifieds.eveningsun.com/category.php?place=Transportation&sites=HES","jobs": "http://www.pajobfinder.com","homes": "http://www.homesinyork.com/hanover","img": {"cars": "http://dev.mediaonepa.com/dcd/york_dcd_blank.gif","jobs": "http://dev.mediaonepa.com/dcd/york_dcd_jobs.gif","homes": "http://dev.mediaonepa.com/dcd/hanover_dcd_homes.gif"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

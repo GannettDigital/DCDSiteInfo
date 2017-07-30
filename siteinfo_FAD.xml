@@ -2,7 +2,7 @@
 	<SiteCode>FAD</SiteCode>
 	<SiteName>farmersadvance</SiteName>
 	<Url>classifieds.farmersadvance.com</Url>
-	<SiteUrl>http://www.farmersadvance.com/</SiteUrl>
+	<SiteUrl>http://www.farmersadvance.com</SiteUrl>
 	<BusName>Farmers Advance</BusName>
 	<Palette>92</Palette>
 	<SiteGroup>FAD</SiteGroup>
@@ -12,11 +12,11 @@
 	<DFP>oh-farmersadvance-C1020</DFP>
 	<DFPmobile>oh-farmersadvance-mobile-C1020</DFPmobile>
 	<Gpaper>gpaper221</Gpaper>
-	<TopLinks>{"Local":"http:\/\/www.farmersadvance.com\/#ht=Headerhome","Elections 2016":"http:\/\/www.farmersadvance.com\/section\/elections-2016\/#ht=Headerelections-2016","USA TODAY":"http:\/\/www.farmersadvance.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.farmersadvance.com#ht=Headertext"}</TopLinks>
-	<BottomLinks>{"Hot Ag News":"http:\/\/www.farmersadvance.com\/section\/NEWS","Ag Calendar":"http:\/\/www.farmersadvance.com\/section\/CALENDAR01","Auction Calendar":"http:\/\/www.farmersadvance.com\/section\/CALENDAR02","4H Calendar":"http:\/\/www.farmersadvance.com\/section\/CALENDAR03","Digital Ads":"http:\/\/www.farmersadvance.com\/legacy\/ads\/","Classifieds":"http:\/\/classifieds.farmersadvance.com\/","Help":"http:\/\/www.farmersadvance.com\/section\/customerservice03"}</BottomLinks>
+	<TopLinks><![CDATA[{"Local":"http:\/\/www.farmersadvance.com\/#ht=Headerhome","USA TODAY":"http:\/\/www.farmersadvance.com\/section\/global\/nation-now\/#ht=Headerusa-today","More":"http:\/\/www.farmersadvance.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[{"Hot Ag News":"http:\/\/www.farmersadvance.com\/section\/NEWS","Ag Calendar":"http:\/\/www.farmersadvance.com\/section\/CALENDAR01","Auction Calendar":"http:\/\/www.farmersadvance.com\/section\/CALENDAR02","4H Calendar":"http:\/\/www.farmersadvance.com\/section\/CALENDAR03","Digital Ads":"http:\/\/www.farmersadvance.com\/legacy\/ads\/","Classifieds":"http:\/\/classifieds.farmersadvance.com\/","Help":"http:\/\/www.farmersadvance.com\/section\/customerservice03"}]]></BottomLinks>
 	<Lat>41.752350</Lat>
 	<Lng>-84.753464</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

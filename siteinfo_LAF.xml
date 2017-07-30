@@ -3,7 +3,7 @@
 	<SiteName>jconline</SiteName>
 	<Url>classifieds.jconline.com</Url>
 	<SiteUrl>http://www.jconline.com/</SiteUrl>
-	<BusName>Journal and Courier</BusName>
+	<BusName>Journal &amp; Courier</BusName>
 	<Palette>92</Palette>
 	<SiteGroup>INI,MNI,RCH,LAF</SiteGroup>
 	<City>Lafayette</City>
@@ -12,11 +12,11 @@
 	<DFP>in-lafayette-C1048</DFP>
 	<DFPmobile>in-lafayette-mobile-C1048</DFPmobile>
 	<Gpaper>gpaper143</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.jconline.com\/#ht=Headerhome","News":"http:\/\/www.jconline.com\/news\/#ht=Headernews","Purdue":"http:\/\/www.jconline.com\/purdue\/#ht=Headerpurdue","Opinion":"http:\/\/www.jconline.com\/opinion\/#ht=Headeropinion","Sports":"http:\/\/www.jconline.com\/sports\/#ht=Headersports","Life":"http:\/\/www.jconline.com\/life\/#ht=Headerlife","Data":"http:\/\/www.jconline.com\/data\/#ht=Headerdata","Travel":"http:\/\/www.jconline.com\/travel\/#ht=Headertravel","Elections 2016":"http:\/\/www.jconline.com\/section\/global\/elections-2016\/#ht=Headerelections-2016","Obituaries":"http:\/\/www.legacy.com\/obituaries\/jconline\/#ht=Headerobituaries","Archives":"https:\/\/user.jconline.com\/PMUN-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http:\/\/jconline.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.jconline.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.jconline.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.jconline.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.jconline.com\/#ht=Headerhome","News":"http:\/\/www.jconline.com\/news\/#ht=Headernews","Purdue":"http:\/\/www.jconline.com\/purdue\/#ht=Headerpurdue","Opinion":"http:\/\/www.jconline.com\/opinion\/#ht=Headeropinion","Sports":"http:\/\/www.jconline.com\/sports\/#ht=Headersports","Life":"http:\/\/www.jconline.com\/life\/#ht=Headerlife","Data":"http:\/\/www.jconline.com\/data\/#ht=Headerdata","Travel":"http:\/\/www.jconline.com\/travel\/#ht=Headertravel","Obituaries":"http:\/\/www.legacy.com\/obituaries\/jconline\/#ht=Headerobituaries","Archives":"http:\/\/www.tkqlhce.com\/click-8189356-11570746?url=http:\/\/jconline.newspapers.com\/?xid=927#ht=Headerarchives","Insider":"http:\/\/www.jconline.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.jconline.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.jconline.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.jconline.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.jconline.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>40.416702</Lat>
 	<Lng>-86.875290</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.jconline.com/cars","jobs": "http://www.jconline.com/jobs","homes": "http://www.jconline.com/homes","img": {"cars": "http://classifieds.jconline.com/img/partners/130-cars.gif","jobs": "http://classifieds.jconline.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

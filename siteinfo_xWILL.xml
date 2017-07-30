@@ -2,7 +2,7 @@
 	<SiteCode>xWILL</SiteCode>
 	<SiteName>tennessean</SiteName>
 	<Url>classifieds.tennessean.com</Url>
-	<SiteUrl>http://www.montgomeryadvertiser.com/</SiteUrl>
+	<SiteUrl>http://www.tennessean.com/</SiteUrl>
 	<BusName>Williamson County</BusName>
 	<Palette>92</Palette>
 	<SiteGroup>MUR,JTN,CLR,NAS,xCCM,xDW,xDH,xFO,xGNE,xHST,xRCE,xSHT,xWILL</SiteGroup>
@@ -12,11 +12,11 @@
 	<DFP>tn-nashville-C1056</DFP>
 	<DFPmobile>tn-nashville-mobile-C1056</DFPmobile>
 	<Gpaper>gpaper151</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.montgomeryadvertiser.com\/#ht=Headerhome","News":"http:\/\/www.montgomeryadvertiser.com\/news\/#ht=Headernews","Sports":"http:\/\/www.montgomeryadvertiser.com\/sports\/#ht=Headersports","My Life":"http:\/\/www.montgomeryadvertiser.com\/my-life\/#ht=Headermy-life","Go Play - Entertainment":"http:\/\/www.montgomeryadvertiser.com\/go-play\/#ht=Headergo-play","Food & Drink":"http:\/\/www.montgomeryadvertiser.com\/food\/#ht=Headerfood","Opinion":"http:\/\/www.montgomeryadvertiser.com\/opinion\/#ht=Headeropinion","Blogs":"http:\/\/www.montgomeryadvertiser.com\/mgm-blogs\/#ht=Headerblogs","PODCASTS":"http:\/\/www.montgomeryadvertiser.com\/podcastcentral\/#ht=Headerpodcast-central","Obituaries":"http:\/\/www.legacy.com\/obituaries\/montgomeryadvertiser\/#ht=Headerobituaries","Archives":"https:\/\/user.montgomeryadvertiser.com\/PMOY-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fmontgomeryadvertiser.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.montgomeryadvertiser.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.montgomeryadvertiser.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.montgomeryadvertiser.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.tennessean.com\/#ht=Headerhome","News":"http:\/\/www.tennessean.com\/news\/#ht=Headernews","Counties":"http:\/\/www.tennessean.com\/counties\/#ht=Headercounties","Sports":"http:\/\/www.tennessean.com\/sports\/#ht=Headersports","Business":"http:\/\/www.tennessean.com\/business\/#ht=Headerbusiness","Things to Do":"http:\/\/www.tennessean.com\/thingstodo\/#ht=Headerthings_to_do","Dining":"http:\/\/www.tennessean.com\/dining\/#ht=Headerdining","Music":"http:\/\/www.tennessean.com\/music\/#ht=Headermusic","Life":"http:\/\/www.tennessean.com\/lifestyle\/#ht=Headerlifestyle","Opinion":"http:\/\/www.tennessean.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/tennessean\/#ht=Headerobituaries","Archives":"http:\/\/www.tkqlhce.com\/click-8144708-11570746?url=http:\/\/tennessean.newspapers.com\/?xid=562#ht=Headerarchives","E-Edition":"http:\/\/nashvilletennessean.tn.newsmemory.com\/#ht=Headere-edition","USA TODAY":"http:\/\/www.tennessean.com\/section\/global\/nation-now\/#ht=Headerusa-today","Insider":"http:\/\/www.tennessean.com\/insider\/#ht=Headerinsider","Media":"http:\/\/www.tennessean.com\/media\/latest\/news\/#ht=Headermedia","Policing the USA":"http:\/\/www.tennessean.com\/section\/global\/policing\/#ht=Headerpolicing","Games":"http:\/\/games.tennessean.com\/#ht=Headergames","Classifieds":"http:\/\/classifieds.tennessean.com\/index.php#ht=Headerclassifieds","Cars":"https:\/\/www.cars.com\/shopping\/nashville-tn\/#ht=Headercars","Jobs":"http:\/\/www.tennessean.com\/marketplace\/jobs\/#ht=Headerjobs","Local Public Notices":"http:\/\/classifieds.tennessean.com\/category.php?place=Public+Notices&amp;posit=Public+Notices&amp;sites=NAS#ht=Headerlocal-public-notices","USA TODAY NETWORK":"http:\/\/www.tennessean.com\/network\/#ht=Headerusatoday-network","TPA Public Notices":"http:\/\/www.publicnoticeads.com\/TN\/search\/searchnotices.asp#ht=Headertpa-public-notices","Homes":"http:\/\/www.tennessean.com\/business\/homes\/]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>36.166668</Lat>
 	<Lng>-86.783333</Lng>
 	<ImgSiteName>tennessean</ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

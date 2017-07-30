@@ -2,7 +2,7 @@
 	<SiteCode>IOW</SiteCode>
 	<SiteName>press-citizen</SiteName>
 	<Url>classifieds.press-citizen.com</Url>
-	<SiteUrl>http://www.press-citizen.com/</SiteUrl>
+	<SiteUrl>http://www.press-citizen.com</SiteUrl>
 	<BusName>The Press-Citizen</BusName>
 	<Palette>94</Palette>
 	<SiteGroup>IOW</SiteGroup>
@@ -12,11 +12,11 @@
 	<DFP>ia-iowacity-C1033</DFP>
 	<DFPmobile>ia-iowacity-mobile-C1033</DFPmobile>
 	<Gpaper>gpaper139</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.press-citizen.com\/#ht=Headerhome","News":"http:\/\/www.press-citizen.com\/news\/#ht=Headernews","Election 2016":"http:\/\/www.press-citizen.com\/elections-2016\/#ht=Headerelection-2016","Sports":"http:\/\/www.press-citizen.com\/sports\/#ht=Headersports","Go Iowa City":"http:\/\/www.press-citizen.com\/go-iowa-city\/#ht=Headergo-iowa-city","Opinion":"http:\/\/www.press-citizen.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/press-citizen\/#ht=Headerobituaries","Archives":"https:\/\/user.press-citizen.com\/PIOC-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fpress-citizen.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.press-citizen.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.press-citizen.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.press-citizen.com#ht=Headertext"}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.press-citizen.com\/#ht=Headerhome","News":"http:\/\/www.press-citizen.com\/news\/#ht=Headernews","Sports":"http:\/\/www.press-citizen.com\/sports\/#ht=Headersports","Go Iowa City":"http:\/\/www.press-citizen.com\/go-iowa-city\/#ht=Headergo-iowa-city","Opinion":"http:\/\/www.press-citizen.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/press-citizen\/#ht=Headerobituaries","EASTERN IOWA":"http:\/\/www.press-citizen.com\/eastern-iowa\/#ht=Headereastern-iowa","Archives":"http:\/\/press-citizen.newspapers.com\/?xid=1118#ht=Headerarchives","Insider":"http:\/\/www.press-citizen.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.press-citizen.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.press-citizen.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.press-citizen.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.press-citizen.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>41.661129</Lat>
 	<Lng>-91.530167</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.press-citizen.com/cars","jobs": "http://www.press-citizen.com/jobs","homes": "http://www.press-citizen.com/homes","img": {"cars": "http://classifieds.bucyrustelegraphforum.com/img/partners/130-cars.gif","jobs": "http://classifieds.press-citizen.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

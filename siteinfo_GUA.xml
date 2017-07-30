@@ -12,11 +12,11 @@
 	<DFP>gu-hagatna-C1030</DFP>
 	<DFPmobile>gu-hagatna-mobile-C1030</DFPmobile>
 	<Gpaper>gpaper134</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.guampdn.com\/#ht=Headerhome","News":"http:\/\/www.guampdn.com\/news\/#ht=Headernews","Obituaries":"http:\/\/www.guampdn.com\/obituaries\/#ht=Headerobituaries","Sports":"http:\/\/www.guampdn.com\/sports\/#ht=Headersports","Lifestyle":"http:\/\/www.guampdn.com\/lifestyle\/#ht=Headerlifestyle","Entertainment":"http:\/\/www.guampdn.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.guampdn.com\/opinion\/#ht=Headeropinion","USA TODAY":"http:\/\/www.guampdn.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.guampdn.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.guampdn.com#ht=Headertext"}</TopLinks>
-	<BottomLinks>{"News":"http:\/\/www.guampdn.com\/section\/news01","Entertainment":"http:\/\/www.guampdn.com\/section\/entertainment","Weather":"http:\/\/www.guampdn.com\/news\/weather\/index.html","Opinion":"http:\/\/www.guampdn.com\/section\/opinion","Obituaries":"http:\/\/www.guampdn.com\/obituaries","Lifestyle":"http:\/\/www.guampdn.com\/section\/lifestyle","Sports":"http:\/\/www.guampdn.com\/section\/sports","Help":"http:\/\/www.guampdn.com\/help"}</BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.guampdn.com\/#ht=Headerhome","News":"http:\/\/www.guampdn.com\/news\/#ht=Headernews","Obituaries":"http:\/\/www.guampdn.com\/obituaries\/#ht=Headerobituaries","Money":"http:\/\/www.guampdn.com\/money\/#ht=Headermoney","Lifestyle":"http:\/\/www.guampdn.com\/lifestyle\/#ht=Headerlifestyle","Sports":"http:\/\/www.guampdn.com\/sports\/#ht=Headersports","Entertainment":"http:\/\/www.guampdn.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.guampdn.com\/opinion\/#ht=Headeropinion","USA TODAY":"http:\/\/www.guampdn.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.guampdn.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.guampdn.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[{"News":"http:\/\/www.guampdn.com\/section\/news01","Entertainment":"http:\/\/www.guampdn.com\/section\/entertainment","Weather":"http:\/\/www.guampdn.com\/news\/weather\/index.html","Opinion":"http:\/\/www.guampdn.com\/section\/opinion","Obituaries":"http:\/\/www.guampdn.com\/obituaries","Lifestyle":"http:\/\/www.guampdn.com\/section\/lifestyle","Sports":"http:\/\/www.guampdn.com\/section\/sports","Help":"http:\/\/www.guampdn.com\/help"}]]></BottomLinks>
 	<Lat>13.470891</Lat>
 	<Lng>144.751282</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks>{"cars":false,"homes":false,"jobs":false}</SiteLinks>
+	<SiteLinks><![CDATA[{"cars":false,"homes":false,"jobs":false}]]></SiteLinks>
 	<TimeZone>Pacific/Guam</TimeZone>
 </siteinfo>

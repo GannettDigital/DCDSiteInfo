@@ -5,18 +5,18 @@
 	<SiteUrl>http://www.theleafchronicle.com/</SiteUrl>
 	<BusName>The Leaf Chronicle</BusName>
 	<Palette>92</Palette>
-	<SiteGroup>MUR,JTN,CLR,NAS</SiteGroup>
+	<SiteGroup>MUR,JTN,CLR,NAS,xCCM,xDW,xDH,xFO,xGNE,xHST,xRCE,xSHT,xWILL</SiteGroup>
 	<City>Clarksville</City>
 	<State>Tennessee</State>
 	<Domain>theleafchronicle.com</Domain>
 	<DFP>tn-clarksville-C1126</DFP>
 	<DFPmobile>tn-clarksville-mobile-C1126</DFPmobile>
 	<Gpaper>gpaper121</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.theleafchronicle.com\/#ht=Headerhome","News":"http:\/\/www.theleafchronicle.com\/news\/#ht=Headernews","Fort Campbell":"http:\/\/www.theleafchronicle.com\/fort-campbell\/#ht=Headerfort-campbell","Sports":"http:\/\/www.theleafchronicle.com\/sports\/#ht=Headersports","Living":"http:\/\/www.theleafchronicle.com\/living\/#ht=Headerliving","Obituaries":"http:\/\/www.legacy.com\/obituaries\/theleafchronicle\/#ht=Headerobituaries","Opinion":"http:\/\/www.theleafchronicle.com\/opinion\/#ht=Headeropinion","Photo-Video":"http:\/\/www.theleafchronicle.com\/media\/latest\/news\/#ht=Headerphoto-video","TPA PUBLIC NOTICES":"http:\/\/www.publicnoticeads.com\/tn\/search\/searchnotices.asp#ht=Headertpa-public-notices","Archives":"https:\/\/user.theleafchronicle.com\/PCLA-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Ftheleafchronicle.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.theleafchronicle.com\/section\/global\/nation-now\/ #ht=Headerusa-today","More":"http:\/\/www.theleafchronicle.com#ht=Headertext"}</TopLinks>
-	<BottomLinks>{"News":"http:\/\/www.theleafchronicle.com\/section\/news01","Communities":"http:\/\/www.theleafchronicle.com\/section\/neighborhoods","Sports":"http:\/\/www.theleafchronicle.com\/section\/sports","Opinion":"http:\/\/www.theleafchronicle.com\/section\/opinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/theleafchronicle\/","Living":"http:\/\/www.theleafchronicle.com\/section\/lifestyle","Multimedia":"http:\/\/www.theleafchronicle.com\/section\/VIDEONETWORK","Weather":"http:\/\/www.theleafchronicle.com\/weather","Help":"http:\/\/www.theleafchronicle.com\/help"}</BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.theleafchronicle.com\/#ht=Headerhome","News":"http:\/\/www.theleafchronicle.com\/news\/#ht=Headernews","Fort Campbell":"http:\/\/www.theleafchronicle.com\/fort-campbell\/#ht=Headerfort-campbell","Sports":"http:\/\/www.theleafchronicle.com\/sports\/#ht=Headersports","Living":"http:\/\/www.theleafchronicle.com\/living\/#ht=Headerliving","Obituaries":"http:\/\/www.legacy.com\/obituaries\/theleafchronicle\/#ht=Headerobituaries","Opinion":"http:\/\/www.theleafchronicle.com\/opinion\/#ht=Headeropinion","Photo-Video":"http:\/\/www.theleafchronicle.com\/media\/latest\/news\/#ht=Headerphoto-video","TPA PUBLIC NOTICES":"http:\/\/www.publicnoticeads.com\/tn\/search\/searchnotices.asp#ht=Headertpa-public-notices","Archives":"http:\/\/theleafchronicle.newspapers.com\/?xid=1245#ht=Headerarchives","Insider":"http:\/\/www.theleafchronicle.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.theleafchronicle.com\/section\/global\/nation-now\/ #ht=Headerusa-today","More":"http:\/\/www.theleafchronicle.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[{"News":"http:\/\/www.theleafchronicle.com\/section\/news01","Communities":"http:\/\/www.theleafchronicle.com\/section\/neighborhoods","Sports":"http:\/\/www.theleafchronicle.com\/section\/sports","Opinion":"http:\/\/www.theleafchronicle.com\/section\/opinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/theleafchronicle\/","Living":"http:\/\/www.theleafchronicle.com\/section\/lifestyle","Multimedia":"http:\/\/www.theleafchronicle.com\/section\/VIDEONETWORK","Weather":"http:\/\/www.theleafchronicle.com\/weather","Help":"http:\/\/www.theleafchronicle.com\/help"}]]></BottomLinks>
 	<Lat>36.529770</Lat>
 	<Lng>-87.359451</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.theleafchronicle.com/cars","jobs": "http://www.theleafchronicle.com/jobs","homes": "http://www.theleafchronicle.com/homes","img": {"cars": "http://classifieds.theleafchronicle.com/img/partners/130-cars.gif","jobs": "http://classifieds.theleafchronicle.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

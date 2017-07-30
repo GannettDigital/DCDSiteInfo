@@ -2,7 +2,7 @@
 	<SiteCode>QQO</SiteCode>
 	<SiteName>qqclassifieds</SiteName>
 	<Url>classifieds.qqclassifieds.com</Url>
-	<SiteUrl>http://www.qqclassifieds.com/</SiteUrl>
+	<SiteUrl>http://qqclassifieds.com/</SiteUrl>
 	<BusName>Quik Quarter</BusName>
 	<Palette>92</Palette>
 	<SiteGroup>QQO</SiteGroup>
@@ -12,11 +12,11 @@
 	<DFP>la-lafayette-C1529</DFP>
 	<DFPmobile>la-lafayette-mobile-C1529</DFPmobile>
 	<Gpaper>gpaper104</Gpaper>
-	<TopLinks>{s}</TopLinks>
-	<BottomLinks></BottomLinks>
+	<TopLinks><![CDATA[{s}]]></TopLinks>
+	<BottomLinks><![CDATA[]]></BottomLinks>
 	<Lat>30.224091</Lat>
 	<Lng>-92.019844</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks>{"cars": "","jobs": "","homes": "","img": {"cars": "","jobs": "","homes": ""}}</SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "","jobs": "","homes": "","img": {"cars": "","jobs": "","homes": ""}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

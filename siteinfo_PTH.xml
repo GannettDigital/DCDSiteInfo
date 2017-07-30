@@ -5,18 +5,18 @@
 	<SiteUrl>http://www.thetimesherald.com/</SiteUrl>
 	<BusName>The Times Herald</BusName>
 	<Palette>2</Palette>
-	<SiteGroup>PTH</SiteGroup>
+	<SiteGroup>DFP,LIV,LCP,LSJ,PTH,BCE</SiteGroup>
 	<City>Port Huron</City>
 	<State>Michigan</State>
 	<Domain>thetimesherald.com</Domain>
 	<DFP>mi-porthuron-C1067</DFP>
 	<DFPmobile>mi-porthuron-mobile-C1067</DFPmobile>
 	<Gpaper>gpaper160</Gpaper>
-	<TopLinks>{"Home":"http:\/\/www.thetimesherald.com\/#ht=Headerhome","News":"http:\/\/www.thetimesherald.com\/news\/#ht=Headernews","Elections 2016":"http:\/\/www.thetimesherald.com\/section\/elections-2016\/#ht=Headerelections-2016","Sports":"http:\/\/www.thetimesherald.com\/sports\/#ht=Headersports","Life":"http:\/\/www.thetimesherald.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.thetimesherald.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.thetimesherald.com\/opinion\/#ht=Headeropinion","Archives":"https:\/\/user.thetimesherald.com\/PPOH-GUP-NPARCHIVES\/user\/newspaper-archives\/?return-url=http%3A%2F%2Fthetimesherald.newspapers.com#ht=Headerarchives","USA TODAY":"http:\/\/www.thetimesherald.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.thetimesherald.com\/media\/latest\/news\/#ht=Headermedia","More":"http:\/\/www.thetimesherald.com#ht=Headertext"}</TopLinks>
-	<BottomLinks>{"News":"http:\/\/www.thetimesherald.com\/section\/news01","Communities":"http:\/\/www.thetimesherald.com\/section\/NEIGHBORHOODS","Sports":"http:\/\/www.thetimesherald.com\/section\/sports","Obituaries":"http:\/\/www.thetimesherald.com\/obituaries","Voices & Views":"http:\/\/www.thetimesherald.com\/section\/opinion","Lifestyle":"http:\/\/www.thetimesherald.com\/section\/lifestyle","Multimedia":"http:\/\/www.thetimesherald.com\/section\/galleriessectionfront","Help":"http:\/\/www.thetimesherald.com\/section\/customerservice"}</BottomLinks>
+	<TopLinks><![CDATA[{"Home":"http:\/\/www.thetimesherald.com\/#ht=Headerhome","News":"http:\/\/www.thetimesherald.com\/news\/#ht=Headernews","Sports":"http:\/\/www.thetimesherald.com\/sports\/#ht=Headersports","Life":"http:\/\/www.thetimesherald.com\/life\/#ht=Headerlife","Entertainment":"http:\/\/www.thetimesherald.com\/entertainment\/#ht=Headerentertainment","Opinion":"http:\/\/www.thetimesherald.com\/opinion\/#ht=Headeropinion","Archives":"http:\/\/thetimesherald.newspapers.com\/?xid=1235#ht=Headerarchives","Insider":"http:\/\/www.thetimesherald.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.thetimesherald.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.thetimesherald.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.thetimesherald.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.thetimesherald.com#ht=Headertext"}]]></TopLinks>
+	<BottomLinks><![CDATA[{"News":"http:\/\/www.thetimesherald.com\/section\/news01","Communities":"http:\/\/www.thetimesherald.com\/section\/NEIGHBORHOODS","Sports":"http:\/\/www.thetimesherald.com\/section\/sports","Obituaries":"http:\/\/www.thetimesherald.com\/obituaries","Voices & Views":"http:\/\/www.thetimesherald.com\/section\/opinion","Lifestyle":"http:\/\/www.thetimesherald.com\/section\/lifestyle","Multimedia":"http:\/\/www.thetimesherald.com\/section\/galleriessectionfront","Help":"http:\/\/www.thetimesherald.com\/section\/customerservice"}]]></BottomLinks>
 	<Lat>42.970863</Lat>
 	<Lng>-82.424911</Lng>
 	<ImgSiteName></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://www.thetimesherald.com/cars","jobs": "http://www.thetimesherald.com/jobs","homes": "http://www.thetimesherald.com/homes","img": {"cars": "http://classifieds.livingstondaily.com/img/partners/130-cars.gif","jobs": "http://classifieds.thetimesherald.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>
