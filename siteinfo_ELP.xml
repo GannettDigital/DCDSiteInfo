@@ -13,10 +13,10 @@
 	<DFPmobile>tx-elpaso-mobile-C1278</DFPmobile>
 	<Gpaper>gpaper300</Gpaper>
 	<TopLinks><![CDATA[{"Home":"http:\/\/www.elpasotimes.com\/#ht=Headerhome","News":"http:\/\/www.elpasotimes.com\/news\/#ht=Headernews","Sports":"http:\/\/www.elpasotimes.com\/sports\/#ht=Headersports","Business":"http:\/\/www.elpasotimes.com\/business\/#ht=Headerbusiness","Entertainment":"http:\/\/www.elpasotimes.com\/entertainment\/#ht=Headerentertainment","Lifestyle":"http:\/\/www.elpasotimes.com\/lifestyle\/#ht=Headerlifestyle","Opinion":"http:\/\/www.elpasotimes.com\/opinion\/#ht=Headeropinion","Homes":"http:\/\/www.elpasotimes.com\/marketplace\/real-estate\/#ht=Headerhomes","Obituaries":"http:\/\/www.legacy.com\/obituaries\/elpasotimes\/?source=Nav_Obits#ht=Headerobituaries","Insider":"http:\/\/www.elpasotimes.com\/insider\/#ht=Headerinsider","USA TODAY":"http:\/\/www.elpasotimes.com\/section\/global\/nation-now\/#ht=Headerusa-today","Photo & Video":"http:\/\/www.elpasotimes.com\/media\/latest\/news\/#ht=Headerphoto-video","Subscribe":"http:\/\/offers.elpasotimes.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","Advertise with Us":"http:\/\/www.elpasotimes.com\/pages\/interactives\/advertise\/#ht=Headeradvertise-with-us","More":"http:\/\/www.elpasotimes.com#ht=Headertext"}]]></TopLinks>
-	<BottomLinks><![CDATA[]]></BottomLinks>
+	<BottomLinks></BottomLinks>
 	<Lat>31.755301</Lat>
 	<Lng>-106.493202</Lng>
 	<ImgSiteName>elpasotimes</ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://www.texasdrives.com","jobs": "http://www.elpasotimes.com/marketplace/jobs","homes": "http://www.elpasotimes.com/marketplace/real-estate","img": {"cars": "http://production.elpasotimes.net/Logos/TexasDrives.gif","jobs": "http://classifieds.elpasotimes.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
+	<SiteLinks><![CDATA[{"cars":"http://www.texasdrives.com","jobs":"http://www.elpasotimes.com/marketplace/jobs","homes":"http://www.elpasotimes.com/marketplace/real-estate","img":{"cars": "http://production.elpasotimes.net/Logos/TexasDrives.gif","jobs":"http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png","homes":"http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

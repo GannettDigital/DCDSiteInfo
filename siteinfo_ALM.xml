@@ -13,10 +13,10 @@
 	<DFPmobile>nm-alamogordo-mobile-C1281</DFPmobile>
 	<Gpaper>gpaper310</Gpaper>
 	<TopLinks><![CDATA[{"Home":"http:\/\/www.alamogordonews.com\/#ht=Headerhome","News":"http:\/\/www.alamogordonews.com\/news\/#ht=Headernews","Sports":"http:\/\/www.alamogordonews.com\/sports\/#ht=Headersports","Lifestyle":"http:\/\/www.alamogordonews.com\/lifestyle\/#ht=Headerlifestyle","Opinion":"http:\/\/www.alamogordonews.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/alamogordonews\/#ht=Headerobituaries","Homes":"http:\/\/www.alamogordonews.com\/marketplace\/real-estate\/#ht=Headerhomes","Hollogram":"http:\/\/www.alamogordonews.com\/news\/hollogram\/#ht=Headerhollogram","Insider":"http:\/\/www.alamogordonews.com\/insider\/#ht=Headerinsider","USA Today":"http:\/\/www.alamogordonews.com\/section\/global\/nation-now\/#ht=Headerusa-today","media":"http:\/\/www.alamogordonews.com\/media\/latest\/home\/#ht=Headermedia","Subscribe":"http:\/\/offers.alamogordonews.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.alamogordonews.com#ht=Headertext"}]]></TopLinks>
-	<BottomLinks><![CDATA[]]></BottomLinks>
+	<BottomLinks></BottomLinks>
 	<Lat>32.918499</Lat>
 	<Lng>-105.955002</Lng>
 	<ImgSiteName>alamogordonews</ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://www.newmexicodrives.com","jobs": "http://www.alamogordonews.com/marketplace/jobs","homes": "http://www.alamogordonews.com/marketplace/real-estate","img": {"cars": "http://production.elpasotimes.net/Logos/NMDrives.gif","jobs": "http://classifieds.alamogordonews.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
+    <SiteLinks><![CDATA[{"cars":"http://www.newmexicodrives.com","jobs":"http://www.alamogordonews.com/marketplace/jobs","homes":"http://www.alamogordonews.com/marketplace/real-estate","img":{"cars": "http://production.elpasotimes.net/Logos/NMDrives.gif","jobs":"http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png","homes":"http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>

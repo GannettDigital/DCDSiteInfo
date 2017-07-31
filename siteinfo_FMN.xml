@@ -13,10 +13,10 @@
 	<DFPmobile>nm-farmington-mobile-C1279</DFPmobile>
 	<Gpaper>gpaper301</Gpaper>
 	<TopLinks><![CDATA[{"Home":"http:\/\/www.daily-times.com\/#ht=Headerhome","News":"http:\/\/www.daily-times.com\/news\/#ht=Headernews","Sports":"http:\/\/www.daily-times.com\/sports\/#ht=Headersports","Business":"http:\/\/www.daily-times.com\/business\/#ht=Headerbusiness","Entertainment":"http:\/\/www.daily-times.com\/entertainment\/#ht=Headerentertainment","Lifestyle":"http:\/\/www.daily-times.com\/lifestyle\/#ht=Headerlifestyle","Opinion":"http:\/\/www.daily-times.com\/opinion\/#ht=Headeropinion","Obituaries":"http:\/\/www.legacy.com\/obituaries\/daily-times\/#ht=Headerobituaries","Homes":"http:\/\/www.daily-times.com\/marketplace\/real-estate\/#ht=Headerhomes","Insider":"http:\/\/www.daily-times.com\/insider\/#ht=Headerinsider","USA Today":"http:\/\/www.daily-times.com\/section\/global\/nation-now\/#ht=Headerusa-today","Media":"http:\/\/www.daily-times.com\/media\/latest\/news\/#ht=Headermedia","Subscribe":"http:\/\/offers.daily-times.com\/specialoffer?gps-source=CPTOPNAVBAR&amp;utm_medium=onsite&amp;utm_source=topnavbar&amp;utm_campaign=specialoffer#ht=Headersubscribe","More":"http:\/\/www.daily-times.com#ht=Headertext"}]]></TopLinks>
-	<BottomLinks><![CDATA[]]></BottomLinks>
+	<BottomLinks></BottomLinks>
 	<Lat>36.728699</Lat>
 	<Lng>-108.206902</Lng>
 	<ImgSiteName>daily-times</ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://www.newmexicodrives.com","jobs": "http://www.daily-times.com/marketplace/jobs","homes": "http://www.daily-times.com/marketplace/real-estate","img": {"cars": "http://production.elpasotimes.net/Logos/NMDrives.gif","jobs": "http://classifieds.daily-times.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
+    <SiteLinks><![CDATA[{"cars":"http://www.newmexicodrives.com","jobs":"http://www.daily-times.com/marketplace/jobs","homes":"http://www.daily-times.com/marketplace/real-estate","img":{"cars": "http://production.elpasotimes.net/Logos/NMDrives.gif","jobs":"http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png","homes":"http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>
