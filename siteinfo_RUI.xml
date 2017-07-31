@@ -13,10 +13,10 @@
 	<DFPmobile>nm-ruidoso-mobile-C1283</DFPmobile>
 	<Gpaper>gpaper312</Gpaper>
 	<TopLinks><![CDATA[{"Home":"http:\/\/www.ruidosonews.com\/#ht=Headerhome","News":"http:\/\/www.ruidosonews.com\/news\/#ht=Headernews","Sports":"http:\/\/www.ruidosonews.com\/sports\/#ht=Headersports","Entertainment":"http:\/\/www.ruidosonews.com\/entertainment\/#ht=Headerentertainment","Local Life":"http:\/\/www.ruidosonews.com\/local-life\/#ht=Headerlocal-life","Obituaries":"http:\/\/www.legacy.com\/obituaries\/ruidosonews\/#ht=Headerobituaries","Homes":"http:\/\/www.ruidosonews.com\/marketplace\/real-estate\/#ht=Headerhomes","Vamonos":"http:\/\/www.ruidosonews.com\/news\/vamonos#ht=Headervamonos","USA Today":"http:\/\/www.ruidosonews.com\/section\/global\/nation-now\/#ht=Headerusa-today","media":"http:\/\/www.ruidosonews.com\/media\/latest\/home\/#ht=Headermedia","More":"http:\/\/www.ruidosonews.com#ht=Headertext"}]]></TopLinks>
-	<BottomLinks><![CDATA[]]></BottomLinks>
+	<BottomLinks></BottomLinks>
 	<Lat>33.328300</Lat>
 	<Lng>-105.662903</Lng>
 	<ImgSiteName>ruidosonews</ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://www.newmexicodrives.com","jobs": "http://www.ruidosonews.com/marketplace/jobs","homes": "http://www.ruidosonews.com/marketplace/real-estate","img": {"cars": "http://production.elpasotimes.net/Logos/NMDrives.gif","jobs": "http://classifieds.ruidosonews.com/img/partners/130-careerbuilder.gif","homes": "http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
+    <SiteLinks><![CDATA[{"cars":"http://www.newmexicodrives.com","jobs":"http://www.ruidosonews.com/marketplace/jobs","homes":"http://www.ruidosonews.com/marketplace/real-estate","img":{"cars": "http://production.elpasotimes.net/Logos/NMDrives.gif","jobs":"http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png","homes":"http://www.gannett-cdn.com/media/2016/08/24/Salisbury/Salisbury/636076227581909839-placesterhomes-130x60.png"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>
