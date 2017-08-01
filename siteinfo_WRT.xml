@@ -16,7 +16,7 @@
 	<BottomLinks><![CDATA[{"News":"http:\/\/www.wisconsinrapidstribune.com\/section\/wrt01","Sports":"http:\/\/www.wisconsinrapidstribune.com\/section\/wrt02","Business":"http:\/\/www.wisconsinrapidstribune.com\/section\/wrt03","Opinion":"http:\/\/www.wisconsinrapidstribune.com\/section\/wrt06","Video\/Photos":"http:\/\/www.wisconsinrapidstribune.com\/section\/permgall","Entertainment":"http:\/\/www.centralwisconsinhub.com","Life":"http:\/\/www.wisconsinrapidstribune.com\/section\/wrt04","Obits\/Records":"http:\/\/www.legacy.com\/obituaries\/wisconsinrapidstribune\/","Help":"http:\/\/www.wisconsinrapidstribune.com\/section\/help"}]]></BottomLinks>
 	<Lat>44.383575</Lat>
 	<Lng>-89.817345</Lng>
-	<ImgSiteName><![CDATA[{jobs:http://www.wisconsinrapidstribune.com/jobs,homes:http://www.wisconsinrapidstribune.com/homes,img:{jobs:http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png,homes:http://www.gannett-cdn.com/media/2017/02/09/LAGroup/LafayetteLA/636222536306692696-placesterhomefinder-130x60.jpg.jpeg}}]]></ImgSiteName>
-	<SiteLinks></SiteLinks>
+	<ImgSiteName></ImgSiteName>
+	<SiteLinks><![CDATA[{jobs:http://www.wisconsinrapidstribune.com/jobs,homes:http://www.wisconsinrapidstribune.com/homes,img:{jobs:http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png,homes:http://www.gannett-cdn.com/media/2017/02/09/LAGroup/LafayetteLA/636222536306692696-placesterhomefinder-130x60.jpg.jpeg}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>
