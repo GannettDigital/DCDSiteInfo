@@ -17,6 +17,6 @@
 	<Lat>39.937500</Lat>
 	<Lng>-77.661102</Lng>
 	<ImgSiteName>publicopiniononline</ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://classifieds.publicopiniononline.com/category.php?place=Transportation&sites=CPO","jobs": "http://www.publicopiniononline.com/marketplace/jobs/","homes": "http://www.homesinyork.com/chambersburg","img": {"cars": "http://dev.mediaonepa.com/dcd/chambersburg_dcd_cars.gif","jobs": "http://dev.mediaonepa.com/dcd/chambersburg_dcd_jobs.gif","homes": "http://dev.mediaonepa.com/dcd/chambersburg_dcd_homes.gif"}}]]></SiteLinks>
+	<SiteLinks><![CDATA[{cars:http://classifieds.publicopiniononline.com/category.php?place=Transportation&sites=CPO,jobs:http://www.publicopiniononline.com/jobs/,homes:http://www.homesinyork.com/chambersburg,img,{cars: http://dev.mediaonepa.com/dcd/chambersburg_dcd_cars.gif,jobs:http://www.gannett-cdn.com/media/2017/07/28/USATODAY/USATODAY/636368557858677430-130-thejobsnetwork.png,homes:http://dev.mediaonepa.com/dcd/chambersburg_dcd_homes.gif}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>
