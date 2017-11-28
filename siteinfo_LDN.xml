@@ -17,6 +17,6 @@
 	<Lat>40.330399</Lat>
 	<Lng>-76.422600</Lng>
 	<ImgSiteName>ldnews</ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://classifieds.ldnews.com/category.php?place=Transportation&sites=LDN","jobs": "http://www.ldnews.com/marketplace/jobs","homes": "http://www.homesinyork.com/lebanon","img": {"cars": "http://dev.mediaonepa.com/dcd/york_dcd_blank.gif","jobs": "http://classifieds.app.com/img/partners/130-RM.png","homes": "http://dev.mediaonepa.com/dcd/lebanon_dcd_homes.gif"}}]]></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://classifieds.ldnews.com/category.php?place=Transportation&sites=LDN","jobs": "http://www.ldnews.com/marketplace/jobs","homes": "http://www.homesinyork.com/lebanon","img": {"cars": "http://dev.mediaonepa.com/dcd/york_dcd_blank.gif","jobs": "http://classifieds.ldnews.com/img/partners/130-RM.png","homes": "http://dev.mediaonepa.com/dcd/lebanon_dcd_homes.gif"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>
