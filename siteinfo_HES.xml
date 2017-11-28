@@ -17,6 +17,6 @@
 	<Lat>39.800598</Lat>
 	<Lng>-76.983002</Lng>
 	<ImgSiteName>eveningsun</ImgSiteName>
-	<SiteLinks><![CDATA[{"cars": "http://classifieds.eveningsun.com/category.php?place=Transportation&sites=HES","jobs": "http://www.pajobfinder.com","homes": "http://www.homesinyork.com/hanover","img": {"cars": "http://dev.mediaonepa.com/dcd/york_dcd_blank.gif","jobs": "http://dev.mediaonepa.com/dcd/york_dcd_jobs.gif","homes": "http://dev.mediaonepa.com/dcd/hanover_dcd_homes.gif"}}]]></SiteLinks>
+	<SiteLinks><![CDATA[{"cars": "http://classifieds.eveningsun.com/category.php?place=Transportation&sites=HES","jobs": "http://www.eveningsun.com/marketplace/jobs/","homes": "http://www.homesinyork.com/hanover","img": {"cars": "http://dev.mediaonepa.com/dcd/york_dcd_blank.gif","jobs": "http://classifieds.eveningsun.com/img/partners/130-RM.png","homes": "http://dev.mediaonepa.com/dcd/hanover_dcd_homes.gif"}}]]></SiteLinks>
 	<TimeZone></TimeZone>
 </siteinfo>
